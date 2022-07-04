@@ -1,0 +1,106 @@
+				===========================================================
+					Data Extraction Devloper for Social Media
+				===========================================================
+
+
+
+===== Job 1 =====
+Scrape emails form twitter accounts - Upwork
+Data Extraction
+Sun Nov 28 2021 19:49:10 (15 hours)
+
+hi there. looking for someone to scrape some Twitter accounts to collect email address.
+not sure how many names as yet but will need to populate an excel sheet with names and emails
+
+Hourly Range: $3.00-$5.00
+Posted On: November 29, 2021 03:49 UTC
+Category: Data Extraction
+Skills:Data Scraping
+Country: United Kingdom
+--------------------------------------------------------
+
+
+
+===== Job 2 =====
+Tinder scraping of single locals - Upwork
+Data Extraction
+Sun Nov 28 2021 18:07:02 (17 hours)
+
+Need someone to scrape a list of 100 females in the city of Berlin, Germany that are on Tinder.
+I need their first and last name and Instagram accounts in the bio.
+
+Budget: $15
+Posted On: November 29, 2021 02:07 UTC
+Category: Data Extraction
+Skills:Data Scraping, Python
+Country: Germany
+----------------------------------------------------------
+
+
+
+===== Job 3 =====
+Telegram Scrapper Required - Upwork
+Data Extraction
+Sun Nov 28 2021 16:09:47 (19 hours)
+
+Require a data scrapper to scrap users from a number of Telegram channels
+to add to my telegram channel. Details of channels to be provided upon contract.
+
+Hourly Range: $9.00-$28.00
+Posted On: November 29, 2021 00:09 UTC
+Category: Data Extraction
+Skills:Data Scraping
+Country: United Kingdom
+-------------------------------------------------------
+
+
+
+===== Job 4 =====
+Scrape Data from Facebook Groups and Linkedin - Upwork
+Data Extraction
+Sun Nov 28 2021 06:53:20 (1 day)
+
+We are looking to scrape names, email addresses and possible information of members on facebook groups.
+Previous experience is mandatory and all people scraped should be members of the group. Basic data cleansing post scraping is required.
+
+Hourly Range: $20.00-$40.00
+Posted On: November 28, 2021 14:53 UTC
+Category: Data Extraction
+Skills:Python, SQL, PHP, Data Scraping, Data Extraction, Growth Hacking, Web Crawling, LinkedIn, Lead Generation, Facebook
+Country: United States
+-------------------------------------------------------
+
+
+
+===== Job 5 =====
+Create Bot to Scrape IG Descriptions - Upwork
+Script Automation
+Mon Nov 29 2021 21:20:52 (19 hours)
+
+We are looking for someone to create a bot that will check for changes to the description of Instagram profiles.
+Specifically it will check thousands of IG profiles, and notify us if there were any changes to the description of the IG profile.
+
+Posted On: November 30, 2021 05:20 UTC
+Category: Scripting & Automation
+Skills:Scraper
+Country: United States
+---------------------------------------------------------
+
+
+===== Job 6 =====
+Libnkedin data Mining - Upwork
+Data Mining
+Sun Nov 28 2021 11:58:21 (2 days)
+
+I Have a list of Contacts and their work Email. I Need their Data like, title, previous role, skills, research gate profile from linkedi
+I need this to be done in next 30 hours.
+Feel free to contact
+
+
+Budget: $20
+Posted On: November 28, 2021 19:58 UTC
+Category: Data Mining
+Skills:Data Mining, Data Scraping, Microsoft Excel, Data Entry
+Country: United States
+---------------------------------------------------------
+

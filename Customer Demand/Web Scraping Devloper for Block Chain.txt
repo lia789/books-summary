@@ -1,0 +1,24 @@
+				=====================================================
+					Web Scraping Devloper for Block Chain
+				=====================================================
+
+
+
+
+===== Job 1 =====
+Opensea/NFT Token ID list - Upwork
+Data Extraction
+Sun Nov 28 2021 13:50:31 (22 hours)
+
+
+Hi,
+I need someone to help me extract the token ID of an NFT collection on Opensea,
+The collection has around 100000 items in its collection and the token IDs are not in sequential order.
+I can provide more details after
+
+Budget: $200
+Posted On: November 28, 2021 21:50 UTC
+Category: Data Extraction
+Skills:API, Blockchain
+Country: Australia
+----------------------------------------------

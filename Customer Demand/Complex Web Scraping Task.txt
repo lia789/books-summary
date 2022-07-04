@@ -1,0 +1,358 @@
+			====================================================
+				Web Scraping Devloper for Complex Task
+			====================================================
+
+
+
+===== Job 1 =====
+Amazon and EBay order web scrape to CRM - Upwork
+Data Extraction
+Sun Nov 28 2021 13:45:29 (22 hours)
+
+
+Fix a broken eBay and Amazon web scrape api to import orders to a custom built CRM
+
+Budget: $100
+Posted On: November 28, 2021 21:45 UTC
+Category: Data Extraction
+Skills:Data Scraping, API, PHP
+Country: United Kingdom
+--------------------------------------------------------
+
+
+===== Job 2 =====
+Smart contract data collection - Upwork
+Data Extraction
+Sun Nov 28 2021 05:49:11 (1 day)
+
+I'm looking for a full stack developer who has experience working with scraping smart contract data from various api endpoints
+eg. https://docs.bscscan.com/
+the application will take a contract or transaction as input
+we will then extract details to a database (for further analysis later)
+- full description and scope of each phase of the project will be discussed in next steps
+
+
+Budget: $200
+Posted On: November 28, 2021 13:49 UTC
+Category: Data Extraction
+Skills:API Integration, Data Scraping, React, Database
+Country: United Kingdom
+-----------------------------------------------------
+
+
+
+===== Job 3 =====
+Daily Data Crawler Feed - Upwork
+Data Extraction
+Tue Nov 30 2021 00:20:23 (14 hours)
+
+
+You will need to develop a simple system which provides daily data extractions from a classifieds-style website which has medium/high security.
+Please have experience bypassing these systems, otherwise it will not work.
+All we need is 1x daily email CSV, which contains the information we need.
+If the first project is a success, we will expand this to cover additional websites.
+
+
+Budget: $500
+Posted On: November 30, 2021 08:20 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Mining, Data Extraction
+Country: Australia
+--------------------------------------------------------------------
+
+
+===== Job 4 =====
+Property Flyer PDF Data Scraper - Upwork
+Data Extraction
+Mon Nov 29 2021 21:17:46 (17 hours)
+
+
+Looking to build a scraper that can extract key information from PDF's of property marketing flyers for commercial real estate. 
+Scraper must be compatible with a SQL development stack.  PDF's may also not be uniform so use of fuzzy logic may be required. 
+Example of a PDF is attached.  The goal is to have the scraper run daily.
+Required Experience
+-  Experience with PDF scraper tools
+-  Working experience with SQL and React/Node architecture
+-  Coding in JSON and Javascript
+-  Building scraper tools at scale
+-  Experience in making architectural recommendations
+-  Prior experience with real estate jargon is a plus
+To be a best fit for this project you need:
+-  Ability to communicate clearly
+-  Dedication to meet project deadlines in a timely manner
+-  Proficiency in English and ideally familiarity with real estate terms
+-  Write “I am a human” at the top of your proposal
+-  Attention to details
+-  Willingness to sign an NDA
+If you are interested in this project, please reply with your prior experience in addition to answers to the screening questions below.
+
+
+
+Hourly Range: $5.00-$20.00
+Posted On: November 30, 2021 05:17 UTC
+Category: Data Extraction
+Skills:API Integration, PDF, Microsoft Excel, PDF Conversion, Data Scraping, Data Entry, Data Mining, Data Extraction, Python
+Country: United States
+---------------------------------------------------------------------
+
+
+
+===== Job 5 =====
+Scrape and Organize Website Data - Upwork
+Data Extraction
+Mon Nov 29 2021 20:48:04 (18 hours)
+
+
+I am looking for someone to scrape data from one website and then organize it in an Excel spreadsheet (or any storage method that makes sense)
+From the website, there is 1 column of information I am interested in, this column will need to be scraped periodically and the values stored for reference.
+The exact scope:
+Go to Opencnft.io
+Scrape data from the 'Floor Price' Column
+Compile this in a format such that you can track % changes in this column over time (24 hours, 7 days etc)
+Should be pretty straightforward. Please respond with the following:
+1. How you plan to solve the problem
+2. How long you think it will take
+3. Your favorite flavour of ice cream
+I am looking to hire right away, please respond quickly.
+Thanks!
+
+Hourly Range: $5.00-$15.00
+Posted On: November 30, 2021 04:48 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Mining, Microsoft Excel
+Country: Canada
+----------------------------------------------------------------
+
+
+===== Job 6 ======
+Web scraping expert needed! - Upwork
+Data Extraction
+Mon Nov 29 2021 09:50:51 (1 day)
+
+We want to automate an internal process by pulling data from online sources like LinkedIn and Crunchbase, according to specific parameters,
+and to highlight companies or people that fit those specific parameters (potentially cross-referencing with other sources like Affinity CRM).
+Below is an example of the kind of searches (at the company level) we would want to automate on LinkedIn and pull to our database:
+Agnostic Israel Pre-Seed 1-10 employees
+Geography: Israel
+Industry:
+-Internet
+-Computer Software
+-Information Technology and Services
+Company Headcount
+-1-10
+We would want to take any leads that come up, check if they are already part of our database in Affinity (a standard CRM),
+and if they are not, escalate those leads (either directly into our Affinity CRM or into a dedicated google sheet).
+
+Budget: $150
+Posted On: November 29, 2021 17:50 UTC
+Category: Data Extraction
+Skills:SQL, Data Scraping, Python, JavaScript, Web Crawling
+Country: Israel
+------------------------------------------------------------------------
+
+
+===== Job 7 =====
+Scrape leboncoin.fr - Upwork
+Data Extraction
+Mon Nov 29 2021 07:53:17 (1 day)
+
+I've a project to do a daily scraping of all the ads of leboncoin.fr, for the sections &quot;locations&quot;
+(https://www.leboncoin.fr/locations/offres) and &quot;colocations&quot; (https://www.leboncoin.fr/colocations/offres).
+The website have strong anti scraping technologies (like Datadome and captcha).
+How much would it cost to do the settings ? And after this to how much the process would cost each month ?
+The number of daily posted ads is huge (between 10 000 to 25 000) so you could scrape the website by regions instead of selecting all the country.
+
+
+Budget: $258
+Posted On: November 29, 2021 15:53 UTC
+Category: Data Extraction
+Skills:Data Scraping, Python, API
+Country: France
+------------------------------------------------------
+
+
+===== Job 8 =====
+Scraping BOT for Amazon listing drop-down to provide accurate vehicle data - Upwork
+Data Extraction
+Mon Nov 29 2021 04:49:45 (1 day)
+
+At the top of this Amazon listing, is the ability to check if LED headlights will match your vehicle.  
+For example:
+https://www.amazon.com/SEALIGHT-Headlight-Bulbs-Package-6000LM/dp/B07K438ZQD
+From the dropdown you have to enter a new vehicle and then select:
+Year
+Make
+Model
+Then click to 'confirm'
+If the vehicle fits a message will appear. If it does not fit, then the message is that it does not fit.
+We need a BOT that will check every vehicle within the following listing and tell us if the vehicle does fit.   
+We need an excel sheet for each LED bulb model with columns showing the vehicle 'Make, Model and Year' that fits.
+These are the following LED Headlights that we want to check:
+H7 LED bulbs:  
+https://www.amazon.com/Aukee-Headlight-Lumens-Extremely-Conversion/dp/B07FRC77GX
+9012 LED bulbs:
+https://amazon.com/Fahren-9012-Headlights-Conversion-Waterproof/dp/B082KRN5DY/
+9004  LED bulbs:
+https://www.amazon.com/Headlight-leppein-24xCREE-Conversion-Replacement-1/dp/B07QNNH28X
+9145 LED Fog Light bulbs:
+https://amazon.com/Alla-Lighting-Newest-Version-Replacement/dp/B07S9H6WNR
+Please show an example of how and what you will do.  I don't want time wasted!
+
+Budget: $150
+Posted On: November 29, 2021 12:49 UTC
+Category: Data Extraction
+Skills:API Integration, Data Scraping, Data Science, Data Mining, Web Crawling, ScrapeBox, Scraper
+Country: United Kingdom
+---------------------------------------------------------
+
+
+===== Job 9 =====
+Help with some python / selenium scripts - Upwork
+Script Automation
+Tue Nov 30 2021 02:44:30 (14 hours)
+
+
+Hi,
+I am trying to build a few bots in Python/Selenium, which the basics are working fine.
+But at the moment stuck with some stuff and need someone who can guide/help me how to solve it.
+This is not just a regular job to build a bot, its more a job to help me building the bot and explaining what to do. So for this case it's important that you speak english fluently.
+It's marked as a single job, but probably it will be a few times per month where i need some help in developing bots.
+Thanks!
+
+Hourly Range: $10.00-$15.00
+Posted On: November 30, 2021 10:44 UTC
+Category: Scripting & Automation
+Skills:Selenium, Python, Selenium WebDriver, Automation
+Country: Netherlands
+-------------------------------------------------
+
+
+===== Job 10 =====
+Weather data scrapper - Upwork
+Script Automation
+Tue Nov 30 2021 02:03:53 (14 hours)
+
+
+The objective of the mission is to create a scrapper with Python (bs4) that accepts as arguments :
+- a location (a city)
+- a date
+And returns a dictionary with all the information available in the &quot;summary&quot; block on the wunderground website.
+So, for example, by entering the variable &quot;Las Vegas&quot; and the date of October 30, 2021, the scrapper must return a Python dictionary with all the information contained in the summary block:
+https://www.wunderground.com/history/daily/KVGT/date/2021-10-30
+The script will be integrated into another script, so I don't need the ability to run it through the command prompt. In the end, I need to be able to put two arguments in the final function: city and date.
+Price for the mission: $5
+
+
+Budget: $5
+Posted On: November 30, 2021 10:03 UTC
+Category: Scripting & Automation
+Skills:Beautiful Soup, Selenium, Python, Data Scraping, Data Mining
+Country: France
+--------------------------------------------------------
+
+
+===== Job 11 =====
+Script for scraping with simple UI - Upwork
+Script Automation
+Tue Nov 30 2021 01:41:45 (15 hours)
+
+We need a script that will scrape Top apps page from Appannie website, and scrape data from app profile, save it to mysql database.
+We need to have all information that present there about an app, and save date ranking. Also we need simple UI to search for data in this DB. List of fields you can see here: https://peppered-postbox-922.notion.site/Table-1baea181ba954af183b36ba06c161add
+And UI wireframe here https://jumpshare.com/v/AkZea7WsKBKkK9fUpYCb
+
+Budget: $200
+Posted On: November 30, 2021 09:41 UTC
+Category: Scripting & Automation
+Skills:Data Scraping
+Country: United Kingdom
+-----------------------------------------------------
+
+
+
+===== Job 12 =====
+Need to Develop a tool for email extraction from websites - Upwork
+Script Automation
+Tue Nov 30 2021 01:21:32 (15 hours)
+
+I need to develop a tool which runs on a server, where I upload a list of websites.
+The tool will browse the entire websites from the list and collect their contact email ids and export the entries in a Google sheet.
+
+Budget: $80
+Posted On: November 30, 2021 09:21 UTC
+Category: Scripting & Automation
+Skills:Data Scraping
+Country: United States
+-----------------------------------------------------
+
+
+
+===== Job 13 =====
+Python Developer Bot/Scripting - Upwork
+Script Automation
+Mon Nov 29 2021 19:22:08 (22 hours)
+
+I have a script already. I need someone to come in and make edits to the script and continue to move it closer to the final needed outputs. Your code will need to be clean so that others can continue with your work.
+Be ready to read and understand the code and add to it quickly.
+THIS JOB WILL LAST ABOUT 10 DAYS AND PAY IS $3/hr.
+
+Hourly Range: $3.00
+Posted On: November 30, 2021 03:22 UTC
+Category: Scripting & Automation
+Skills:Python, Python Script, API, Scripting, Automation, Bot Development
+Country: United States
+----------------------------------------------------
+
+
+===== Job 14 =====
+Need a developed to fix Python scraping script to pass Cloudflare bot verification - Upwork
+Script Automation
+Mon Nov 29 2021 08:55:17 (1 day)
+
+I have a small scraping script in Python (~40 lines) that uses requests for data scraping.
+It is working fine, but now the website introduced Cloudflare bot checks to prevent scraping. 
+Need a developer to fix the script to be able to deal with it.
+
+Budget: $20
+Posted On: November 29, 2021 16:55 UTC
+Category: Scripting & Automation
+Skills:Python, Data Scraping, Automation
+Country: Russia
+-----------------------------------------------------
+
+
+
+===== Job 15 =====
+Purchase Bot w/ Letter Captcha Bypass - Upwork
+Script Automation
+Sun Nov 28 2021 22:55:58 (1 day)
+
+Need a bot that scans the marketplace every few seconds, then buys mispriced items on a web game marketplace. 
+The website has a (easier to read, non picture) captcha when you want to purchase the item, so the bot will need to be able to bypass that.
+
+Hourly Range: $5.00-$20.00
+Posted On: November 29, 2021 06:55 UTC
+Category: Scripting & Automation
+Skills:Bot Development
+Country: United States
+--------------------------------------------------------
+
+
+===== Job 16 =====
+Web Scraping Script - Upwork
+Script Automation
+Sun Nov 28 2021 18:42:20 (1 day)
+
+Hello,
+I am looking for someone who can make a script that fetches data and copy into excel file.
+I used to have a script that was built on node.js but since they have implement cloudflare on there website it doesn't work. If someone can fix that script that is great, if not then you can make it from scratch. I have attached the sample excel file that can help you understand how we need the data. We daily inventory data from there website so the script should be something that we can run on our pc everyday. I can provide you the node.js script that I have right now if you need it.
+We need this done asap and need an expert person who can get this done asap.
+let me know if any other questions.
+Thank you.
+
+
+Hourly Range: $27.00-$50.00
+Posted On: November 29, 2021 02:42 UTC
+Category: Scripting & Automation
+Skills:Data Extraction, Selenium, Data Scraping, Scripting, Automation, Web Crawling, Python
+Country: United States
+--------------------------------------------------------

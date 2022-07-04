@@ -1,0 +1,49 @@
+					=========================================================
+						Devloper for Building Data Extraction Tools
+						Devloper for Building Web Scraping Tools
+					=========================================================
+
+
+
+===== Job 1 =====
+Data scraper needed to scrape a website to find out a specific variable - Upwork
+Data Extraction
+Sun Nov 28 2021 20:28:27 (14 hours)
+
+I need a web scraper to scrape some information from 2 websites,
+then they need to write some code that calculates a specific instruction.
+
+For example the scraper can be used to find the top 100 most expensive products across all of amazon
+UK so similarly we are doing this for another platform. I believe, this task is pretty easy and straightforward
+
+
+Budget: $30
+Posted On: November 29, 2021 04:28 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Mining, Python, Data Extraction
+Country: United Kingdom
+
+
+
+===== Job 2 =====
+Looking for a Selenium Expert - Upwork
+Data Extraction
+Sun Nov 28 2021 09:59:12 (1 day)
+
+Your job is to input a string into a website.  
+Wait until the website processes the string and provides a list as response.
+Copy all elements in that list.
+Return a tuple [string:response1,response2,respnese....]
+Note: No sleep commands. We need fast code, wait until an element exists, then do X. No arbitrary wait 2 seconds etc.
+  
+Budget: $5
+Posted On: November 28, 2021 17:59 UTC
+Category: Data Extraction
+Skills:Selenium, Automated Testing, Selenium WebDriver, Python, Data Scraping
+Country: Germany
+-----------------------------------------------------
+
+
+
+
+

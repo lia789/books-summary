@@ -1,0 +1,44 @@
+					====================================================
+						Web Scraping Devloper for Real-Estate
+					====================================================
+
+
+====== Job 1 =====
+Web Scraping or Manual Retrieval of Feedback Reviews - Upwork
+Data Extraction
+Mon Nov 29 2021 18:21:36 (20 hours)
+
+We have a property that is listed on two rental portal websites, and we need to consolidate the details from both sources into a spreadsheet.
+Sources:
+- 170 reviews at: https://www.vrbo.com/248506
+- 64 reviews at: https://heisrisencabins.com/cabin/amazing-grace/
+Data is needed in csv or Google Sheets format. Emoji is not required as per the sample,
+but star rating needs to reflect what was provided in each source.
+
+Budget: $20
+Posted On: November 30, 2021 02:21 UTC
+Category: Data Extraction
+Skills:Data Entry, Data Scraping, Virtual Assistant, Research, Data Mining
+Country: United States
+-----------------------------------------------------
+
+
+
+===== Job 2 =====
+Automated Real Estate Data Scraper - Upwork
+Data Extraction
+Mon Nov 29 2021 17:48:44 (21 hours)
+
+I need someone to build me a data scraper that integrates with Zillow to add all FSBO (for sale by owner houses)
+to a google sheets row as soon as any new listing is posted in certain cities.
+The leads must be scraped automatically every day
+and contain the seller's phone number, address, and first and late name (if available).
+
+
+Posted On: November 30, 2021 01:48 UTC
+Category: Data Extraction
+Skills:API Integration, Data Scraping, Data Mining
+Country: United States
+---------------------------------------------------------------
+
+

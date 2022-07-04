@@ -1,0 +1,118 @@
+				===============================================
+					Web Scraping Lead Genaration
+				===============================================
+
+
+
+===== Job 1 =====
+Data extraction - directory - Upwork
+Data Extraction
+Sun Nov 28 2021 20:25:38 (14 hours)
+
+
+We require assistance to reasearch and build a database of all solar retailers listed in the following directory.
+https://www.cleanenergycouncil.org.au/consumers/buying-solar/find-an-approved-solar-retailer
+We require the following data to be verified to minimise bounce during email campaign.
+Name
+Company
+Telephone
+Email
+Address
+Please provide a short description of your experience and how you intend to approach this project.
+
+
+Budget: $100
+Posted On: November 29, 2021 04:25 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Extraction, Data Entry, Python, Spreadsheet
+Country: Australia
+-----------------------------------------------------------------
+
+
+===== Job 2 =====
+Scrape ResearchGate & Academia - Upwork
+Data Extraction
+Mon Nov 29 2021 22:50:17 (16 hours)
+
+
+We're looking for someone that can get the academic authors profiles from ResearchGate &amp; Academia,
+along with all the people they follow, and are followed by.
+The best people will explain how to get their emails as well.
+We have lots of work available, and will pay handsomely for the right team member.
+
+
+Hourly Range: $20.00-$100.00
+Posted On: November 30, 2021 06:50 UTC
+Category: Data Extraction
+Skills:Data Scraping, Python, Scrapy, Scraper, Data Mining
+Country: Australia
+---------------------------------------------------------------
+
+
+
+===== Job 3 =====
+Data Scraping for U.S. Marketing Agencies - Upwork
+Data Extraction
+Mon Nov 29 2021 14:27:34 (1 day)
+
+Looking to scrape data to get all U.S. marketing and web design agencies.
+Essential Data Points:
+Category: web design, marketing, ppc
+State
+City
+Business Owner Name
+Business Owner Email
+Business Owner Phone
+Business Owner LinkedIn (optional)
+Website
+All emails must be verified.
+Can start on a per state basis if needed.
+Will hire asap.
+
+
+Posted On: November 29, 2021 22:27 UTC
+Category: Data Extraction
+Skills:Data Scraping
+Country: United States
+----------------------------------------------------------
+
+===== Job 4 =====
+Custom Data Scraper With Python - Upwork
+Script Automation
+Mon Nov 29 2021 21:11:07 (19 hours)
+
+Looking for an experienced Python developer who can create a bot we can reuse often that will:
+-Follow link to a website from google sheet
+-Search for the email and phone number on site
+-Find Business owner name - maybe by finding LinkedIn page, clicking employees and -finding someone with &quot;owner, CEO, founder, etc&quot; or first result?
+-And input date back into Google sheet
+-Once the data is updated, automate adding to our PipeDrive CRM
+As of now, I have about 10,000 rows of data I need to do this for and I will be repeating this process every month.
+
+
+Posted On: November 30, 2021 05:11 UTC
+Category: Scripting & Automation
+Skills:Data Extraction, Scripting, Dashboard, Python, Data Scraping, Python Script
+Country: United States
+-------------------------------------------------
+
+
+===== Job 5 =====
+Web Scraping Expert - Upwork
+Data Mining
+Mon Nov 29 2021 09:48:09 (1 day)
+
+Looking for a freelancer with top-notch skills in Web scraping, web harvesting, or web data extraction for long-term and continuous engagement.
+The data must be presented in google sheets.
+The work will be assigned on a milestone basis with many different web scrapping assignments.
+Looking for a long-term partner to work for many years into the future based on quality, speed of delivery, communication, and performance.
+
+
+Posted On: November 29, 2021 17:48 UTC
+Category: Data Mining
+Skills:Data Scraping, Data Extraction
+Country: United States
+-------------------------------------------------
+
+
+===== Job 6 =====

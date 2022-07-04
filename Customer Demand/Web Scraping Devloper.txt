@@ -1,0 +1,532 @@
+					====================================
+						Web Scraping Devloper
+					====================================
+
+
+===== Job 1 =====
+Web Crawling - Upwork
+Data Extraction
+Sun Nov 28 2021 18:58:50 (16 hours)
+
+I need someone to help me crawl a website from a set inputs (about 55000 inputs respectively).
+The deliverables are two tables.
+Both tables require searching for links and crawling the content from that link.
+Details and samples will be provided upon request.
+
+Budget: $100
+Posted On: November 29, 2021 02:58 UTC
+Category: Data Extraction
+Skills:Data Scraping, Python
+Country: United States
+------------------------------------------------------
+
+
+
+===== Job 2 =====
+Email data parsing to PDF - Upwork
+Data Extraction
+Sun Nov 28 2021 18:10:39 (17 hours)
+
+I have 3 different email formats containing structured data that
+I would like to have parsed and outputted to PDF to be sent as an attachment to a specified address.
+
+Hourly Range: $15.00-$28.00
+Posted On: November 29, 2021 02:10 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Extraction, PDF Conversion
+Country: Australia
+------------------------------------------------------
+
+
+
+
+===== Job 3 =====
+Create a Mozenda scraping agent - Upwork
+Data Extraction
+Sun Nov 28 2021 18:00:11 (17 hours)
+
+
+We are looking for an experienced Mozenda specialist to set up a scraping agent using Mozenda.
+The agent will scrape numerous pages from a website to find specific product and pricing information as described in the attached brief.
+When replying, please provide a lower and upper estimate of how many hours of work you anticipate it will take to complete building the agent.
+
+
+Posted On: November 29, 2021 02:00 UTC
+Category: Data Extraction
+Skills:Data Scraping, Mozenda Scraper, Dexi.io
+Country: United Kingdom
+---------------------------------------------------
+
+
+
+
+===== Job 4 =====
+Scraping question answers from podcast - Upwork
+Data Extraction
+Sun Nov 28 2021 17:38:28 (18 hours)
+
+There is this podcast that I very much enjoy called Invest Like The Best.
+At the end of every podcast, the author asks the interviewee what the kindest thing that anyone has ever done for them,
+and I wanted to analyze the answers. There are 252 interviews found at
+(https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Invest%20Like%20the%20Best),
+and if you could scrape the data to fulfill this format (https://docs.google.com/spreadsheets/d/1RCuBaVD3DTR1B6woe8UJO7-_4i-W9JZ0QAr5bKxlBw8/edit?usp=sharing)
+that would be awesome! I just want the answer to the question they ask about the kindest thing anyone has ever done for them, it is always the last question.
+
+Budget: $50
+Posted On: November 29, 2021 01:38 UTC
+Category: Data Extraction
+Skills:Data Scraping
+Country: United States
+-----------------------------------------------------
+
+
+
+
+===== Job 5 =====
+Scrape car recalls - Upwork
+Data Extraction
+Sun Nov 28 2021 09:12:32 (1 day)
+
+Need to scrape car recalls from https://www.nhtsa.gov/recalls using car VINs.
+Problem is that there is recaptcha in the website
+I have tons of VINs
+Some  VIN samples:
+3GYFNFE38FS535994
+5TFEY5F15DX145298
+JM3KE4DYXG0762478
+3GTP1NEC1HG490239
+1FTFW1R6XEFC62358
+1FTEW1C59LKD79204
+
+
+Posted On: November 28, 2021 17:12 UTC
+Category: Data Extraction
+Skills:Beautiful Soup, Selenium, pandas, Scrapy, Requests, Data Scraping, Python
+Country: Turkey
+---------------------------------------------------------
+
+
+===== Job 6 =====
+Scrape data from website - Upwork
+Data Extraction
+Sun Nov 28 2021 08:20:58 (1 day)
+
+I have an excel sheet with links to webpages. I need the program to follow the link and then
+possibly click through to land on another page where emails can be collected into another excel
+sheet.
+Thank you!
+
+Budget: $15
+Posted On: November 28, 2021 16:20 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Entry, Web Crawling, Scraper, Microsoft Excel, Data Mining, Python, Scrapy, Data Extraction
+Country: Germany
+-------------------------------------------------------
+
+
+
+
+===== Job 7 =====
+Scrape Videos From Online Course - Upwork
+Data Extraction
+Mon Nov 29 2021 22:06:27 (17 hours)
+
+
+Hello I have several videos that I need scrapped from 2 different online courses.
+Here is the video of the instructions
+https://www.loom.com/share/49917307be6a45c8bdfa6adabc1f2e60
+(The videos says, download videos and save meta dat)
+
+Budget: $250
+Posted On: November 30, 2021 06:06 UTC
+Category: Data Extraction
+Skills:Data Scraping, Scrapy, pandas, Beautiful Soup, PHP, SQL, Python
+Country: United States
+-------------------------------------------------------
+
+
+
+===== Job 8 =====
+Data scrapping from website - Upwork
+Data Extraction
+Mon Nov 29 2021 15:06:15 (1 day)
+
+
+Just looking for someone to do very data scrapping from a website.
+Basically on a public website, start with a particular number and incrementally increase it.
+Save the account number and company name in a spreadsheet.
+
+Hourly Range: $5.00-$15.00
+Posted On: November 29, 2021 23:06 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Mining
+Country: Australia
+-----------------------------------------------
+
+
+
+
+===== Job 9 ======
+Scraping/crawling data from website - Upwork
+Data Extraction
+Mon Nov 29 2021 09:28:09 (1 day)
+
+
+Extract all the data from this website for all coloured points
+http://regcess.mscbs.es/regcessWeb/inicioBuscarCentrosAction.do
+You leave all the fields as they are. You only select one of options in the *Type of Centre* field. Then you click *Send*.
+The list appears below. In every line of the list, on the rightmost column you have *View Details* link.
+After you click on it, the website shows all the details. I need all the details put into excel or csv file for all the possible fields.
+
+Caution: the fields might differ between categories.
+There are about 25-30 categories (types of centres). In some of those you have hundreds of rows, in some you have less than 100.
+
+Budget: $120
+Posted On: November 29, 2021 17:28 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Mining, Web Crawling, Data Extraction
+Country: Poland
+----------------------------------------------------------------
+
+
+
+===== Job 10 =====
+Scraping needed for accurate translation of expressions in 25 languages - Upwork
+Data Extraction
+Mon Nov 29 2021 08:57:56 (1 day)
+
+
+Important mention: We DO NOT NEED A TRANSLATOR. We are looking for a SCRAPER.
+We are looking for someone to help us scrape data matching our current database
+of expression from specialized translation websites (examples of links below, but not limited to it) for the following languages:
+Japanese
+Korean
+Hindi
+Indonesian/ Bahasa
+Spanish
+Russian
+Vietnamese
+Portuguese
+German
+Thai
+Polish
+Romanian
+Czech
+Greek
+Hungarian
+Burmese
+Persian
+Tamil
+Urdu
+Bengali
+It is important that the expressions will be translated as expressions (not definitions, not the sense of the expression etc.)
+in the other language. This is why we are avoiding dictionaries and instead are looking for websites that are a bit more specialized,
+where you could scrape the expressions as the actual translated expressions.
+Places to look for :
+From Proz.com , such as the example below:
+https://www.proz.com/glossary-translations/english-to-italian-translations/idioms-maxims-sayings/page2
+Matterhornlanguages
+https://matterhornlanguages.com/german-idioms/
+Looking forward to receiving your application.
+As mentioned above, we DO NOT NEED A TRANSLATOR. We do need a SCRAPER.
+
+Budget: $50
+Posted On: November 29, 2021 16:57 UTC
+Category: Data Extraction
+Skills:Data Scraping
+Country: France
+--------------------------------------------------------------
+
+
+
+===== Job 11 =====
+Site scrub needed - Upwork
+Data Extraction
+Mon Nov 29 2021 07:13:38 (1 day)
+
+I need a scrub of the following site to pull all 68,000+ acronyms into an Excel file.
+https://techwithtech.com/tech-acronyms-list/
+
+Budget: $20
+Posted On: November 29, 2021 15:13 UTC
+Category: Data Extraction
+Skills:Data Scraping, Microsoft Excel
+Country: United States
+-----------------------------------------------------------
+
+
+===== Job 12 =====
+Run a Python script - Upwork
+Data Extraction
+Mon Nov 29 2021 07:03:13 (1 day)
+
+
+I have a Python script - ipynb file which must be opened with jupyter notebook/lab (see attached).
+The script extracts comments from Youtube posts.
+I need to extract comments from this post: https://www.youtube.com/post/UgkxIfAuQIx7MDr7JEo7D3d34Zn9EUaa6TOB
+Let me know if you can do it right now.
+Easy money and a review!
+
+Budget: $5
+Posted On: November 29, 2021 15:03 UTC
+Category: Data Extraction
+Skills:Python
+Country: Switzerland
+------------------------------------------
+
+
+===== Job 13 ======
+Scrape Website Links - Upwork
+Data Extraction
+Mon Nov 29 2021 06:58:31 (1 day)
+
+
+Hi,
+I'm looking for someone to scrape a variety of links from a website.
+To be considered for this job, please -
+- Use my name Peter in your application- State your experience with scraping
+
+Hourly Range: $5.00-$15.00
+Posted On: November 29, 2021 14:58 UTC
+Category: Data Extraction
+Skills:Data Extraction, Web Crawling
+Country: Puerto Rico
+-------------------------------------------
+
+
+===== Job 14 =====
+Website scraping - Upwork
+Data Extraction
+Mon Nov 29 2021 06:50:55 (1 day)
+
+Hi, I need all records from this website:
+https://myip.ms/browse/sites/1/own/376714.
+I only need two fields for each record: &quot;Web Site&quot; (domain URL) and &quot;World Site Popular Rating&quot;.
+I need data in csv format.
+Please let me know if you can do it and duration.
+Thanks.
+
+Budget: $50
+Posted On: November 29, 2021 14:50 UTC
+Category: Data Extraction
+Skills:Data Scraping
+Country: Turkey
+---------------------------------------------------
+
+
+
+====== Job 15 ======
+Scrapping and Importing - Upwork
+Data Extraction
+Mon Nov 29 2021 06:31:15 (1 day)
+
+Scrape products and categories etc from a Shopify site and import them all to a new BigCommerce site
+
+Hourly Range: $7.00-$9.00
+Posted On: November 29, 2021 14:31 UTC
+Category: Data Extraction
+Skills:Data Scraping, Data Mining
+Country: United Kingdom
+----------------------------------------------------
+
+
+
+===== Job 16 =====
+Scraping data from ecommerce website - Upwork
+Data Extraction
+Mon Nov 29 2021 06:20:16 (1 day)
+
+Hello I need to extract those DATA from an e-commerce website
+- Category
+- Product Title
+- Product Price
+- Product Reference
+- Product declinaison (color, size, etc)
+- Product short description
+- Product long description
+- Product attached documentation
+- Product pictures x5 (URLS is fine)
+Those all data should be provide in EXCEL or XML to let me re import them in my DB
+I dont know how much products there is in the website but there are a lot
+I will communicate URL in private message for quotation
+I need and expert to do the job properly
+
+Budget: $100
+Posted On: November 29, 2021 14:20 UTC
+Category: Data Extraction
+Skills:Data Scraping, Scrapy, Python, Data Extraction, Microsoft Excel, Web Crawling
+Country: Ireland
+-------------------------------------------------
+
+
+
+===== Job 17 =====
+Add four data values to a Scrapy spider - Upwork
+Data Extraction
+Mon Nov 29 2021 05:38:19 (1 day)
+
+Availability: Immediate (the task should be started right away)
+Deliverable: In 1-2 hours.
+The goal of this task is to extract four values to a Scrapy file. The Scrapy file is attached to this message: classcentral.py
+The values to extract are showcased in the: data_values.png file. The values are:provider: The name of the university.
+platform: The name of the platform (coursera, edx, etc.)
+lenght: The lenght o the course
+type: Self-paced, etc.
+The deliverables for this task are:
+1. The classcentral.py file
+2. The project folder update. You can find the project's files attached to this message.
+3. The csv with the updated columns: provider, platform, lenght and type.
+
+
+Budget: $20
+Posted On: November 29, 2021 13:38 UTC
+Category: Data Extraction
+Skills:Scrapy
+Country: Mexico
+-----------------------------------------------------------
+
+
+====== Job 18 ======
+Extract data from html to excel - Upwork
+Data Extraction
+Mon Nov 29 2021 04:19:11 (1 day)
+
+Data extraction tool from a &quot;live&quot; webpage to an excel spreadsheet with having a specific structure.
+The tool is going to be used for extracting data to excel on multiple files and sheets.
+
+Budget: $60
+Posted On: November 29, 2021 12:19 UTC
+Category: Data Extraction
+Skills:Microsoft Excel, Data Mining, Data Extraction, html2text, Spreadsheet, Data Entry
+Country: Greece
+-------------------------------------------------
+
+
+===== Job 19 ======
+Web scraping and text extraction - Upwork
+Data Extraction
+Mon Nov 29 2021 03:40:44 (1 day)
+
+Looking for a developer with excellent knowledge of Selenium, XPaths, web scraping, and spiders. 
+Must be able to convert JSON to Python and Python to JSON.
+You will be designing different methods or spiders for different web pages.
+
+Hourly Range: $20.00-$40.00
+Posted On: November 29, 2021 11:40 UTC
+Category: Data Extraction
+Skills:Beautiful Soup, pandas, Scrapy, Data Extraction, Python, Web Crawling, Selenium, Data Scraping, Data Mining, JSON
+Country: United States
+-----------------------------------------------
+
+
+===== Job 20 =====
+Automated Web Scraping - Upwork
+Script Automation
+Mon Nov 29 2021 17:41:18 (23 hours)
+
+Need to do web scraping using automated tools.
+Estimated number rows 30,000
+Estimated number columns 20
+More details will be provided via Direct Message
+Need someone proficient in web scraping using automated scripts or no-code tools.
+
+
+Budget: $25
+Posted On: November 30, 2021 01:41 UTC
+Category: Scripting & Automation
+Skills:Automation, Data Scraping, Data Extraction
+Country: Singapore
+-------------------------------------------------
+
+
+
+===== Job 21 =====
+Web scrapping, find web crawler - Upwork
+Script Automation
+Sun Nov 28 2021 23:51:08 (1 day)
+
+Task:
+We provide you 300 keywords for scrapping.
+You need to find websites what pops up in google but have a monthly visit between 4500-8000. It means somewehere between page 2-3 on google.
+You need to validate the monthly visits by some tool like Semrush.
+Output:
+With each keyword we need between 20-30  domains ( 2 pages in google)
+All in all 6000-9000 website links. We only need the link, no more data.
+Please apply if you know how to use webscrapert, crawlers, some basic scripting. This is too much work for just human.
+Please when applying to this project, estimate how many hours would it take for you, and write a fix project budget.
+
+
+Hourly Range: $15.00-$45.00
+Posted On: November 29, 2021 07:51 UTC
+Category: Scripting & Automation
+Skills:Data Scraping, Web Crawling, Python, Data Mining, Data Extraction, Scraper
+Country: United Kingdom
+------------------------------------------------------
+
+
+===== Job 22 =====
+Scrape all of serviceseeking.com.au, airtasker.com or hipages.com.au - Upwork
+Script Automation
+Sun Nov 28 2021 16:58:06 (2 days)
+
+We are looking for people to scrape one of these sites in their entirety and extract the jobs and reviews.
+We have a detailed spec ready to send you. We can then pay you weekly to keep them up to date. It will be up to you to gather the data and host it. 
+You can choose any technology you like, as long as it's updated into an SQL database.
+
+
+Posted On: November 29, 2021 00:58 UTC
+Category: Scripting & Automation
+Skills:Web Crawling, Automation, Data Scraping, Scraper, Data Extraction, SQL
+Country: Australia
+------------------------------------------------------
+
+
+
+===== Job 23 =====
+Webscraping Reviews on Travel Website - Upwork
+Data Mining
+Mon Nov 29 2021 12:41:24 (1 day)
+
+I am looking for someone who is able to pull reviews for certain travel experiences on Viator.com and GetYourGuide.com. My goal is to get reviews going back to August 2019 to today for roughly 20 listings per website. An example would be all of the reviews for the statue of liberty tour going back to August 2019 for Viator and for GetYourGuide. Below are links to the two tours. I would send you the other links if you are able to pull these reviews. In an ideal world, you would be able to pull all of this data into an excel spreadsheet.  I am looking to get these reviews by the end of this week. Please let me know if this is doable and any other questions that you would have. Thank you.
+Mike
+https://www.getyourguide.com/new-york-city-l59/statue-of-liberty-ellis-island-ticket-options-with-ferry-t393246/
+https://www.viator.com/tours/New-York-City/Statue-of-Liberty-and-Ellis-Island-Guided-Tour/d687-5250LIBERTYELLIS
+
+
+Posted On: November 29, 2021 20:41 UTC
+Category: Data Mining
+Skills:Data Mining, Lead Generation, Data Entry, LinkedIn, Shopify, Data Scraping, Prospect List, List Building, Lead Generation Strategy, Contact Lists, Virtual Assistant
+Country: United States
+-------------------------------------------------------
+
+
+===== Job 24 =====
+Web Scraping / Data Mining from Webpage - Upwork
+Data Mining
+Mon Nov 29 2021 02:51:47 (1 day)
+
+Hi, I am looking for someone who is able to scrape information from a website within 6 hours. The information is to be delivered in an excel file. Clear instructions will be provided.
+1. Please refer to Screenshot 1 which shows the web page I would like to scrape data from.
+There are a total of 4 fields I need data from:
+- Name (highlighted)
+- Tutor Type (highlighted)
+- Telephone Number (highlighted)
+- Email (this is hidden, you will need to have a software that is capable of extracting this field)
+2. There is an estimated total of approximately 69,500 rows of data.
+3. Deliver the information to me in an excel format. Please refer to Screenshot 2 for an example of a previously successful scrape
+After this short-project is completed, there will be a follow-up project with a different budget.
+
+
+
+
+Budget: $30
+Posted On: November 29, 2021 10:51 UTC
+Category: Data Mining
+Skills:Microsoft Excel, Python, Data Scraping, Data Mining, Data Extraction, Data Entry
+Country: Singapore
+-------------------------------------------------------
+
+
+===== Job 25 =====
+
+
