@@ -1,0 +1,1824 @@
+jobs_type,title,jobs_text,URLs
+data, 9k URLs - data from Similarweb.com ,"""Hello, 
+ 
+I have a list of 9k domain names. For each I need the following data from Similarweb.com. 
+ 
+- global rank 
+- total visits 
+- types of traffic sources (with %) 
+(- maybe PPC spend) 
+ 
+Input: csv file, one url per row 
+Output: csv file, new data for each url added 
+ 
+Please let me know your realistic financial and time estimate. 
+ 
+Thank you very much.""",https://www.upwork.com/jobs/URLs-data-from-Similarweb-com_~012590c0834bf9c920/
+data, Scrapping for Zomato ,"""Hi, 
+ 
+We need to scrape information regarding restaurants in Lisbon (Portugal) @  
+ 
+For each restaurant, we're interested in knowing: 
+1- Restaurante Name 
+2- Rating (**) 
+3- # of ""opinions"" / ratings 
+4- Address 
+5- Phone Number 
+6- Email (if possible). 
+ 
+Is this doable? 
+ 
+Thanks, 
+Diogo""",https://www.upwork.com/jobs/Scrapping-for-Zomato_~01407c888f59fe3184/
+leads, Data Scraping  ,"""Hello! We need data extracted on the below sites. The only data we require is the email address and name. Please provide a fixed rate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+""",https://www.upwork.com/jobs/Data-Scraping_~01b32f9c04cb8a0110/
+tools, Need a script to scrape and email Bizbuysell.com listings every day ,"""Bizbuysell.com is a site where business are listed for sale. I have a premium account (please see attached screenshot), so I can see how many days the business has been listed for and how many saves it has. I would like a CSV emailed to me every day or every week with all the businesses scraped and listed on each row. It must include: 
+ 
+- Title of the listing 
+- All of the metrics in both screenshots 
+ 
+Please quote your best price so I can have this done. Thank you!""",https://www.upwork.com/jobs/~01fdf1c1f97f8040ed
+leads, Service that scraped web for contact data ,"""We are looking for a tool that is doing following: 
+ 
+1. Scrape the whole web for emails and create a huge database of emails. 
+2. Scrape companies and their employees 
+3. Match emails to the company/employee 
+4. Verify the validity of the email by running it through an API that checks for an valid SMTP server. 
+ 
+In the end there should be a huge database of contact information of persons around the world.""",https://www.upwork.com/jobs/~0105086ccf36e89ef0
+data, Web scrapping for several web directories ,"""Extract all data from several internet directories: 
+-  
+-  
+-  
+-  
+-  
+ 
+Data to be extracted: 
+- Name of the business 
+- Address 
+- Town 
+- Province 
+- Post code 
+- Google maps link 
+- Phone number 
+- Email 
+- Website 
+- Details/description 
+- Type of business: funeral homes / cemeteries / mortuaries / crematoriums / ... 
+- Logo: download all logos in a folder, with the files with correct names in order to be identified easily. All logos should be converted into WebP, and minimum size possible. 
+ 
+Export all extracted data into an excel file 
+ 
+Match all extracted registers with pdf file attached, add those registers that are new,  and eliminate all duplicates. 
+ 
+Final result to be delivered in an excel file + folder with the logos 
+ 
+The job has to be done only once, no repeat needed.""",https://www.upwork.com/jobs/Web-scrapping-for-several-web-directories_~012503464a08da29c0/
+leads, Scrapping Website for collecting companies name and their key info ,"""I am looking for a scrapping expert to collect company names, information and contact names on selected websites. 
+ 
+The projet is the first of a long series as we need regular scrapping expert to help us in our task. 
+ 
+The first project is to collect the list of all companies registered here in this webpage: 
+ 
+ 
+ 
+And put them in the following google sheet files (file contains 2 examples) 
+ 
+ 
+ 
+ 
+== 
+ 
+Next jobs will be: 
+- Scrapping list of companies on selected websites 
+- Grab key contact from linkedin 
+ 
+For example: 
+-  
+-  
+ 
+ 
+""",https://www.upwork.com/jobs/Scrapping-Website-for-collecting-companies-name-and-their-key-info_~018d0e32d8ef7e3988?source=rss
+data, Data Collection - Google Scraping ,"""Scraping Data into an Existing Excel Spreadsheet 
+ 
+- Name of Business 
+- URL 
+- Email 
+- Address 
+- Phone 
+ 
+Deliverables 
+1. A clean spreadsheet with Above data per city, 130 Cities/Towns  
+ 
+Definition of Clean:  
+- No duplicate data 
+- Formatted spreadsheet  
+           """,https://www.upwork.com/jobs/Data-Collection-Google-Scraping_~019b4de227ad9e6d1c?source=rss
+data, Data Collection Online to MS Excel ,"""I need to download 870 lists that I have saved online and when exporting them, place them in a single Excel spreadsheet. Basically just download, copy and paste.""",https://www.upwork.com/jobs/Data-Collection-Online-Excel_~0197f62f049be3ab76?source=rss
+tools, Scraper for Google Maps. ,"""Hi! 
+ 
+I want to create a tool to obtain data from Google Maps. 
+ 
+The objective is to get info about organizations that are in a specific zone or neighborhood. 
+ 
+The data that I want is: 
+- Name. 
+- Adress. 
+- Contact info. 
+- Business area (Software, Real Estate...) 
+ 
+That data should be collected in a CSV file. 
+ 
+It should be entirely legal, using an API from Google. 
+ 
+Let's work together!""",https://www.upwork.com/jobs/Scraper-for-Google-Maps_~01b297334fae12eb31?source=rss
+data, Domain Whois info (Current and/or historical) extraction ,"""We have a large set of domains and want to extract the WhoIS for the same. If you can help in scaling our process, please submit your proposal. 
+ 
+Thank You""",https://www.upwork.com/jobs/Domain-Whois-info-Current-and-historical-extraction_~018353244ef09b1171?source=rss
+data, Need Website Scraped and Data Stored ,"""This project will consist of scraping comicbookrealm.com for the following information: 
+ 
+Publishers 
+Series 
+Issues 
+Contributors 
+Characters 
+ 
+See the attached file for a detailed explanation of this project as it IS NOT simply a request to crawl the entire site and pull all of the data.""",https://www.upwork.com/jobs/Need-Website-Scraped-and-Data-Stored_~0188af7749d89d454e?source=rss
+data, Scrape Yellow Pages ,"""Hello 
+ 
+I need someone to come scrape the yellow pages to create a list of business owners in my niche. 
+ 
+Details to follow 
+ 
+-John""",https://www.upwork.com/jobs/Scrape-Yellow-Pages_~01ab3baf39d77edfda?source=rss
+data, Web scrape a site and provide data in csv format ,"""Scrape a website to get a list of residential aged care providers in Australia by State with contact emails and provide the output in csv format""",https://www.upwork.com/jobs/Web-scrape-site-and-provide-data-csv-format_~01a4c47e0dc45f9329?source=rss
+data, Help scrape data from healthcare database ,"""- I would like a data scraper's help scraping a site for physician contact information and all fields of interest 
+- This has to be done by end of day Jan 29""",https://www.upwork.com/jobs/Help-scrape-data-from-healthcare-database_~0130b94f2b9bd2ea1a?source=rss
+data, Scrape data from open website and copy to excel ,"""The task will be to input the cadastral/lot number (excel attached) to the portal listed in the attached excel sheet and to return all data in excel format that is returned. Each row represents one input.  
+If you need additional mapping on what we need outputted for each city please let me us know otherwise all identifying information is welcomed and we can sort/filter out afterwards what we do not require.  
+ 
+Output of the project (final deliverables) is excel file(s) with all returned data, along with any PDFs that can be downloaded from the portals.""",https://www.upwork.com/jobs/Scrape-data-from-open-website-and-copy-excel_~01285cad139c164c87?source=rss
+tools, Need an expert in data scraping from a site protected by Mapbox API ,"""Hello, 
+ 
+We need to scrape some data similar to what is available on the website:  
+ 
+Scroll down to the section ""Commercial Solar Coast to Coast"", there's a US map that has small and big bubbles, which if you click you get some info. We need that info in a tabular form. I've attached a screenshot too.  
+ 
+Please apply only if you are 100% sure you can do it. This data is protected with an API and thus it's challenging.""",https://www.upwork.com/jobs/Need-expert-data-scraping-from-site-protected-Mapbox-API_~01d9ee26c706bfe267?source=rss
+data, Data scrap of websites ,"""Dear Freelancers, 
+ 
+I need to data scrap 7 websites 
+No matter what tool you use,  it is up to you.  
+Deliverables must be in Excel files.  
+ 
+Please apply to know more details. 
+Kind regards""",https://www.upwork.com/jobs/Data-scrap-websites_~01b2e6740ed78086f0?source=rss
+data, Extract company listing data from government website ,"""The contributor will have to set up a script, a tool that extracts data from this open government website:  
+ 
+Ideally the data will be placed in a Google Sheets. 
+ 
+There are 5 fixed fields to extract in Excel (you can see them clicking on ""Cargar Municipios / Load Cities and ""Buscar""): 
+1) Codigo Identificacion	 
+2) Nombre y apellidos / Denominación social 	 
+3) Categoría 
+4) Nivel de capacitación y Fecha de Caducidad del carnet 
+5) Fecha de Caducidad de la inscripción 
+ 
+- Then we have to split the Phone/teléfono and Email/Correo electrónico into 2 different columns. 
+ 
+- The data is shown per each ""Provincia/State"". So we need to add also the ""Provincia/State"" and ""Municipio/city"" fields to the resulting Google Sheets. 
+ 
+- It is important to clarify that we do not need an Excel, but a Script to run every month (the data changes). 
+ 
+Sample Excel is Attached.""",https://www.upwork.com/jobs/Extract-company-listing-data-from-government-website_~01c16ce43fee2818f0?source=rss
+tools, PYTHON Expert for Web Scraping Job  ,"""Hello, 
+We are looking to hire an expert who knows (P.Y.T.H.O.N) for WEB scraping. 
+ 
+I'm looking to hire an expert in extracting documents from the web. These documents may be found on websites, chatrooms, or forums. 
+ 
+**I do not have a specific URL to provide** 
+ 
+I only have my best guess at keyword phrases that might uncover the information either on the regular web or potential buried deep within the Web (Light or Dark). You will need the ability to search and find this without a specific website to crawl. 
+ 
+More information in followup email. 
+ 
+**This job is NOT for someone with only data entry experience or spreadsheet building.** 
+ 
+Please respond if you're interested. Thank you.""",https://www.upwork.com/jobs/PYTHON-Expert-for-Web-Scraping-Job_~01e07aa6a01bea3e1a?source=rss
+tools, Web data scraper ,"""We are looking for a freelancer who can collect information from a site utilizing a scrapping tool. Contact us for more information.""",https://www.upwork.com/jobs/Web-data-scraper_~0173019c51e2cbc63e?source=rss
+data, Ticketmaster Seat Map Scraper ,"""Need someone who can pull the price (incl fees if possible) for each ticket and the row each ticket is in from ticketmaster interactive seatmap (not the table on the right but the actual map where every single ticket is listed) 
+ 
+Couple links for example -  
+ 
+(link removed) 
+ 
+(link removed) 
+ 
+ 
+ 
+ 
+""",https://www.upwork.com/jobs/Ticketmaster-Seat-Map-Scraper_~0194b6ffa1f94dd8eb?source=rss
+data, Scrap Business data from Google maps ,"""Hello, 
+ 
+Looking for someone to create a Google Maps data scraper that can pull the following information from the business profile page: 
+ 
+- Business Name 
+-Business Category 
+- Business URL 
+-Phone Number 
+-Address 
+ 
+ 
+We are looking to pull data for businesses from all across Dubai. 
+ 
+Looking to target businesses in these specific industries: 
+ 
+Restaurants 
+Hotels 
+Hospitals 
+Cleaning companies 
+ 
+We are looking to hire immediately, so it is first come first serve. Bonus if you can provide a small sample list for us. 
+ 
+We look forward to hear from you.""",https://www.upwork.com/jobs/Scrap-Business-data-from-Google-maps_~013203d85cb3602447?source=rss
+tools, Web Scraping Google Places API Restaurant Data for New York & Auckland ,"""***Looking for a developer to scrape Google Places API like a BOSS*** 
+ 
+We are in the process of planning our expansion all over the world and are looking for an excellent web scraper to help us scrape the Google places API in cities like New York, clean and organise the data so we can perform analysis and execution.  
+ 
+This will need to be used:  
+ 
+This is an excellent opportunity for a developer to show us just how good you are at producing city scrapes in a timely manner with a clean data set.  
+ 
+We are planning to expand to cities all over the world and I will be looking for a superstar I can deliver. If this is the case, there will be a steady stream of data and engineering requirements from the expansion team.  
+ 
+The first objective will be to scrape Google Places API for New York & Auckland. I will be looking for criteria to be included like:  
+ 
+Reviews  
+Restaurant name 
+Number of reviews 
+Suburb 
+City 
+Cuisine  
+Lat/Long (if possible) 
+Number of branches 
+Price 
+URL 
+Contact 
+ 
+I look forward to hearing from you if this is of interest.""",https://www.upwork.com/jobs/Web-Scraping-Google-Places-API-Restaurant-Data-for-New-York-amp-Auckland_~01ef3215cfc5a7ce7a?source=rss
+data, I need a CSV with data pulled from a website ,"""I need a CSV file which shows the output of every basketball game from October 19th, 2021 - January 26th, 2022. The CSV file should have the following headers: 
+ 
+Date 
+Team 1 
+Team 2 
+Team 1 Final Score 
+Team 2 Final Score 
+Team 1 Spread 
+Team 2 Spread 
+Over/Under Amount 
+ 
+Data will be pulled from: 
+ 
+ 
+ 
+Thanks""",https://www.upwork.com/jobs/need-CSV-with-data-pulled-from-website_~01bbc52429671f27d2?source=rss
+data, Need a web scraping expert ASAP to extract large data sets from Karbon (app.karbonhq.com) ,"""Karbon is a workflow management tool commonly used for accountants / accounting firms. We are an accounting service provider in the U.S. with approximately 40 active users within the Karbon platform. We need to extract data to gain more insights into our team activities, email volume, and efficiency. 
+ 
+We use this software as a workflow management tool. We are an accounting services provider with 70+ clients and a staff of about 35 people. We need to scrape all-time data for all of the work items we've created, completed, and are still pending. We also need the detail (sub-task) items that are embedded within each work item. 
+ 
+Here is a video explaining the project 
+ 
+ 
+ 
+We need this completed as soon as possible - no later than 3:00 p.m. on Wednesday, December 29th U.S. PST time zone.""",https://www.upwork.com/jobs/Need-web-scraping-expert-ASAP-extract-large-data-sets-from-Karbon-app-karbonhq-com_~018fcadc0f6bc8098e?source=rss
+tools, Want to scrape data from website to excel sheet. ,"""there is a data on some file .. i need to transfer it in excel sheet. 
+will share the login details. 
+data is visible on same page. 
+attaching a video ..please check .""",https://www.upwork.com/jobs/Want-scrape-data-from-website-excel-sheet_~01c548e73867a4eb12?source=rss
+leads, Web Scraping Expert for Google Maps/GMB ,"""Scraping criteria: 
+ 
+- Scrape Google Maps 
+- Retail store locations with physical addresses (verified if possible) in USA 
+- They have to be independently operated (for example not part of a chain like Walmart, Homedepot, Panera Bread, Starbucks, Sam's, etc) 
+- 4 or less stars 
+- 30 or less reviews 
+- Provide all data in csv, especially email addresses associated with location 
+- Provide at least 200 leads per day 
+ 
+ 
+If you can do this, please apply. 
+ 
+ 
+Some notes: 
+❌ Send direct emails 
+❌ Direct phone calls 
+❌ LinkedIn 
+❌ Ask to a phone call, apply here first and then we'll see 
+❌ Ask to meet on Skype 
+❌ Ask for a call in our screening questions 
+❌ ""Let's discuss on call"" or ""Let's do a chat"" or you will be ignored 
+✅ ""Let's discuss on call"" or ""Let's do a chat"" only when you are selected and we are going through questions 
+""",https://www.upwork.com/jobs/Web-Scraping-Expert-for-Google-Maps-GMB_~0164c9ac3721032958?source=rss
+data," Scrape 3 Google My Business Categories across the US with images, websites, and all other GMB data ","""I'm looking for someone to scrape 3 categories from GMB throughout the US. 
+This will include title, category, phone number, address, email (if available), websites, photos (front image, logo, and others), etc.""",https://www.upwork.com/jobs/Scrape-Google-Business-Categories-across-the-with-images-websites-and-all-other-GMB-data_~0119747d9960771bcb?source=rss
+tools, Regular Website Scraping Projects ,"""I'm looking for someone who can occasionally scrape websites for structured text data like questions, jokes, and riddles and return the data to me either in a csv file or a shared Google Doc spreadsheet. 
+ 
+Projects will require a minimum of 1,000 rows of data.""",https://www.upwork.com/jobs/Regular-Website-Scraping-Projects_~0127245e8388404b7a?source=rss
+data, Download 100.000 logo image files from CSV file with list of image URLs ,"""I need help to download 108.839 small image files (company logos) from a CSV file containing a list of image URLs and put these into the same folder structure as reflected in the URL (Example: /uploads/product/image/large_detail/large_detail_UNIQUE-ID/FILE-NAME.jpeg) and send them to me as a zip file. 
+ 
+See attached CSV file containing the full list of image URLs. 
+ 
+Would like you to suggest a fixed price for solving this task. 
+ 
+""",https://www.upwork.com/jobs/Download-100-000-logo-image-files-from-CSV-file-with-list-image-URLs_~0102da74b73a222c5b?source=rss
+tools, Daily data scrape of job postings from Career Websites to Google Sheets ,"""I am building a database of job posts to be shared in text format on a daily basis. I need someone to scrape a number of job postings (including its descriptions) from career websites (which I will share) to be converted into a file of GSheets daily.  
+ 
+Keep in mind that quantity of data scraped will grow along the way, so that automated solutions/bot would be preferred. I will need to verbally describe my ideas to you, so you must have good communication skills in English. 
+ 
+Final deliverables: 
+ 
+GSheet/Excel file consisting of scraped job postings sent/updated to me daily.""",https://www.upwork.com/jobs/Daily-data-scrape-job-postings-from-Career-Websites-Google-Sheets-Excel_~0197040f2de1a8007e?source=rss
+leads," Scrape Google For Business Names, categories, phone number, email, longtitude latitude, opening hour ","""Hi there, 
+ 
+I need someone to scrape all of australia for float therapy centres, i'm looking to cover every business possible.  This also includes businesses located in shopping malls. 
+ 
+Here is the expected output - """,https://www.upwork.com/jobs/Scrape-Google-For-Business-Names-categories-phone-number-email-longtitude-latitude-opening-hour_~0167a880a028fc2cae?source=rss
+tools, Web-Scraping newspapers  ,"""I need to automate search in 2-3 newspapers in 6 countries (UAE,Bahrain, KSA, Oman, Qatar, Kuwait) looking for key works such as GDP, Inflation, CPI, PPI, Total Number, Average, Increase, decrease, %, Percentage, Growth, …..) all statistical key words. 
+I need to have daily file (preferably Excel). Can you do it? """,https://www.upwork.com/jobs/Web-Scraping-newspapers_~01b2043f437253fb4d?source=rss
+leads, Need a script to scrape and email Bizbuysell.com listings every day ,"""Bizbuysell.com is a site where business are listed for sale. I have a premium account, so I can see how many days the business has been listed for and how many saves it has (see attached screenshot). I would like a CSV emailed to me every day or every week with all the businesses scraped and listed on each row. It must include: 
+ 
+- Title of the listing 
+- All of the metrics in the screenshot, plus some more 
+ 
+Please quote your best price so I can have this done. Thank you!""",https://www.upwork.com/jobs/Need-script-scrape-and-email-Bizbuysell-com-listings-every-day_~017855be8818ee206c?source=rss
+data, 9k URLs - data from Similarweb.com ,"""Hello, 
+ 
+I have a list of 9k domain names. For each I need the following data from Similarweb.com. 
+ 
+- global rank 
+- total visits 
+- types of traffic sources (with %) 
+(- maybe PPC spend) 
+ 
+Input: csv file, one url per row 
+Output: csv file, new data for each url added 
+ 
+Please let me know your realistic financial and time estimate. 
+ 
+Thank you very much.""",https://www.upwork.com/jobs/URLs-data-from-Similarweb-com_~012590c0834bf9c920/
+tools, Google review Datascaping ,"""I want to scrap reviews from google review and send it to a google sheet as rows.  As new reviews are added, i want the data to be sent to google sheets. 
+ 
+Name of the review 
+Number of reviews the have done 
+Stars given 
+comment 
+Date done 
+Date extracted 
+number of thumbs up (if possible)""",https://www.upwork.com/jobs/Google-review-Datascaping_~01cadee64307066836?source=rss
+data, Google Maps Data ,"""On google maps when we search Near by restaurant , cafeteria, supermarket, groceries 
+,Horace, I need all those data with   
+ 
+Mobile no 
+Email id  
+Rating 
+KM near by  
+Zone name 
+Emirates 
+Owner name 
+Website""",https://www.upwork.com/jobs/Google-Maps-Data_~0150d967c7d31e8be2?source=rss
+leads, Expert Needed To Extract All Companies Within A Specific Niche Listed With Home Advisor and Angi ,"""We are looking for a web data extraction / mining expert (you must be a real expert), who can get us a list of all of the businesses (for specific niches), that are using Home Advisor and similar lead services.. We've been unable to find the list of contractors easily using the website interface, so we need a true expert who knows the home advisor platform extremely well, and knows how to access the data. We'll start with one particular niche, and if this goes well, we'll scrape other niches in the future. You must have experience extracting leads specifically from services like Home Advisor, Angi, Thumbtack, Houzz etc - any shared lead service a home service contractor may use.  Thanks!""",https://www.upwork.com/jobs/Expert-Needed-Extract-All-Companies-Within-Specific-Niche-Listed-With-Home-Advisor-and-Angi_~0179a2e5d02f3248a5?source=rss
+data, Juliet Travers Scrape ,"""web site scrape to extra information on wallpaper fabrics cushions and load to excel""",https://www.upwork.com/jobs/Juliet-Travers-Scrape_~0105eb8b17856aa984?source=rss
+data, Bike Shop Exchange scrape ,"""Scrape list of bike shops including address, phone number""",https://www.upwork.com/jobs/Bike-Shop-Exchange-scrape_~0187fed32d290c28a6?source=rss
+tools, App content scrapping  ,"""I'm looking for a professional who could help me scrap data from the following apps :  
+ 
+1. parenting.firstcry.com 
+2. babysparks -  
+ 
+Looking to get data/content available in all the sub urls.""",https://www.upwork.com/jobs/App-content-scrapping_~015b931aa854438632?source=rss
+tools, Simple Scrapping Script with Rotating Proxy ,"""I am looking for a simple scrapping script.  There are 200K search query I need to run to query the site result.  
+ 
+Then, the result should be parse and insert to DB.  
+ 
+The script should support varying the duration between query and also use free rotating proxy.  
+The script should be able to restart and resume from where it left off.  
+ 
+This script does not need to work very fast, but just work continuously ( and can resume from where it left off if restarted ) to finish the data query. """,https://www.upwork.com/jobs/Simple-Scrapping-Script-with-Rotating-Proxy_~0192ea693ac440822a?source=rss
+tools, Pulling data from website API and listing it to excel  ,"""So i want to pull skin prices from cs.deals website API and list them real time to excel sheet in - game,item.price format.  
+If you need further clarification please let me know.  
+(link removed)""",https://www.upwork.com/jobs/Pulling-data-from-website-API-and-listing-excel_~015541c175fbd466e6?source=rss
+data, Scrap data from wikipedia for German villages ,"""Hi,  
+ 
+I am looking for a list of all villages, towns and cities in Germany from Wikipedia.  
+ 
+Information that I would need is: 
+ 
+Name of City 
+Address 
+Zip 
+City 
+County 
+State 
+Mayor (if available) 
+Website 
+Population (if available) 
+ 
+It is important to use the German version of wikipedia for this.  
+ 
+Unfortunately there is no single list of all towns/villages/cities, but there is an entry point here.  
+ 
+ (Gemeinden_nach_Landkreis) 
+leading to all towns underneath one county e.g.: 
+ 
+and then leading to single cities/towns e.g.: 
+   
+ 
+Attached is an image that shows you where to find these information in the single wikipedia entries to speed up the process for you.  
+ 
+""",https://www.upwork.com/jobs/Scrap-data-from-wikipedia-for-German-villages_~01adfcbb9a98e20e52?source=rss
+tools, Web crawler required   ,"""I need someone to create a list of URL's for a specific company that I want to research. I am looking for two things.  The first is for all PDF's such as annual reports for any company that contains this companies name (to be disclosed once I have appointed a freelancer).  I also want all the URLS for the below:  Only experienced freelancers to apply please. PLEASE ADVISE HOW LONG IT WILL TAKE YOU TO COMPLETE THE PROJECT.  
+ 
+Adobe Portable Document Format (.pdf) 
+	•	Adobe PostScript (.ps) 
+	•	Autodesk Design Web Format (.dwf) 
+	•	Google Earth (.kml, .kmz) 
+	•	GPS eXchange Format (.gpx) 
+	•	Hancom Hanword (.hwp) 
+	•	HTML (.htm, .html, other file extensions) 
+	•	Microsoft Excel (.xls, .xlsx) 
+	•	Microsoft PowerPoint (.ppt, .pptx) 
+	•	Microsoft Word (.doc, .docx) 
+	•	OpenOffice presentation (.odp) 
+	•	OpenOffice spreadsheet (.ods) 
+	•	OpenOffice text (.odt) 
+	•	Rich Text Format (.rtf) 
+	•	Scalable Vector Graphics (.svg) 
+	•	TeX/LaTeX (.tex) 
+	•	Text (.txt, .text, other file extensions), including source code in common""",https://www.upwork.com/jobs/Web-crawler-required_~01b629f0f2fb732095?source=rss
+leads, Data Extraction ,"""We are looking for someone who can help us extract data from various company websites. Specifically, we are looking for when companies are scheduled to report quarterly earnings: time, date, link to the call, webcast, broadcast, etc.  
+ 
+You will input this data into a Google Spreadsheet. If you have experience building scraping tools to automate this task that is a bonus.""",https://www.upwork.com/jobs/Data-Extraction_~0149985b14f428f4d2?source=rss
+data, Pull data from GoHighLevel into Excel ,"""I need an expert in GoHighLevel/Excel to assist me with pulling Data from GHL and importing it to Excel so that we can monitor several different KPI's. 
+ 
+Must be very familiar with GoHighLevel""",https://www.upwork.com/jobs/Pull-data-from-GoHighLevel-into-Excel_~016d605f3da42016b7?source=rss
+data," Scrape 10,000 True Crime Blogs For Me On Medium ","""I have a Medium account, I need you to scrape 10,000 stories written in the true crime topics section. If you think you can do this quickly let me know.""",https://www.upwork.com/jobs/Scrape-000-True-Crime-Blogs-For-Medium_~0144aef58066c9b253?source=rss
+tools, Website Scraping ,"""Hi there, I am looking for someone to build a scraper that will pull all the multiple choice questions off a website including questions, options, answers and explanations and put it into an excel spreadsheet. A template of which I can provided. Would like to be provided with the scraper so I can rescrape at a later stage.""",https://www.upwork.com/jobs/Website-Scraping_~01850b715b055381c5?source=rss
+tools, Build simple code scraper for competitor keyword ,"""Please build a tool that we can use to: 
+- go through a csv list of websites 
+- search the source code for each one for a competitor's brand name 
+- return a result with all found keywords 
+ 
+The result should be exportable into a csv format.""",https://www.upwork.com/jobs/Build-simple-code-scraper-for-competitor-keyword_~01f964670d685cb37b?source=rss
+tools, Google search and web crawler  ,"""I need someone to be able to enter a good search that pulls PDF documents in Australia that contain the work Employment Hero. What I am trying to achieve is I am looking for company annual reports that show they use Employment Hero which is software that businesses use to manage their workforce.  
+ 
+I would either take the URLs or alternatively the PDFs if that was a possibility. Please tell me how long you think the task will take you.""",https://www.upwork.com/jobs/Google-search-and-web-crawler_~01889b139cf01647e8?source=rss
+data, Scraping/crawling data from website ,"""Extract all the data from this website  (it's about medical points): 
+ 
+ 
+It's in German, but language knowledge is not really necessary. 
+ 
+You click on the ""Ich suche angebote fur erwaschsene"" 
+Then on the top there is a search form. You don't select anything in the list. Just click ""Suchen"". The list of results appear. 
+ 
+You click on one of the results. There is a info about a specific location of medical point. I need all this info copied into excel file for every of the medical points. One medical centre - one row.""",https://www.upwork.com/jobs/Scraping-crawling-data-from-website_~017a2d4c9c3145e090?source=rss
+leads, Web Scraping Expert with Python Experience ,"""I need to scrape  a website platform 
+ 
+I would want from the detail page. 
+ 
+ 
+i will need the person: name; email, phone number. address, job title, years of experience""",https://www.upwork.com/jobs/Web-Scraping-Expert-with-Python-Experience_~01dfb0143688f685d2?source=rss
+data, Scrape Glassdoor ,"""I need someone to follow this link: (link removed) 
+ 
+and extract all the data into a spreadsheet with the following columns: 
+- Company name 
+- Job title 
+- Glassdoor rating 
+- Location 
+- Company Size""",https://www.upwork.com/jobs/Scrape-Glassdoor_~01075a0b49f23a7eeb?source=rss
+data, Webscaping expert to scrape data Webscaping expert to scrape data from a website and put into Spread ,"""Hi 
+ 
+I am looking for an web scraping expert who can help me extract data from the website and activate that data in a Google sheet  
+Please feel free to ask any questions 
+Regard Hassan Ali 
+""",https://www.upwork.com/jobs/Webscaping-expert-scrape-data-Webscaping-expert-scrape-data-from-website-and-put-into-Spread_~01047294d02cf19484?source=rss
+data, Extract data from Crunchbase ,"""We need help to scrape data on 151.316 companies listed in the ""Health Care"" group on Crunchbase. 
+ 
+We need the following columns for all companies: Name, industry, headquarter, description, full description, founded date, number of articles, company type, closed date, website, contact email, industries, number of employees, investor type, investment stage, top 5 investors, number of funding rounds, last funding date, last funding amount, total funding amount, CB Rank (Company).""",https://www.upwork.com/jobs/Extract-data-from-Crunchbase_~012df169ff65760b29?source=rss
+data, Easy job - Web scraping ,"""I need someone to scrape some details from this website  
+ 
+The website has two types of product pages. 
+1. A 'main' product page, and 
+2. A product 'configuration' page 
+ 
+The 'main' product pages have a tab titled 'Products' which has a list of each of the 'configurations' for that main product (see attached image). 
+ 
+An example of a 'main' product page would be: 
+ 
+ 
+One of the 'configurations' pages would be  
+ 
+ 
+I want you to scrape this website and retrieve the Model and page URL of each of the main product pages. 
+ 
+The model can be found as the last of the breadcrumbs at the top right (see example). 
+ 
+These details should be put into a spreadsheet.""",https://www.upwork.com/jobs/Easy-job-Web-scraping_~01879d7b4f9d05919d?source=rss
+data, Scrape Data from Online Data Sources & Cleanup ,"""We will provide you with a list of companies and their details. 
+Based on this you will create a schema based on our requirements and collect the data needed from various sources.""",https://www.upwork.com/jobs/Scrape-Data-from-Online-Data-Sources-amp-Cleanup_~01266875364b27d006/
+data, Data scrape web directory into Excel contact info .csv ,"""I have a public directory available online that I need scraped for contact information to transpose it into a worksheet I can use for direct mail and other marketing campaigns. **I'm specifically interested in finding someone using an automated program to scrape data for the most efficient time and 100% accuracy.** I need someone to quickly create an Excel sheet or .csv with the following header/attributes: 
+- Organization Name	 
+- Street 1	 
+- Street 2 (If applicable)	 
+- City	 
+- State	 
+- Zipcode	 
+- email	 
+- website	 
+- phone1	 
+- phone2 
+ 
+The source is this web directory:  
+ 
+I'd like to include all records in the ""Historical Societies & Preservation Organizations"" category for ALL STATES and ALL REGIONS.""",https://www.upwork.com/jobs/Data-scrape-web-directory-into-Excel-contact-info-csv_~013597c945a3ea123b?source=rss
+leads, Web Scraping Emails ,"""We have a set website that includes profiles of possible future users.  
+On each profile, they have their email listed out.  
+We are looking for someone who could scrape as many emails off the website in a quick fashion to use for our data collection and to prospect as future users.""",https://www.upwork.com/jobs/Web-Scraping-Emails_~0183a585beba363a7b?source=rss
+data," Data extraction from web directory, for call center use ","""Hello, 
+ 
+I am the president of an insurance brokerage firm and I am looking for someone capable of extracting information from a public web directory. The objective is to create an excel sheet comprising for each prospect: Last name, First name, telephone number. 
+The excel sheets once created will be used for telephone prospecting thanks to a predictive dialer software. 
+Here is an example of a web directory where we want to extract data. 
+ 
+(link removed)""",https://www.upwork.com/jobs/Data-extraction-from-web-directory-for-call-center-use_~018c4cc4d9f4415546?source=rss
+data, Create WebScraper to Pull All Tire Retailers in USA ,"""We need someone to create scraper to pull all Tire Retailers in the USA we need name of Tire Retailer, Address, Phone Number, & Latitude, Longitude if possible. We want you to create the scraper run it and pull all information then turn scraper over to us to use in future.""",https://www.upwork.com/jobs/Create-WebScraper-Pull-All-Tire-Retailers-USA_~01e78a4930521a2ffb?source=rss
+data, Scrape opensea - discord ,"""I need you go to opensea.io and somehow extract all collection urls (VERY IMPORTANT TO GET ALL URLS FROM SITE), then open each url and scrape the all the details - names, website, social profiles inc discord url etc. 
+ 
+Then I need you to open each discord url (you might need discord account) and on the landing page it will tell you the number of members and number online, need these figures scraping 
+ 
+Thats task, need data asap in csv, you must provide any server / accounts etc, all I need is data. 
+ 
+Task is $60""",https://www.upwork.com/jobs/Scrape-opensea-discord_~018d49e3dcd68603e9?source=rss
+tools, Use Yelp API to gather business data ,"""You will create a simple data miner using Google Sheet and the Yelp API. 
+ 
+The mining program your create will pull data from the Yelp API and place it into a google sheet. 
+ 
+For example, I will enter: 
+ 
+Zip Code: 91020 
+Keyword Phrase: Mexican Restaurants 
+ 
+The program will then run and return a list of all the Mexican Restaurants for that zip code into the spreadsheet with the following types of columns: 
+ 
+1. Business Name 
+2. Business Location 
+3. Phone Number 
+ 
+I will provide a google doc with sample data.  Actual columns returned will be different and include probably around 10+ data elements to retrieve. 
+ 
+This should work for multiple input rows (e.g. a list of 20 zip codes). 
+ 
+Yelp API: """,https://www.upwork.com/jobs/Use-Yelp-API-gather-business-data_~010af56047d6f6fb30?source=rss
+data, Google map business contact list ,"""Scrap Google maps for ""POS system for restaurants"". Like this """,https://www.upwork.com/jobs/Google-map-business-contact-list_~015d30b4b19ca4b9c7?source=rss
+data, Script for scraping with simple UI ,"""We need a script that will scrape Top apps page from Appannie website, and scrape data from app profile, save it to mysql database. 
+ 
+We need to have all information that present there about an app, and save date ranking. Also we need simple UI to search for data in this DB. List of fields you can see here: (link removed) 
+ 
+And UI wireframe here (link removed)""",https://www.upwork.com/jobs/Script-for-scraping-with-simple_~0118202575165b2971?source=rss
+data, Weather data scrapper ,"""The objective of the mission is to create a scrapper with Python (bs4) that accepts as arguments : 
+- a location (a city) 
+- a date 
+ 
+And returns a dictionary with all the information available in the ""summary"" block on the wunderground website. 
+ 
+So, for example, by entering the variable ""Las Vegas"" and the date of October 30, 2021, the scrapper must return a Python dictionary with all the information contained in the summary block: 
+ 
+ 
+The script will be integrated into another script, so I don't need the ability to run it through the command prompt. In the end, I need to be able to put two arguments in the final function: city and date. 
+ 
+Price for the mission: $5""",https://www.upwork.com/jobs/Weather-data-scrapper_~012846c2bcb13e8260?source=rss
+data, Webscaping expert to scrape data from a website and aggregate in an excel or google sheet ,"""Hi 
+ 
+I am looking for an web scraping expert who can help me extract data from the website and activate that data in a Google sheet or Excel 
+ 
+We need to scrape data from the website by entering in a ZIP Code and extracting all the results that come based on that search. There are at least 10,000 ZIP Codes that we need to run this script. 
+ 
+Please feel free to reach out if you have any questions""",https://www.upwork.com/jobs/Webscaping-expert-scrape-data-from-website-and-aggregate-excel-google-sheet_~01e2f286309e14a5f6?source=rss
+tools, Create python script to scrape movies ,"""Create python script to scrape movies and serials using TMDB API and save to database (MySQL)""",https://www.upwork.com/jobs/Create-python-script-scrape-movies_~01e5dc0152d3392725?source=rss
+data, Build Tool to Match Google Business Profiles to Social Media ,"""Need to find someone who can build a tool to help match Facebook Profiles to a list of Google My business listings. 
+ 
+For example, if I provide a Google business listing URL, the tool can search and output the Facebook Profiles of that particular business.""",https://www.upwork.com/jobs/Build-Tool-Match-Google-Business-Profiles-Social-Media_~01877b33d4892eb525?source=rss
+data," Scrape list of singers from website, and remove the names we already have ","""We need you to visit a certain website and scrape all the singer names. There are different categories like Classical Singers, Pop Singers, etc. You will need to get the links to these categories yourself. 
+ 
+After scraping all the names, remove names that we already have. 
+ 
+Put all the names in a .txt file, one name per line. 
+ 
+You'll be paid $10.""",https://www.upwork.com/jobs/Scrape-list-singers-from-website-and-remove-the-names-already-have_~016fe9ae0961ef783d?source=rss
+data, Scrape Zip recruiter website ,"""I want someone that can scrape all of the job posts in this link: (link removed) 
+ 
+Data needed: 
+- Company Name 
+- Location 
+- Position Name 
+- Job Post URL (OPTIONAL) 
+- Website (If available) 
+ 
+I'm looking for someone that can do the task fast and cheaply. Ideally if you're using a scraper software that would be even better""",https://www.upwork.com/jobs/Scrape-Zip-recruiter-website_~0161a1390b6aab6284?source=rss
+data, Website Scraping Job ,"""Looking for someone to scape the website   and provide all product data in an Excel spreadsheet or simiar. 
+ 
+Fields required (All are visible on the website) 
+ 
+Product Code 
+Product Name 
+Variation Name 
+Description (HTML) 
+Description (TEXT) 
+Product Image 1, Product Image 2, Product Image 3 etc (URL's of large image) 
+RRP Price 
+Sell Price 
+Brand 
+Shipping Weight 
+Shipping Width 
+Shipping Height 
+Shipping Length 
+Shipping Cubic 
+ 
+**IMPORTANT*** 
+- For products with drop down list, should have a seperate row on the spreadsheet for each drop down option. All data the same except that the VARIATION NAME will change. 
+- For products with variations, there will be an image linked to each variation (eg colour). If possible, would like to ONLY have the image for that variation as an image URL. 
+ 
+All product categories except for Bikes & Sale, which are both not needed.""",https://www.upwork.com/jobs/Website-Scraping-Job_~010555c7ba7dd9af5f?source=rss
+data," Crawling web to grab/download the names, image files, and description from web site ","""Developing a piece of codes to crawl the web site to download the product names, image files, and description when the right key was disabled.""",https://www.upwork.com/jobs/Crawling-web-grab-download-the-names-image-files-and-description-from-web-site_~01a24bc2d8b605c26e?source=rss
+data, Yelp Business Scraping ,"""Hello everyone, 
+ 
+We need to scrap the lists of motor machine from different websites of motor machine manufacturers. Most of them have a good URL structure to work with. The data has to come in in a structured way, so that we can pump it in our own database. Would like to start with 2-3 manufacturers as a small test. once the data mining process is running. 
+ 
+you can take these two sites as an example, where we need the data from: 
+ 
+ 
+(all componentes + geometry table) 
+ 
+ . 
+ 
+If you are able to do it then please submit your proposal with sample, I need to hires quickly. 
+ 
+Thanks""",https://www.upwork.com/jobs/Yelp-Business-Scraping_~01f33fe36e04693887?source=rss
+tools, Need a script to download data from public web ,"""I need help to develop a script.  
+ 
+This script will do the following: 
+- download data from a public website. 
+- publish the data to postgres db and update the count 
+- upload new data to AWS s3 bucket""",https://www.upwork.com/jobs/Need-script-download-data-from-public-web_~01f0eb4a5b01d98b93?source=rss
+tools, Web Scraping of a website  ,"""I am looking for someone to pull US Zip codes and run a script to pull names and phone numbers from a particular website. It doesn't matter how you see it gets completed besides i would like a script to be created no manual entry work.""",https://www.upwork.com/jobs/Web-Scraping-website_~01614747d8929b9fab?source=rss
+tools, Quick Web Scraper needed. ,"""A quick web scraper is needed to scrape this website   . 
+I want the Name and Emails of all professionals whose first names start with ""A"". 
+ 
+To do this: 
+Just type ""a"" in the ""First Name"" box and scrap all the results you will get and send me the names and emails in a CSV/Excel sheet. 
+Thanks.""",https://www.upwork.com/jobs/Quick-Web-Scraper-needed_~018d1e9d4ffe1a9b4e?source=rss
+tools, PGA Golf Score Scraper ,"""Hello 
+ 
+I want a score scraper by round from pga.com - this is for completed tournaments and tournament in progress. 
+ 
+Basically I type the pga link in like this: pgatour.com/competition/2022/the-honda-classic/leaderboard.html 
+and it will grab the players scores for each round 
+ 
+simple csv output would be great each player by row and each round score in a separate column 
+ 
+Example Output file attached 
+ 
+This is for Windows Desktop""",https://www.upwork.com/jobs/PGA-Golf-Score-Scraper_~01fba45fc9a1c467fb?source=rss
+data, 22 - Scrape Scion ,"""Scrape website for wallpaper and fabrics as per word document 
+Input information into excel sheet and capture images and place in image folder with small image into the product row in the excel sheet""",https://www.upwork.com/jobs/Scrape-Scion_~010655891ce3e7f0b7?source=rss
+tools, Scrape Data from the Web to excel ,"""I Want to extract the dividends historical data for stocks listed in the Egyptian stock exchange into an excel sheet and be able to update it automatically to compare the dividends Yoruba from consistency of dividends payments""",https://www.upwork.com/jobs/Scrape-Data-from-the-Web-excel_~01d556f8f23f1f365d?source=rss
+tools, Scrape Popular Times on Google Map Data ,"""Create a Google Maps popular times data scrapers [see attachment] 
+ 
+The Google Maps Popular Times on Google Maps Scraping must be proficient, dependable, and offer quick results with no errors. 
+ 
+Must know how to convert data into well-structured data.   
+ 
+Schedule - be able to easily schedule the crawler on daily, weekly, monthly  basis so that we will get update search results.""",https://www.upwork.com/jobs/Scrape-Popular-Times-Google-Map-Data_~01273d246f2c276442?source=rss
+tools, Scrape data about chocolate  ,"""Hi there, 
+ 
+I'm looking to learn as much as I can about what consumers are saying about chocolate online. I'm looking for someone experienced with web scraping who can scrape data from ratings and reviews / forums / blogs about 8 chocolate brands.  
+ 
+When applying to this job, please let me know: 
+1) What sources (Amazon reviews, Reddit blogs, etc.) you are able to scrape data from 
+2) Which sources you recommend scraping from to understand what consumers like about various chocolate brands 
+3) What format you can deliver the scraped data in 
+ 
+Thanks very much for your help!""",https://www.upwork.com/jobs/Scrape-data-about-chocolate_~019fa2d64fbc9b1a9d?source=rss
+data, Extracting data from a website ,"""I need a list of number plates (for cars) available in Victoria, Australia… 
+ 
+Using the below website, you can manually check what number plates are available. 
+ 
+(link removed)/ 
+ 
+++ 
+ 
+I want the below searches to be run: 
+ 
+(1) All numbers between 1 and 999,999 
+ 
+(2) All letter (L) and number (N) combinations in the form of LLL NNN 
+ 
+(3)  All letter (L) and number (N) combinations in the form of LL NN 
+ 
+(4)  All letter (L) and number (N) combinations in the form of L N 
+ 
+(5)  All letter (L) and number (N) combinations in the form of L NNN 
+ 
+(6)  All letter (L) and number (N) combinations in the form of LL NNN 
+ 
+(7)  All letter (L) and number (N) combinations in the form of LLL N 
+ 
+(8)  All letter (L) and number (N) combinations in the form of LLL NN 
+ 
+ 
+++ 
+ 
+The outputs should be provided in an excel file with 8 tabs (1 tab for each search).  
+ 
+The following headings should be used 
+Number; ‘x’ if available; ‘x’ if not available""",https://www.upwork.com/jobs/Extracting-data-from-website_~0141b4cfb6b6e4834b?source=rss
+data, Extract Data from Website  ,"""Need Data Extracter From Website 
+1.Data Extract From Website 
+2.Put in Format as detailed in attached file""",https://www.upwork.com/jobs/Extract-Data-from-Website_~01dab2b4fe49be811b?source=rss
+data, Scrape attendee data from an iOS or android app ,"""I am attending a trade show and the show uses an iOS or android app to connect with attendees (no website is available). 
+ 
+I need to scrape the attendee and exhibitor data from the app onto a g sheet.""",https://www.upwork.com/jobs/Scrape-attendee-data-from-iOS-android-app_~01b7a80aa5da835449?source=rss
+data, Web scraping to download images ,"""The project is to do web scraping and download images of 60,000 immigrant passes in the collection. 
+ 
+ 
+ 
+There are 88 sets of images, a total of 60,000 images. 
+ 
+Naming: Object number from the URL. like 
+ 
+2750195770 from  
+2750195900 from  
+ 
+Output: Upload 60,000 JPEG images with correct names into designated google folder 
+ 
+thanks 
+ 
+Krishna 
+""",https://www.upwork.com/jobs/Web-scraping-download-images_~01417a0630ba463cf5?source=rss
+tools, Scraping and news generation ,"""Build a scrapper that will scrape: 
+ 
+ 1. news based on Linkedin profiles 
+2. Scrape general company news 
+3. Scrape financial news leveraging APis and other forms, including also companies 10K reports or earning calls. 
+4. Scraping events in specific cities""",https://www.upwork.com/jobs/Scraping-and-news-generation_~01f76738f0e2b38445?source=rss
+data, Image Scraping of a small website ,"""Because a customer lost access to his website, we need all the images of the website in the original resolution. In the section ""Apartment selection"" floor plans of properties are dynamically reloaded, we also need these. 
+ 
+In addition, it would be good to know which CMS was used and possibly whether the texts can also be read out. 
+ 
+Project site: 
+""",https://www.upwork.com/jobs/Image-Scraping-small-website_~01c57a898cd06da917?source=rss
+tools, Data extraction from a directory website ,"""I am looking to get the entire website's directory into excel/CSV sheets. 
+Is there a way to get the entire data from a website?""",https://www.upwork.com/jobs/Data-extraction-from-directory-website_~016143141fdd8261f4?source=rss
+data, Scrape EDGAR filings ,"""1) Go to  
+2) Download all 10-K and DEF 14A filings (file types) for all CIKs and years provided.  These should be pdfs. 
+3) Label PDF's CIK_YEAR_10K where CIK is what is in Column A, Year is the number in Column B, and 10K is the form type.  For DEF 14As, use the naming convention CIK_YEAR_DEF14A. 
+ 
+Ideally, I would like this task completed within 24 hours, and I would like the final product delivered as a zipped file containing all of the pdf filings. 
+ 
+When applying for this job, please send a sample file with a 10-K pdf and a DEF 14 pdf for the first CIK-year combination.  Please use the correct naming convention. This way, I will know if we are on the same page. """,https://www.upwork.com/jobs/Scrape-EDGAR-filings_~01a1c8b588c2727bac?source=rss
+data, Extract URLs from different websites ,"""We need to extract a list of URLs from different websites. The job can be done in approximately 1 hour. 
+ 
+More information will be shared after being available for the job.""",https://www.upwork.com/jobs/Extract-URLs-from-different-websites_~012f0f47c9ce0017b9?source=rss
+data, Scraping database from a website ,"""We would like to export data from a website to a excel document""",https://www.upwork.com/jobs/Scraping-database-from-website_~01b244b59c69fcb9ff?source=rss
+tools, Website scrape - Carwale ,"""We want you to scrape the website   all cars data 
+ 
+1. Give data every 3 weeks 
+2. Give data 4 times 
+3. Each time you give data you get $25 
+4. After 4 times data, hand over the script 
+ 
+We are expecting the output as given in the following sheet 
+ 
+ 
+ 
+The sheet should contain entire cars data available on the website""",https://www.upwork.com/jobs/Website-scrape-Cardekho_~01c6e5a05bd7d7ddbc?source=rss
+tools, Looking for a web scraper ,"""Hey! I'm looking for a we scraper that can help me extract data from a few websites.  
+ 
+There're a few websites that have a database with information such as name, phone number and email address. To get that info, is necessary to enter a zip code.  
+ 
+I don't have a final list of zip codes of the city, but I do have a list of the range of the zip code. So, it'll be necessary to come up with each and every variation within that range. You can check the file that I uploaded here.  
+ 
+As soon as we have the list with the zip codes, we can start web scraping. Here's an exemple of website: (link removed) 
+(translation: ""To find a Consultant enter your zip code"" and the green button ""search"") 
+  
+We don't need much information to be extracted, but we are working on a tight schedule. 
+ 
+If you are interested, let me know.  
+ 
+Thank you!""",https://www.upwork.com/jobs/Looking-for-web-scraper_~01921fa1880c3cdbf4?source=rss
+data, Extract data from Familysearch.org ,"""I would like to extract data from the website familysearch.org. This is a pilot using 200 observations; the full dataset will contain around 3500 observations. 
+ 
+I have a list of names and years of birth in the attached .csv file. I would like you to search each observation and extract data for each potential match. Further details are included in the .docx attachment.  
+ 
+The desired output will be a .csv file and script. 
+ 
+Could you please advise me on the estimated time it will take to complete the project. Please note that you will need an account to access familysearch.org, but this is free to create.""",https://www.upwork.com/jobs/Extract-data-from-Familysearch-org_~011bb85a4b409fba97?source=rss
+leads," Data scraper - emails from modelling websites and forums, only fans ","""Hi all 
+ 
+Seeking an email data scraper for a short and simple project. 
+We need someone to scrape emails from sites like OnlyFans and similar, such a modelling forums/bbs sites etc. 
+We will provide a list of some sites also that we would like scraped. 
+This project is simple and can be completed by simple scraping tools. We have the tools ourselves but we are too busy on other projects at the moment and this is why we are outsouring this simple project. 
+Happy to hear from owners of modelling , fashion and glamour websites/lists too. 
+Thanks 
+paul""",https://www.upwork.com/jobs/Data-scraper-emails-from-modelling-websites-and-forums-only-fans_~01761b8901444ad956?source=rss
+data, Scrap all html of website on web.archive.org ,"""[URGENT] 
+Please read the whole post before applying. 
+ 
+I need someone to scrap a snapshot of a website on web.archive.org. 
+ 
+This is not the same as simply scraping a regular website. 
+ 
+I would like to receive the whole html of this stored website snapshot on web.archive.org. 
+ 
+Please, only apply if you have the necessary skills. 
+ 
+This needs to be done as soon as possible. 
+ 
+Kind regards,  
+Jeremie""",https://www.upwork.com/jobs/Scrap-all-html-website-web-archive-org_~0112836e5b6934c605?source=rss
+data, Web scraping  tables from a website ,"""We have a website that contains a lot of pages. Every page contains a table. we need a web scraping developer to extract all tables in an excel sheet. 
+More information will be given to the developer after hiring.""",https://www.upwork.com/jobs/Web-scraping-tables-from-website_~019b2c34dc50fca30a?source=rss
+data, Search Map - scraping ,"""Scraping of a search map of point of sales.  
+ 
+Here is the link of the page to scrap :  
+ 
+""",https://www.upwork.com/jobs/Search-Map-scraping_~01d0cb3d2e814a5b73?source=rss
+data," Data Extraction or Scraping Project 13,000 Items. (NOT LEAD GENERATION) ","""Please read carefully and respond with complete and well thought out solution with examples of past work 
+ 
+THIS IS NOT LEAD GENERATION 
+ 
+I have a product list of 13000 products.   I need the below listed items in a 30 day time frame.   Job is open to one person or a team.  I am open to multiple step process.  (automated and manual if needed) 
+ 
+Items Provided: 
+Part number 
+Manufacturer name 
+ 
+scrape will provide:  
+sku 
+gtin  
+price 
+sale price 
+special price 
+wholesale price 
+short Description 
+long description 
+features 
+benefits 
+specifications 
+attached documents (brochure, spec sheet, etc) 
+up to 3 images 
+shipping dimensions 
+shipping weight 
+dropdowns 
+lists 
+ meta title and meta description 
+ 
+data to be provided in spreadsheet, results to be provided in spreadsheet 
+ 
+ 
+Please provide multiple items of proof that you can handle a job of this size.""",https://www.upwork.com/jobs/Data-Extraction-Scraping-Project-000-Items_~01714225acd1c1e453?source=rss
+data, Scrape data from Google or Google Maps ,"""I would like business listings from Google results for specific Arabic keywords searches on the specific country. 
+ 
+The query should find results in Google and content should be delivered in Excel: 
+ 
+1. Business name 
+ 
+2. URL 
+ 
+3. Phone 
+ 
+4. Email 
+ 
+5. Results page # (example Page 1 of Google Results, Page 2, etc.) 
+ 
+6. Location 
+ 
+7. Country 
+ 
+8. City 
+ 
+9. District 
+ 
+10. Google map location 
+ 
+11. Number of reviews 
+ 
+12. Rating""",https://www.upwork.com/jobs/Scrape-data-from-Google-Google-Maps_~01ebeb471261ecac7a?source=rss
+data, Webpage Basic Data Scrape ,"""We need to gather contact information related to ""Scholarships"". 
+ 
+Data to collect (see attached image): 
+- Description 
+- Awards Available 
+- URL 2 (NOTE: see attached image, clicking on the ""Learn More"" button when logged into the site launches a window that displays the URL that need to be captured)  
+ 
+DELIVERABLE :: Scrape the above data fields from the ""URL 1""  in column ""A"" of the attached Excel file. Add the three fields of data collected to the Excel File. There are 4,566 URLs to collect data on. 
+ 
+No hard deadline, just want it done in the next couple of days. Let me know if you have questions.""",https://www.upwork.com/jobs/Webpage-Basic-Data-Scrape_~01f6e2626422071884?source=rss
+tools, Extract competitor data from websites  ,"""Looking for someone to extract data from a website and load into an Excel spreadsheet.   There will also be some basic classification needed. 
+ 
+Need to start asap.""",https://www.upwork.com/jobs/Extract-competitor-data-from-websites_~017b9ea44c1f89d82a?source=rss
+data, Web scraping for store locations ,"""I need a specific website's store locator scrapped for the following information - 
+ 
+Store name 
+Address 
+Phone Number 
+Email address 
+ 
+I need this information collated and returned to me in an excel spreadsheet.""",https://www.upwork.com/jobs/Web-scraping-for-store-locations_~0141ed8bf3da3cb3f2?source=rss
+tools, Bing/Google Results to CSV | Data extraction ,"""I will provide a list 15 search terms that need to be searched with either Google or Bing. 
+ 
+The delivery file should be an excel file  with all URLs of the results thrown by the search engine. I have found a Chrome Extension that can download into CSV results on page (you would need to do that on every page of the search terms) or if you know any other better way to do this, feel free to do it. 
+ 
+What matters is that I need a file with all URLS from the search results into one file (on average every search query has around 200-300 search results). 
+ 
+Search has to be set to English results and removing any safe search filter. I need attention to detail so If you read instructions please type ""FWL"" before your application 
+""",https://www.upwork.com/jobs/Bing-Google-Results-CSV-Data-extraction_~01d527a38576e03f4f?source=rss
+data, Data Scrapper ,"""Hello Can you scrap the images and data from this website -.  
+ 
+I would need all the images and the image data put into an excel spreadsheet for each image like (data_chart.xls). I would also need the image downloaded with image name renamed to its ID number. In the below example the image would be renamed 7555.png """,https://www.upwork.com/jobs/Data-Scrapper_~016bc5b538dcc21645?source=rss
+tools, Web Scraping Job ,"""Looking for a web scraper to use your web scraping intelligence and creativity to generate a list of companies using Twilio's services. 
+ 
+If you are interested in this job, please describe which tools and methods you will use to generate thousands of companies that use Twilio's services. 
+ 
+What creative ways can you think of to scrape information on the Internet to find out which companies use Twilio?  
+ 
+Can anyone scrape whoever has liked the Twilio page on LInkedin, Facebook, or Twitter?""",https://www.upwork.com/jobs/Web-Scraping-Job_~014ceb49e6d0769375?source=rss
+tools, Web scraping for store locations ,"""We need a list of store locations of a specific company, including it's full addresses and geolocations. 
+ 
+Bonus will be paid if the solution is shared and is re-usable by us.""",https://www.upwork.com/jobs/Web-scraping-for-store-locations_~01af76006a9154ad33?source=rss
+data, Scaping PGA Tour Shot Data ,"""Hi - I'm looking for someone to build a scraper to scape data from the PGA Tour Leadboards to get historical shot level data (example of the data I am trying to scrape is attached).  
+ 
+Would like to go back as far possible with gathering data; also open to other sources of the data if there is a project that has been worked on before or if you are able to find alternative sources.""",https://www.upwork.com/jobs/Scaping-PGA-Tour-Shot-Data_~019c9bd911d42ab556?source=rss
+data, Web scraping a directory on a public page (page's in french) ,"""Hello there, 
+ 
+Please see the assignement details attached.  
+ 
+First milestone: 25 entries, for $8 
+Second and last milestone: rest of it for $17 
+ 
+Thank you,""",https://www.upwork.com/jobs/Web-scraping-directory-public-page-page-french_~015ef6351ea4bab205?source=rss
+tools, [Urgent] Scrape Emails From Large List of Sites ,"""I've got an urgent job where I need someone to scrape a contact email from a list of over 100,000+ sites. The sites all use the same platform.  You should check the index page and the contact page. Message for more details""",https://www.upwork.com/jobs/Urgent-Scrape-Emails-From-Large-List-Sites_~0183deaa47f02da8bf?source=rss
+data, Need to scrape data ,"""Scrape all hotels from website: 
+ 
+ 
+Subpages look like this: 
+ 
+ 
+Results should be entered into Google Sheet, with following information: 
+- Name 
+- Brand 
+- Address 
+- URL""",https://www.upwork.com/jobs/Need-scrape-data_~01835ebb23923e4fb5?source=rss
+data, Create script to pull data from Waze ,"""We need to create a script to pull a data feed from Waze.  We need data for an entire country for specific data outputs.  Such as address, name of place, price.""",https://www.upwork.com/jobs/Create-script-pull-data-from-Waze_~0152e7c9351fa34f1b?source=rss
+leads, Data collection - Business address +URL ,"""I have a list of 1000 business names and suburbs, i need their full address and URL""",https://www.upwork.com/jobs/Data-collection-Business-address-URL_~0102d6f3f6fac39d30?source=rss
+data, Need a developer to scrape data  ,"""Looking for a skilled scraper who can scrape data from websites for our Online Travel Agency.""",https://www.upwork.com/jobs/Need-developer-scrape-data_~01b9e7d7fe1c4a9c0d?source=rss
+tools, Python script for data scraping from google and DuckDuckGo ,"""Hi bro hope u are doing good! 
+let me know if you can write a code that can do web scrapping from google and duckduckgo and yahoo! 
+i just need to scrap this details : 
+emails 
+phone numbers  
+webiste link 
+thank u and have a nice day!""",https://www.upwork.com/jobs/Python-script-for-data-scraping-from-google-and-DuckDuckGo_~01b42af197df658d43?source=rss
+data, Scrapping Data from Yoga websites ,"""
+Hi everyone,! 
+I'm Looking for SomeOne Who can Help me in Scrapping Data from Yoga websites. 
+List will be provided 
+(link removed) At this page, Click on details, requirements Section and you will get requirements and all the details about this work. 
+ 
+Check Once and let me know if you can do this.""",https://www.upwork.com/jobs/Scrapping-Data-from-Yoga-websites_~01d1ee741f35a5c1cb?source=rss
+data, Extract hotel and restaurant data from Google ,"""Looking for a developer to extract hotel and restaurant data from Google based on location entered in my website search and have results be dynamic. I’m building a travel planning tool for users to locate and book travel based on cities they are traveling to.""",https://www.upwork.com/jobs/Extract-hotel-and-restaurant-data-from-Google_~01172c322cb6a13f6a?source=rss
+data, Python web scraping ,"""We need the following information of one website:  
+ 
+Title, product code, stock, category, price,  description and size of the product.  
+ 
+This data will have to output in a Excel.""",https://www.upwork.com/jobs/Python-web-scraping_~010ff0b4c920675fbd?source=rss
+data, Scrap Our Current Website ,"""The website we would like scraped is on a Zeald platform. 
+ 
+We are wanting the following information scraped off the website; 
+ 
+Title 
+Short Description 
+Detailed Description 
+Product Code 
+Variant Name 
+Variant Price Break 1 
+Variant Price Break 1 Price 
+Variant Price Break 2 
+Variant Price Break 2 Price 
+Tags 
+Pack Quantity 
+Image 
+Meta Page Description 
+Meta Page Keywords 
+Category 
+Cross Sell 
+Extra Images 
+Attachments 
+ 
+Attached is a diagram of what we need to be scraped/taken off the website into a excel format. 
+""",https://www.upwork.com/jobs/Scrap-Our-Current-Website_~01639452f2b2df5bf4?source=rss
+data, Scrape Data from Crowdfunding Website ,"""Scrape Kickstarter.com for all the projects in a specific category (about 30K projects). 
+Many Kickstarter pages are loaded through AJAX/XHR (dynamic page loading). You should be able to crawl pages based on AJAX/XHR. Please see the attached file for detailed requirements.""",https://www.upwork.com/jobs/Scrape-Data-from-Crowdfunding-Website_~01497cb5f64221f51e?source=rss
+data, Run scripts to scrape data from websites ,"""Looking to have several websites scraped via a script - data added to a google doc. Will try with one and then we will do more together. Thanks! 
+ 
+An example would be to scrape all data about all distilleries here: 
+(link removed) 
+ 
+Name 
+Location 
+Website 
+Email Address 
+Phone number 
+Has Tastings / Tours / Events""",https://www.upwork.com/jobs/Run-scripts-scrape-data-from-websites_~011314247d35816522?source=rss
+data, Website scraping-enter data into Excel ,"""Copy details of list into Excel spreadsheet as per sample  
+supplied in the link below. 
+Budget $15 
+Please see full details of the job here: 
+""",https://www.upwork.com/jobs/Website-scraping-enter-data-into-Excel_~014239fa7759647928?source=rss
+data, Extract/scrape data ,"""I want you to extract/scrape data from medicine companies, 
+List will be provided when you fulfill our requirements for this job. 
+(link removed) Check requirements and details by clicking on blocks.""",https://www.upwork.com/jobs/Extract-scrape-data_~01dd627f3221b171cd?source=rss
+data," TripAdvisor Data Scraping Hotels, Restaurants & Attractions ","""I am looking for World Wide data on TripAdvisor Hotels, Restaurants & Attractions. 
+Data should be in CSV or JSON format. 
+ 
+Structure--- Restaurants & Attractions 
+ 
+Name - 
+Address-  
+Details- 
+Photos- 
+Phone- 
+Website- 
+Reviews- 
+ 
+Structure--- Restaurants & Attractions 
+Name - 
+Address-  
+Details- 
+Room Details- 
+Price-  
+Photos- 
+Phone- 
+Website- 
+Reviews- 
+""",https://www.upwork.com/jobs/TripAdvisor-Data-Scraping-Hotels-Restaurants-amp-Attractions_~0152e3161c5cdd5e79?source=rss
+data, Quick Data Scraping From Given Site ,"""I have a site from which you have to scrape a data such as phone no and adress. 
+Scrape the data from this site. 
+(link removed) 
+""",https://www.upwork.com/jobs/Quick-Data-Scraping-From-Given-Site_~015491aa77ca6b77a9?source=rss
+data, Need website scraped ,"""Need the data scraped from a bar association website. need name, email, business name, address information, and any other fields that are available. I have had this site scrubbed previously, but it appears they may have added a captcha since last time.""",https://www.upwork.com/jobs/Need-website-scraped_~017efb2512a684e9ee?source=rss
+data, Scraping Website Data & Images ,"""We are looking for someone to scrape the following website: hkmsport.de - we have an account with them but they don’t offer an export for the images. 
+ 
+Data Requirements:  
+ 
+- Title 
+- Description  
+-  Images URL  
+- Size  
+- Variant  
+- Art / SKU 
+ 
+Notes:  
+ 
+Around 15,000 results total  
+Results behind login (login will be supplied to winning bidder) 
+Attached is a page example from the website""",https://www.upwork.com/jobs/Scraping-Website-Data-amp-Images_~017a940f3f2d17185f?source=rss
+data, Web Scraping for news website ,"""I need someone to perform web scraping from yourstory.com and provide the code used. The web scraping needs to be done in python and the final output should be saved as a dataframe.  
+ 
+This is a short-term project but if turnaround and quality are fast and good, I am interested in a longer engagement.""",https://www.upwork.com/jobs/Web-Scraping-for-news-website_~01653d9d9091bb7e2b?source=rss
+data, Scrape forum data ,"""Hi 
+For a research project, I am needing to extract data from the Amazon Seller Central Forum (""ASCF"" -  ) USA and three Reddit channels (r/FulfillmentByAmazon; r/AmazonSeller; r/AmazonSellerAbuse) 
+The data to extract is  
+a) Name of topic/post;  
+b) # of views (ASCF only);  
+c) # of votes (reddit only);  
+d) # of comments;  
+e) timestamp 
+I do NOT need the body/content of the post. 
+I need to extract all the data from the first post up to 10 February 2022 
+Would be willing to hear budgets proposals. 
+Thanks,""",https://www.upwork.com/jobs/Scrape-forum-data_~016bb5b843627ebbbc?source=rss
+data, Data Scrape USA website ,"""Hi there 
+ 
+Looking for Business Name, First Name and Last Name (if available), Email Address, Website, Phone, Address (if available) and State of specific business categories from ThomasNet.com as a .csv file 
+ 
+Please let us know if you can help, and approximate cost. 
+ 
+Thanks 
+Lynda""",https://www.upwork.com/jobs/Data-Scrape-USA-website_~01ee5cc5bfed74fe10?source=rss
+data, Need someone who can scrape data urgently ,"""I Need someone who can scrape data urgently From the following site. You can also dm me for more info. 
+Scrape from this site: 
+(link removed)""",https://www.upwork.com/jobs/Need-someone-who-can-scrape-data-urgently_~01278b90d00700d4cf?source=rss
+data, Web Scraping ,"""We are looking to scrape the data from this web page results of all pages  
+ 
+there are 551 records . 
+ 
+We want an excel with: 
+Name 
+Unit numbers""",https://www.upwork.com/jobs/Web-Scraping_~01e2b8852fab517806?source=rss
+tools, Scrape data from 2 websites into excel and compare ,"""Scrape data from 2 websites (one is deep web, one not) into an excel/google doc sheet and automatically compare the 2 and highlight rows that fit specified criteria""",https://www.upwork.com/jobs/Scrape-data-from-websites-into-excel-and-compare_~018faf8602a2d5e974?source=rss
+tools," Web scraper, data extraction, 2 websites with images to xls ","""We are looking for someone to create a web scraper for us. Product data including images from two different websites (regular) should be crawled and unnamed. One is freely accessible, for the other one you need login and password (is available). It can also be done with a browser addon (e.g. Web Scraper).  
+The result should be an excel sheet with the data and the images in low resolution. More details on request. 
+----------------------- 
+Wir suchen jemand, der uns einen web scraper erstellt. Es sollen Produktdaten inklusive Bildern von zwei unterschiedlichen Webseiten (regelmäß) gecrawled und ungenannt werden. Eine ist frei zugänglich, für die andere benötigt man Login und Passwort (ist vorhanden). Gern kann es auch mittels Browser addon (zb. Web Scraper) umgesetzt werden.  
+Das Ergebnis soll eine Exceltabelle sein, in dem die Daten stehen und die Bilder in niedriger Auflösung eingebunden sein sollen. Weitere Details auf Anfrage.""",https://www.upwork.com/jobs/Web-scraper-data-extraction-websites-with-images-xls_~010faa029438c0869e?source=rss
+data, Web scraper export for company data extraction ,"""Hello, 
+ 
+I need to extract some data from a belgian company directory. 
+ 
+More specifically, these data: 
+- company name 
+- address 
+- VAT 
+- Number of employees 
+- Turnover 
+ 
+I need the data for companies from 158 cities.  The number of companies varies greatly from one city to another. 
+""",https://www.upwork.com/jobs/Web-scraper-export-for-company-data-extraction_~018e41b2fc25632c6d?source=rss
+data, Web scraping a directory on a public page ,"""Hello there, 
+ 
+On here:  
+ 
+There is a bunch of providers that can be listed on that page. I'd need someone to extract all of them automatically. 
+ 
+You can see 6 categories of providers here: I won't need the general practitioners, pediatricians, or non-medical psychotherapists. 
+ 
+Thank you,""",https://www.upwork.com/jobs/Web-scraping-directory-public-page_~018c3424ef6dd98597?source=rss
+data, Web Scrapper required ,"""I am looking for an experienced web scrapper who can collect product data of all financial institutions and also collect product data of all insurance companies.  
+The collected data must be entered in an Excel file containing Headers. 
+My assistance will be provided every step of the way. 
+My budget is limited but can be increased only if valid reason is given from the scrapper.""",https://www.upwork.com/jobs/Web-Scrapper-required_~01fefa47ddcefb5da7?source=rss
+tools, Web scrapping of data science  ,"""Scrape & monitor any data on the web. Download as API, CSV, or JSON. Lots of integrations. Leverage textual data in a pragmatic manner for insights by natural language processing. Textual data for alpha generation, product management, ESG integration and research""",https://www.upwork.com/jobs/Web-scrapping-data-science_~0146fc8eeddef6f3f9?source=rss
+data, Web scraping of geo coordinates from a map in US ,"""I am looking for help in scraping geo coordinates for all US retailers from following map  .  
+Total number of locations will probably be over 40k .  
+ 
+For sending inquiries please feel free to leverage US zip code database attached. Please also note, that website is most likely to block if you will send too many inquiries at once, so please take IP rotation under consideration 
+ 
+Data output should include: 
+- Name 
+- Street, City (Can be joined together if easier) 
+- Zip code 
+- State 
+- Latitude 
+- Longitude 
+ 
+This is as time-constraint project, as previous freelancer failed to deliver, therefore I would really appreciate the output by Monday 11PM CET.""",https://www.upwork.com/jobs/Web-scraping-geo-coordinates-from-map_~014c7da37f70518d75?source=rss
+data, WEB Scraper for Coinmarketcap website ,"""Hi, 
+ 
+I Need to extract data from Coinmarketcap about all cryptocurrencies Listed.""",https://www.upwork.com/jobs/WEB-Scraper-for-Coinmarketcap-website_~01c01da872465e8d94?source=rss
+tools, Scrape collection from OpenSea with pricing and traits ,"""We're looking for someone to go scrape an entire collection of 10000 assets with their metadata (like image and traits) and pricing information.""",https://www.upwork.com/jobs/Scrape-collection-from-OpenSea-with-pricing-and-traits_~0182a38ed2e3cbb1c5?source=rss
+tools, Finder.io scraper ,"""I have a finder.io account - premium and i have few million emails. 
+ 
+The script should automate chrome and scrap emails from finder.io by uploading always lists with domains and downloading the emails later and write into a file. 
+""",https://www.upwork.com/jobs/Finder-scraper_~01bd9d57f4f745c54a?source=rss
+data, Extract Image + file name from excel ,"""I have an excel sheet with: 
+ 
+Column A: Images 
+Column B: File names 
+ 
+I need a macro that will bulk save all the images and corresponding file name into a JPEG.""",https://www.upwork.com/jobs/Extract-Image-file-name-from-excel_~01aa0dbf3aa5eab9b5?source=rss
+data, Restore Scrape content from web archive org ,"""Hello 
+ 
+I need to scrape all the content from the web archive org 
+ 
+Make offline site with url navigation so I can use it. 
+ 
+Thank you""",https://www.upwork.com/jobs/Restore-Scrape-content-from-web-archive-org_~0185aa6cf5a383c542?source=rss
+data, Scrap job recruitment site ,"""Hello, 
+ 
+I want to scrap Naukri to list the candidates and their details in json format. 
+Here is my requirement : 
+1. I would need a code for scrapping . 
+2. Code should take following input : location, skill, fresh candidates and other parameters 
+3. Code should output following for each Candidate in json format: Candidate ID, tile, Skill, salary, company name, location, year of experience, employment types, education, etc. 
+ 
+I need a code which I can run independently to fetch data. 
+ 
+Thank you, 
+Nand""",https://www.upwork.com/jobs/Scrap-job-recruitment-site_~01cc134a7bffa06084?source=rss
+tools, Data Scrap a web based App Store ,"""There is a web based online App Store with about 4,000 apps on it. I would like to scrape each app page to gather information like, price, contact info, reviews, etc and then deliver the info in an excel. There are about 25 fields per app that I'm interested in. Most apps are pretty straightforward and provide the same info so it shouldn't be too difficult to do. 
+ 
+Ideally I want this information every month so someone who can make an automated process that gets this info for me would be the best.""",https://www.upwork.com/jobs/Data-Scrap-web-based-App-Store_~0158bc43735c05bb50?source=rss
+data, EAN and Price Data scraping  ,"""I would like to scrap for all EAN codes in this format:  
+Barcode:   8004395001941  
+and the price assigned to each product like  
+Price:1,55 € (per piece) 
+ 
+The website I would like to extract from is ""blogsrl.it"".  
+I will provide the login details of my account after we agree on the contract. 
+ 
+If everything is done correctly I have a few more sites to extract from.""",https://www.upwork.com/jobs/EAN-and-Price-Data-scraping_~01546753ec668ed816?source=rss
+data, Scraping website behind login (we have access) - Delivery TODAY ,"""We have access to a website where we need to extract data TODAY. 
+ 
+The site is behind a login where you will get access. We do not want to get flagged for scraping. 
+ 
+We need about 140 rows scraped across 14 pages""",https://www.upwork.com/jobs/Scraping-website-behind-login-have-access-Delivery-TODAY_~018f341143589ebe8d?source=rss
+data, Web scraping for an EC website ,"""We're looking for someone who can scrape data from an EC website. 
+We require product information from the website, including images (in jpeg or gif files), item descriptions and prices.""",https://www.upwork.com/jobs/Web-scraping-for-website_~01de0cbcfc204cf8ab?source=rss
+data, Scrape Data & Assemble CSV ,"""Looking to methodically scrape the data via a script (so its reproducable) -- 
+ 
+Starting URL:   
+ 
+Specifically, I need a CSV file created which has the following fields: 
+ 
+Manufacturer, Model, Year, Length, Model Type, Hull, Engines, HP, Weight, Beam, Fuel 
+ 
+ 
+The goal is to assemble a CSV which includes the Manufacturer (Brand) -- from the ""1890 manufacturers"" drop down menu on the starting URL page. 
+ 
+Then you will need to iterate for each year from 1971 through 2022 -- collecting information for each model for the selected brand/model/year combination. 
+ 
+The completed task will include a CSV data file as noted above AND a working script which can be run periodically to update the data file from the website.""",https://www.upwork.com/jobs/Scrape-Data-amp-Assemble-CSV_~0109df88ff3f8b016a?source=rss
+tools, Data scraping - scrap data from predefined url (Property listings from portal) ,"""Take a url  
+ 
+example:  
+ 
+and extract al listings from all pages into xls sheet  
+ 
+Address 
+Sold Date 
+Size  
+ 
+Example 
+Row 1  
+Column A - Suburb / Alexander (From url) 
+Column B - Postcode / 3714 (from url) 
+Column C - 849 skyline road Alexandra  
+Column D - 396.03 ha 
+Column E - 29 May 2021  
+ 
+Note script should run through list id in url  
+ 
+""list-2"" 
+ 
+Script / execution instructions should be supplied so client can run the script post project / task completion """,https://www.upwork.com/jobs/Data-scraping-scrap-data-from-predefined-url-Property-listings-from-portal_~01d8a8971e6299f0ff?source=rss
+data, Data Scraping from App ,"""Need to scrape/download the name, company, and email information from each contact found in a mobile app and export it to .CSV 
+ 
+App Name: Pollstar Live 2022 
+ 
+The app is available on iOs, Google Play, etc.  The .APK file is attached. 
+ 
+ 
+""",https://www.upwork.com/jobs/Data-Scraping-from-App_~012b045504a7cfca35?source=rss
+data," Web scraping from thalia.de into google sheet
+ ","""Hello, 
+ 
+Task is to get to build a Google sheet (like the attached screenshot). It should scrape from the productpage like: (link removed) the ""Verkaufsrang"" and the Count of Reviews. 
+ 
+Another example URL is: (link removed) 
+ 
+The sheet should have a storage and a refresh button. I attached the excel as file but i want it as working google sheet.""",https://www.upwork.com/jobs/Web-scraping-from-thalia-into-google-sheet_~01b5b5a170fa40ca5b?source=rss
+data, Image Scrapping from the given link ,"""Download the Images from the Given link and save the images in a separate folder. 
+Attached the instruction sheet and sample output.""",https://www.upwork.com/jobs/Image-Scrapping-from-the-given-link_~015d1c7a56e7c8e233?source=rss
+tools, Website scraping expert needed ,"""I’m looking to work with someone who can take a list of websites and scrape specific information.  
+ 
+I will be targeting b2b software companies  
+ 
+I will need info scraped that includes but is not limited to the categories below; 
+ 
+-product description  
+-features 
+-integrations  
+-pricing  
+ 
+The information needs to be well organized and most likely imported into airtable or Google sheets.  
+ 
+Please respond with an example of previous work and say “orange” in your proposal so I know you read this""",https://www.upwork.com/jobs/Website-scraping-expert-needed_~014721c7921985b00d?source=rss
+data, Scrape businesses from Google Maps ,"""I need someone to scrape Google maps for businesses that match the following criteria: 
+• Based in New Zealand 
+• Contains the words 'laundry', 'laundromat', 'laundrette' 
+ 
+Output delivered as a CSV/XLS with the following columns: 
+• Business name 
+• Latitude 
+• Longitude 
+• Full address 
+• Municipality 
+• Review Count	 
+• Average Rating 
+• Review URL	 
+• Website	 
+• Opening hours 
+""",https://www.upwork.com/jobs/Scrape-businesses-from-Google-Maps_~01cc603936ca8619f4?source=rss
+data, List of restaurants scrape ,"""I need a few different lists 
+ 
+1. Michelin star restaurants list 
+- restaurant name 
+- location 
+- Michelin category (1, 2, 3, bib) 
+ 
+2.   - list of all restaurants on this website for 2021 in all categories 
+- rank 
+- restaurant name 
+- location 
+ 
+3. 100 restaurants from  
+- rank 
+- restaurant name 
+- location 
+ 
+4.  
+- rank 
+- restaurant name 
+- location""",https://www.upwork.com/jobs/List-restaurants-scrape_~01a673c20c0dec52f5?source=rss
+data, Data scrape contact details from a website business directory ,"""Data scrape from a website directory to a excel sheet, with PH, Email, name, address 
+ 
+(link removed)/""",https://www.upwork.com/jobs/Data-scrape-contact-details-from-website-business-directory_~0112f2985fa8e4f3a9?source=rss
+data, 21313 Web Scrape from a Blazor Website ,"""Would like documents or information from public access website for building permits.   
+ 
+Deliverable Format would likely be excel.  Or alternate if it seems better.  
+ 
+ 
+ 
+Need information scraped from project permits.  We will discuss the information needed.   
+ 
+This website uses Blazor technology.  """,https://www.upwork.com/jobs/21313-Web-Scrape-from-Blazor-Website_~01b37930f07783f28d?source=rss
+data, Bigbasket product data scrape ,"""We need the entire product data on bigbasket which includes the following fields: 
+Name of Products 
+Brand of Products 
+Description of Product 
+URL of Product 
+Weight of Product 
+Details of Nutrition’s 
+Types of Food 
+Categories of Food 
+Sub-Categories of Food 
+Food Ingredients 
+Pricing Product""",https://www.upwork.com/jobs/Bigbasket-product-data-scrape_~018f62805fca0fff1b?source=rss
+data, Website | Data Scraper ,"""I need someone to help me scrape this site:  
+ 
+I had this done over a year ago and the individual completed in a few hours. 
+ 
+I need all the details from the main search page  
+ 
+And the details from the individual broker pages: 
+ 
+ 
+Please no manual scraper need to apply.   Thanks""",https://www.upwork.com/jobs/Website-Data-Scraper_~01c29d1624ae823087?source=rss
+data, Data Scraping from a Event website ,"""I need to extract all exhibitors and their details page information. 
+ 
+ 
+ 
+I need this as an excel file.""",https://www.upwork.com/jobs/Data-Scraping-from-Event-website_~012568f1e339d980de?source=rss
+data, Website scrape - Cardekho ,"""We want you to scrape the website   every month for the next 6 months. 
+ 
+We are expecting the output as given in the following sheet 
+ 
+ 
+ 
+The sheet should contain entire cars data available on the website""",https://www.upwork.com/jobs/Website-scrape-Cardekho_~01ce0fce7e5796faba?source=rss
+data, Scraping Google Lens search ,"""Hello, 
+ 
+I would like you to perform a Google Lens search and output the extraction results to Excel. 
+Please let us know if there is an easy method such as VBA, Python, etc. for the extraction method. 
+ 
+I would like to contact you for details and decide. 
+ 
+Well then, we are looking forward to your application.""",https://www.upwork.com/jobs/Scraping-Google-images_~01ce28ba8f605f9a79?source=rss
+tools, Write program to scrap data on a monthly basis. ,"""I have a web site that gets annoyed if you hit it too often. I want a tool that can scrap data from it on a monthly basis. """,https://www.upwork.com/jobs/Write-program-scrap-data-monthly-basis_~01c4d8a27f9cd8e1ae?source=rss
+data, Mine or Scrape Data From a Website ,"""I am looking for someone to either create and run a simple script or manually collect the data from the website  
+ 
+The data will then be added to a sheet (excel or csv or google doc), in the format of the attached example.""",https://www.upwork.com/jobs/Mine-Scrape-Data-From-Website_~014bdbc791c0a1df95?source=rss
+data, Scraping of data from E learning ,"""Need to scrap data from e-learning website , credentials will be provided""",https://www.upwork.com/jobs/Scraping-data-from-learning_~01ed1c54673854af03?source=rss
+data, Data Extraction from website ,"""We need someone who will help me with Data Extraction from the bellow website  
+(https://opensea.io/rankings) 
+ 
+A simple solution to export the results from this website page into an Excel sheet. 
+Instruction--- 
+*Go to the link 
+*Select - Last 30 Days 
+*Select-Art 
+*Select- All chains 
+ 
+Then Collect Data of more than 200 entries""",https://www.upwork.com/jobs/Data-Extraction-from-website_~01d791ebb753594fa1?source=rss
+data, Data scraping python ,"""Scraping data from site. 
+I want to scrape specific data from 20,000 companies from a single website efood.gr 
+We want all the businesses that the site has 
+Export to be delivered in excel 
+ 
+Than the screenshot 123456, i want companies details of all the areas 
+ 
+Note: If we can find phones and emails, it will be paid extra""",https://www.upwork.com/jobs/Data-scraping-python_~01bc0c7aa75b513f6a?source=rss
+data, Web Sites To Be Scrapped  ,"""We have 2 websites that we want to scrap. 
+ 
+1. We want the product descriptions and prices the products are being sold for  
+ 
+2. We want the names of the people who are being advertised on the data base 
+ 
+We would like the information back very quickly.""",https://www.upwork.com/jobs/Web-Sites-Scrapped_~01822a9ed79e0530ca?source=rss
+data, Web Scraping via a Website ,"""Hey! I'm interested in getting Web Scraping done for the following URLs. You would need to have the ""Phantom"" extension to log into the website to see these pages. I'm not too familiar with things pertaining to Scraping, but I believe I would need it on 24/7 hosting. Feel free to message me in regards to any questions you have. 
+ 
+(link removed) 
+ 
+(link removed) 
+ 
+(link removed)""",https://www.upwork.com/jobs/Web-Scraping-via-Website_~0195873a60cc0b9194?source=rss
+data, Scrape a website ,"""Hi. 
+ 
+Looking for an expert scraper who can scrape a webite for me into excel. 
+ 
+Need a few things: 
+ 
+1. All the product information saved into excel 
+2. All the product downloads also saved down - however these need to be done in a way that makes them easy to find for me. 
+ 
+Need done urgently. 
+ 
+Site is as follows 
+ 
+ 
+Thanks 
+ 
+ 
+""",https://www.upwork.com/jobs/Scrape-website_~011b46e017f2d74463?source=rss
+data, Data scrape of website  ,"""I have one website that contains an amount of data I need to extract which I then need to have in a google sheet.  
+ 
+The website contains information about college courses across a number of pages. I will need full information of these organisations. I'd like you to review the site then tell me how long you think it will take to present the full information.""",https://www.upwork.com/jobs/Data-scrape-website_~01a6ab3bed685144b3?source=rss
+data, Quick Scraping Job ,"""Need to scrape a classified marketplace and extract all the sites it imports its ads from. 
+ 
+We will require this information to then be presented in a simple excel sheet.""",https://www.upwork.com/jobs/Quick-Scraping-Job_~01ce0954505b92e382?source=rss
+tools, Scripts for Scraping Emails and Google Sheets + Triggering WebForms ,"""Hello, 
+ 
+We're looking for someone to create a script that will scrape specific email requests we receive (for requests for property viewings) + also a Google sheet where the emails are entered manually via phone calls we receive.   
+ 
+The script would then trigger off a web form we use (which is directly linked to Aweber).  I have a video which explains the process we're looking to achieve in more detail. 
+ 
+Thanks, 
+Ruban""",https://www.upwork.com/jobs/Scripts-for-Scraping-Emails-and-Google-Sheets-Triggering-WebForms_~01958f034b3cfbbd06?source=rss
+tools, Scrape information from html/.eml (Email) - Python Script ,"""I need to have information from emails extracted with a python script. 
+ 
+I will require for each block: 
+- headline 
+- link (from headline) 
+- text 
+ 
+There are two categories of emails: 
+1. (example Deepmind AI...) - normal mail 
+2. (example coinbase ...) - crypto mail 
+ 
+when accepting the contract I will provide 20 samples each 
+ 
+See the attached allMsgs.json file, which contains emailsnr : HTMLTEXT format. this will be how you will get access to the emails. see the .eml files for examples.""",https://www.upwork.com/jobs/Scrape-information-from-html-eml-Email-Python-Script_~018b1fb6f346e09bd6?source=rss
+data, Data Scraping and Entry ,"""We need someone to scrape 60 pages of Zbuyer prospects into the format attached. It's a CSV file that we will bulk upload into another program.""",https://www.upwork.com/jobs/Data-Scraping-and-Entry_~01e9fcbc3ebb90fbff?source=rss
+leads, Web Scraper for Contact Details ,"""We’re looking for a skillfull freelancer that will help us to scrape data from few websites. Data should include email and name (for sure) and if possible the following: title, name (name and surname), contact number, email, follower, instagram, linkedin link, city and biography, google review, google rate... 
+ 
+If you can find all contact details such as email, phone, links or others so we can reach those people. The leads that does not have name and email will not counted as a qualified lead. """,https://www.upwork.com/jobs/Web-Scraper-for-Contact-Details_~012d6a5dc5f0aeaf7f?source=rss
+tools, Crawl the web and download pdf's matching a search term ,"""I would like to search the internet for a specific search term (it is not a common search term) and download all pdf files that match the search term. 
+ 
+Ideally it would be an executable, so I could use it for different search terms.""",https://www.upwork.com/jobs/Crawl-the-web-and-download-pdf-matching-search-term_~012785efeb8f349f06?source=rss
+leads, Web Scraping for Email Addresses ,"""I am looking for someone to assist with a new project and to help with the following: 
+ 
+- Scraping email addresses from social media platforms (linkedin, Twitter, Facebook) 
+- Scraping email addresses from websites  
+- Any other suggestions on how we can build email lists for our target businesses. 
+ 
+Please note, we want this to be an automated project (as much as possible) to reduce costs and allow us to run the scripts frequently.  
+ 
+I look forward to hearing from you.""",https://www.upwork.com/jobs/Web-Scraping-for-Email-Addresses_~01e67c6a8ed2b1abec?source=rss
+tools, Scrape data from car parts website ,"""I need someone to write a script and scrape data from this website: 
+sylvania-automotive.com 
+ 
+Specifically the following fields from the ""Find your bulb"" search 
+Year, make, model, location, position 
+ 
+And the name of each resulting product. 
+ 
+I will only be needing the 'type' in the product name which appears after the word 'SYLVANIA' 
+For example, this product: 
+SYLVANIA H11 LED Fog & Powersports Bulb, 2 Pack 
+ 
+The type is 'H11' 
+ 
+Output for all this data should be both CSV and JSON files by year which I can explain later. 
+See an example of a year for the JSON files (taken from the current website mentioned below) 
+ 
+Ultimately the data will be used in the 'Select your vehicle' for this website: 
+hidnation.com 
+ 
+Respond with the word 'green' so I know you are real""",https://www.upwork.com/jobs/Scrape-data-from-car-parts-website_~010ca498e63bfd9fea?source=rss
+tools, ERA5 weather data ,"""I would like to extract daily temperature/precipitation data for a number of countries (shapefile will be provided) from ERA5: (link removed) """,https://www.upwork.com/jobs/ERA5-weather-data_~0169e601c683880b56?source=rss
+data, Data scrape and put into an excel spreadsheet ,"""Hi I need someone to scrape the data of all schools on a site.  
+ 
+ 
+ 
+For each type of school- there are 9 different types of school i need 
+ 
+In separate columns i need name of school, head teacher, email address and telephone number. 
+ 
+Need this asap.""",https://www.upwork.com/jobs/Data-scrape-and-put-into-excel-spreadsheet_~01655f8f8d31503e8b?source=rss
+tools, Scrape a simple website ,"""I need someone to create a copy of a language learning website. It’s a list of articles with audio. There might be software that does that without any user intervention. The website is newsinslowfrench. I will give you the user name and password.""",https://www.upwork.com/jobs/Scrape-simple-website_~01eaf86e04e67abace?source=rss
+data, Urgent: one-time scraping of product list from Vietnamese website ,"""Xin chao, 
+ 
+I'm looking for help scraping Nha Thuoc Long Chau's website for a list of the products they sell. I just need the product names - preferably in Vietnamese rather than English. 
+ 
+I'd like them delivered in a spreadsheet and formatted like in the attached screenshot. 
+ 
+This is an urgent project I need to be done by 11am tomorrow (Wednesday, 2 March, Vietnam time) if possible. I'd also like your thoughts on if you think it isn't possible to do in time and what it will cost. 
+ 
+Please feel free to ask if you have any questions 
+ 
+Thanks!""",https://www.upwork.com/jobs/Urgent-one-time-scraping-product-list-from-Vietnamese-website_~014fe46e97d7dd3457?source=rss
+data, Data extraction and save to excel ,"""I need a freelancer who can scrape data from a public website and put the data in excel. I think this is really simple job for a experienced freelancer""",https://www.upwork.com/jobs/Data-extraction-and-save-excel_~017a568424130ebe7c?source=rss
+tools, Looking for a web scraping programmers ,"""I’m working on a research project (academia) in economics. I have a list individuals, and there is a website that includes all their working papers. I need to download the list of working papers and match them to the individuals.   
+In general, the project will include web scraping (collecting specific information from a website, downloading it, and then organizing the data to merge it to our researcher's data). 
+""",https://www.upwork.com/jobs/Looking-for-web-scraping-programmers_~017860c0bb9ca9e03d?source=rss
+tools, Python  and web scraping  ,"""looking for a junior Python resource who can help me to scrap the data and later on download the data into database tables. total work 40-60 hours.  
+the work will be done in 2 steps. First, write the scripts and test them. secondly, create a  crown job and make sure the data is downloaded in database """,https://www.upwork.com/jobs/Python-and-web-scraping_~01919e402ccde07c1b?source=rss
+leads, Data Scraping of Japanese Websites ,"""Need Japanese websites scraped for company names and emails with the words for accountancy in Japanese 会計事務所 or 税理士.  I need as many as possible and my goal is 2500 entries.  I want to stay away from info@ or contact@ etc., but it cannot have the words 法律 anywhere in the title. 
+ 
+There are 78,000 accountancies in Japan, so finding 2500 should not be too difficult.  
+ 
+The price listed is for 2500 valid entries, we can discuss prices for less than my goal. 
+ 
+I will hire within a few hours based on the following criteria:   (1) Number of scraping jobs successful completed, speed of response, price, and deadline (asap). 
+ 
+Thank you!""",https://www.upwork.com/jobs/Data-Scraping-Japanese-Websites_~01180427367d751e52?source=rss
+leads, Web Scraping for Data Collection ,"""I need a full data collection from this site:  
+ 
+good firms dot co 
+ 
+It is a list of service providers for various industries. 
+ 
+I need each category scraped, and I need the data for each company collected for each category. 
+ 
+Company name 
+Company Country 
+Company state (if in united states) 
+company website (url) 
+ 
+Ideal presentation of this data is with a single .csv of each of the categories with a row for each company in each category that they are in. 
+ 
+I need the data scraped for all categories and subcategories and for the following countries: 
+US 
+UK 
+AUS 
+CA 
+ 
+Ex: 
+ 
+digital marketing companies - Content Marketing 
+-company_name1, company_country1, ... 
+-company_name2, company_country2, ... 
+ 
+ 
+ 
+ 
+Thanks!""",https://www.upwork.com/jobs/Web-Scraping-for-Data-Collection_~01c15a912d696625fe?source=rss
+tools, Scrapping websites to get data ,"""I want to scrape a few websites, extract the data and give us large data dumps. Also as a next step want to automate this so that we can have this data regularly. What we are scraping for in crypto related so some crypto experience goes a long way""",https://www.upwork.com/jobs/Scrapping-websites-get-data_~0161314f848852356c?source=rss
+data, Little web scraping project ,"""Hi there :) 
+I need a simple web scraper for the Opensea website, only need to fetch a few items in some collections. 
+Only a few simple requirements: 
+1.  Performance, need to be fast as possible no more than 1 minute. 
+2. The collection is dynamically parameter, today it can be X, and tomorrow it will be Y. 
+     So it needs to be passed from the outside and not hardcoded. 
+3. Thethe Opensea search have some filtering option, i need only two of them  
+    (sorting low to high is the default): `Buy now` and `under X price`. 
+4. Need to fetch something about 50 -300 items only. 
+5. Need to integrate with working nodeJs server. the final result should be items number  
+    as list. For example : [237, 8712 , 10781 , 1214...... , 6712]. 
+ 
+*Please take a look at the following link which represents an example for a random collection that i choose with the third described requirement: 
+ 
+ [priceFilter][symbol]=ETH&search[priceFilter][max]=0.999&search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW 
+ 
+Please respond with an offer with price, time estimation, scraper performance estimation, and technologies. 
+ 
+I have to mention that I`m actually an SW engineer so i know this area. 
+ 
+Thank you.""",https://www.upwork.com/jobs/Little-web-scraping-project_~01e9ab30e01412563e?source=rss
+tools, Scraping Crypto Data (Prices) ,"""Hi, 
+ 
+I would like for someone to write a code to automatically harvest and show data for crypto currency prices (c. 1,500 different coins). 
+ 
+Kindy let me know of your interest sot that we could schedule a call to discuss further. 
+ 
+Many Thanks,""",https://www.upwork.com/jobs/Scraping-Crypto-Data-Prices_~01df50fd00031368e6?source=rss
+tools, Scraper needed to analyse hotel reviews ,"""Scraper/online researcher needed to scrape defined aspects of hotel reviews on TripAdvisor. 
+ 
+We're looking to understand how well tourists sleep, identifying the hotels, brands, and locations where people sleep - based on the Sleep Quality score given by reviewers on TripAdvisor. 
+ 
+To collate these, we're looking for an experienced scraper to collate the sleep quality score data from the latest 1,000 reviews for each hotel (where applicable). 
+ 
+London ($100) is the first city we would want hotel reviews to be collated from. Should this data prove feasible and allow us to move the overall project further, we would then look to run the same script for another 49 cities ($200) - primarily in the UK, EU, and the US. 
+ 
+As a guide the deliverables required for this project will be: 
+- Scraped data of ""quality of sleep"" scores from the latest reviews of hotels in each city (max 1,000 reviews per hotel) 
+- Easy to access and analyse pivots (excel) of scraped data, as well as raw sheets of data for reference. 
+ 
+Please do get in touch if you would be able to scrape (and pivot) this data for us. 
+ 
+Thanks so much,""",https://www.upwork.com/jobs/Scraper-needed-analyse-hotel-reviews_~0198b0d73fc34464fc?source=rss
+tools, Web Scraping Expert for startup ,"""I'm a CTO of a startup where we would need to extract contact details of the key persons from 300k-500k websites.  
+ 
+Ideal outcome would be a JSON of all persons with their job titles, emails and phone numbers mentioned on the website.  
+ 
+Ideally the applicant would have experience of this specific problem. If you are able to describe such a case on your application, that would greatly improve your chances to be considered for the project.  
+ 
+If the co-operation is fruitful, we would be happy to expand the relationship and would have additional data extraction/scraping problems to work in. Thank you for your consideratione and hope to hear from You soon!""",https://www.upwork.com/jobs/Web-Scraping-Expert-for-startup_~01224ff086724555d6?source=rss
+data, Simple webscraping data gathering project ,"""We would like to extract all companies listed on this website  
+ 
+ 
+We need the full firm name and the website (which is listed under the 'view' link)""",https://www.upwork.com/jobs/Simple-webscraping-data-gathering-project_~0149596d4f9636f1e8?source=rss
+tools, Scrape Data from App ,"""I would like to scrape the data from an application. The application is behind a login.  
+ 
+I would like to get the full name / job title / company and tags for each of the profiles in the application.  
+ 
+Once we have collected all these pieces of information. I would like to run an automated script to see if we can match the names with a LinkedIn or Facebook profile.""",https://www.upwork.com/jobs/Scrape-Data-from-App_~01f569b41e40f885c6?source=rss
+data, Need someone data scraping person ,"""we Need someone data scraping person who can scraping this website (link removed)""",https://www.upwork.com/jobs/Need-someone-data-scraping-person_~01dae5d6c41ce04ed9?source=rss
+tools, Electricity price scraper written in python.  ,"""I need a visual chart that displays current electricity price pulled by this api called nordpol. And overlayed with current average temperature. You will deliver source code and setup on github and you can chose method of visual presentation. Or even which python library to use. Pandas, numpy, etc  
+ 
+Source api here  
+""",https://www.upwork.com/jobs/Electricity-price-scraper-written-python_~01db478a6d54225afe?source=rss
+tools, Data scraper for ekstraklasa org website ,"""I need a scraper for data from  . 
+ 
+Players data from each match details across the season. It must work for upcoming matches as well.""",https://www.upwork.com/jobs/Data-scraper-for-ekstraklasa-org-website_~012b8fbd6eeb371b59?source=rss
+tools, Create a web scraper that can collect and convert data from 20 different websites ,"""i have an existing scraper collecting data from 20 different sites. The data are collected from online search in databases and in published pdf reports. 
+ 
+I need the scraper to be able to convert the collected data into a specific CSV format""",https://www.upwork.com/jobs/Create-web-scraper-that-can-collect-and-convert-data-from-different-websites_~0132745e2440bcc3e4?source=rss
+data, Data Extraction to CSV ,"""Hello 
+Looking to scrap data here:  
+ 
+From page 1 to page 21. 
+624 results. 
+ 
+Please check enclosed file for rows needed. ""Fiche"" must be the URL link.""",https://www.upwork.com/jobs/Data-Extraction-CSV_~0119f103b4c18894a2?source=rss
+tools, Website scraping needed to pull data ,"""Need quick but clean solution 
+Need to pull publicly available data from following two websites: 
+ 
+ 
+ 
+ 
+Need this data in next 2 days. Will also need the code written to execute this.  
+ 
+Inputs I will provide: set of pin codes/zip codes and the output fields needed to be extracted. 
+""",https://www.upwork.com/jobs/Website-scraping-needed-pull-data_~01039d2a09a0949d24?source=rss
+tools, Write a python parser to extract data from HTML and write into a Google Sheet ,"""I am currently manually copy/pasting values from a website into a Google Sheet. I need someone to automate the process by writing a parser in python which finds values based on business rules and writes into a Google Sheet""",https://www.upwork.com/jobs/Write-python-parser-extract-data-from-HTML-and-write-into-Google-Sheet_~017f5378110c9e4337?source=rss
+data, Web scraper who can extract data ,"""Web Scrapers can extract all the data on particular sites or the specific data that a user wants. Ideally, it’s best if you specify the data you want so that the web scraper only extracts that data quickly.""",https://www.upwork.com/jobs/Web-scraper-who-can-extract-data_~01e7c91fc2217ee493?source=rss
+data, Website Scraper / Scrape Data on Websites ,"""Looking for someone to scrape data on certain websites (website will be given once the job is agreed upon) - this is just one website. 
+ 
+Data required from the scraping includes - name, company, project size, social medias account, and emails.""",https://www.upwork.com/jobs/Website-Scraper-Scrape-Data-Websites_~0117b5c24f1a0dfade?source=rss
+tools, Web Scraping Software - Data Extraction Program Needed ,"""To create software with an interface that can do the following:  
+ 
+A - scrape the search results of some websites that have different searching filters. 
+ 
+B - I need the software to allow me to choose which search filters I want it to search and scrape. 
+ 
+C - then the software should allow me to export the scrape results to an excel/csv file. 
+ 
+More details can be provided to the right applicant. 
+ 
+Feel free to place your bid for this job and I will consider, thank you!""",https://www.upwork.com/jobs/Web-Scraping-Software-Data-Extraction-Program-Needed_~016b2d932eb18b0a90?source=rss
+data, Web scraping of tradeshow exhibitors-Hardware ,"""I need a manufacturer website scraped of exhibitor contact info. 
+ ? 
+ 
+Should be delivered in Google Sheets format and include the columns: 
+Company name 
+Address 
+Phone 
+Email 
+Company website 
+Description 
+Product Categories""",https://www.upwork.com/jobs/Web-scraping-tradeshow-exhibitors-Hardware_~01293502e7d8eeb670?source=rss
+data, Data scraping for Indonesia KEMENKES (MOH) website ,"""Looking for someone who can help to scrape the Indonesia KEMENKES website (including paths within links) within 1-2 days 
+ 
+website:   (""List Rumah Sakit (Nasional)"") 
+ 
+Output is in excel in columns. Can share output format once job is confirmed 
+ 
+Thank you.""",https://www.upwork.com/jobs/Data-scraping-for-Indonesia-KEMENKES-website_~01f55db6a7d4d6ded1?source=rss
+data, Web data scraping  ,"""We are looking for someone who can scrape web data using python. We want to extract data such as company number, company location, company city etc""",https://www.upwork.com/jobs/Web-data-scraping_~019d4dc37b4b9fe984?source=rss
+data, Scrape the car details  from the used car website ,"""I need a python developer with scraping knowledge. I need the car details(Car model, make, year, color, KM, Image URLs, and price from the used car website.""",https://www.upwork.com/jobs/Scrape-the-car-details-from-the-used-car-website_~011b89c1303e3190ac?source=rss
+tools, Data scraping tool  ,"""Web Harvy Or any other scraping tool. 
+I am looking to work with someone that can build me a simple web scraping tool to pull B2C listings from 3 different websites into a readable format (ideally a Google Sheet, CSV or Excel). 
+ 
+I am looking to scrap Thatsthem.com majorly. 
+The file attached will show the information that should be pulled from each website and compiled into a singular sheet. I am only interested in listings in USA. 
+ 
+Once reviewed, please provide your cost and timeline and confirmation you have built something similar before. 
+ 
+Thank you very much!!""",https://www.upwork.com/jobs/Data-scraping-tool_~015413564e8ffaac8f?source=rss
+tools, Using Semrush API to scrap data ,"""I want to use the Semrush API (https://www.semrush.com/kb/5-api) to pull information for approximately 1500 organizations. I will provide the name and the website links of the organization. Of course, I will also pay for the Semrush API.""",https://www.upwork.com/jobs/Using-Semrush-API-scrap-data_~0176dd462e4a224b55?source=rss
+tools, Mobile app data scraping ,"""Would you be able to develop a script or software for scraping data from Android/IOS apps? 
+ 
+You can use the android or iOS app for scraping and any programming language/software, although python and JS are preferred. 
+ 
+We will provide all other details upon request - please do not hesitate to ask any questions you may have. Thank you!""",https://www.upwork.com/jobs/Mobile-app-data-scraping_~0147d0c7f6c43f8b01?source=rss
+data, Website Data Scrape ,"""We need to pull data from a specific website. Most importantly, this data must be clean and in the proper format when completed.  
+ 
+We are looking for someone who can take on the whole project. From determining how to best collect the data, ensuring that each item is properly mined.  
+ 
+Final format will need to be a .csv file, however we have no preference on the process for obtaining the data, as long as we have a clean final format.""",https://www.upwork.com/jobs/Website-Data-Scrape_~0174e61e2f5cfae050?source=rss
+data, WikiData extraction ,"""We need someone to extract the data on wikipedia through wikidata to a very simple expression of a list of keywords + a list of links (big CSV file). No need for images or content. Only latest version of the pages, as well as no user pages.""",https://www.upwork.com/jobs/WikiData-extraction_~01cdcdc044e510c98c?source=rss
+tools, Web scraping usernames ,"""Hi, 
+ 
+We would like to extract from Opensea.com accounts, their associated twitter and instagram accounts. 
+ 
+Opensea.com allows NFT investors to create profiles, like this: 
+ 
+ 
+As you can see in this profile, there are twitter and instagram accounts linked. Not all profiles have linked their twitter and instagram accounts yet, but many have. 
+ 
+We want to create a way to extract this information and put into a CSV file with all possible twitter and instagram usernames that can be found on opensea.com. 
+ 
+Let me know how long it would take to develop and how much would it cost please. 
+ 
+Thanks""",https://www.upwork.com/jobs/Web-scraping-usernames_~01a52c49344db7349d?source=rss
+tools, Python - scrape spotify ,"""We need to scrape spotify to get artist details to store name of artist, phone and email and number of followers 
+ 
+So we would like to be able to input a search term e.g ""sweden"" 
+ 
+It should then loop through all the artists.  
+- store name of artist 
+In the about section there are links to facebook, instagram and website 
+- navigate to facebook and instagram and see if theres an email and telephone number 
+- navigate to website and see if there's a phone or email (we have a script for this that you can incorporate) 
+ 
+It should log each artist searched and whether it found any contact details.""",https://www.upwork.com/jobs/Python-scrape-spotify_~011cf96d999f788d52?source=rss
+tools, Solution required to get information from thousands of searches  ,"""We are a small team of professionals based in UK, US, Luxembourg and Poland specializing in insurance, reinsurance and asset management. The scope is fairly broad and we appreciate people who also have their own ideas to share while keeping in mind the end product to achieve. We are looking for someone to help with compiling a comprehensive list of mortgage related information (~ around 1m) in Poland and using that information extract the details from publicly available searches.""",https://www.upwork.com/jobs/Solution-required-get-information-from-thousands-searches_~010df04a582fc6e037?source=rss
+data, Extracting data from webpages ,"""I am looking for all the webpages or websites which has the following words: 
+1. Impact of floods on companies 
+2. Flood data 
+3. How water studying technology helps in predicting floods? 
+4. Industries which benefit from water/flood data 
+5. Destruction caused by floods in USA 
+""",https://www.upwork.com/jobs/Extracting-data-from-webpages_~01a28b8fa174566e20?source=rss
+data," Website Scraping For Phone Number, URL, Name, And Description ","""Needing about 4 to 5 websites scrapped for the following data sets from each site. Phone Number, URL, Name, and Description will be need to be collected from each site.  
+ 
+Please let me know the price and length of time to complete this project.""",https://www.upwork.com/jobs/Website-Scraping-For-Phone-Number-URL-Name-And-Description_~015e2d9d55aa65e795?source=rss
+leads, Data scrape for  ,"""Need a list of private gastroenterologist in the NJ area. 
+Nmae number address email on exl""",https://www.upwork.com/jobs/Data-scrape-for_~0185bd41cb95a4dc85?source=rss
+data, Web Scraping of Mobile Phones ,"""I need a list of mobile phones scraped from a website. 
+ 
+This website has an API which should make this task a lot easier. 
+ 
+There are around 30,000 results to be scraped. 
+ 
+There may be a need for proxies and other techniques if the scraping is done too quickly. 
+ 
+Ideally this would be done in C# as I'd like to re-use the code. 
+ 
+If you're interested and think this is something you'd be able to do then get in touch and I'll send you the website as well. Thanks for reading.""",https://www.upwork.com/jobs/Web-Scraping-Mobile-Phones_~01548dc34ddae7bcb9?source=rss
+data, Data Scrape from Zoominfo ,"""I need 1000 contacts to scrape from Zoominfo. I would provide the requirements and you can scrape them from Zoominfo. I need only verified information. Please only apply for paid ZoomInfo freelancer.""",https://www.upwork.com/jobs/Data-Scrape-from-Zoominfo_~01bdaf5cd03b4421f9?source=rss
+tools, Need a help with web scraping  ,"""I need to scrape a specific information from a specific website. And this needs to be done daily. Contact me for more information.""",https://www.upwork.com/jobs/Need-help-with-web-scraping_~0190f077910f5d2bb9?source=rss
+tools, Web Scraper Required to Read Data from Public Website ,"""Require help building a Web Scraper to parse data from the following site: 
+ 
+ 
+This will be done for a large series of Team IDs.  The task will be to access the game history for each team ID and then build a complete profile for each team including their entire game history as well as additional available details about the team.  Data will be stored in a CSV, or Database for access to apply algorithms to the back-end data.""",https://www.upwork.com/jobs/Web-Scraper-Required-Read-Data-from-Public-Website_~01faa95055e897ecf6?source=rss
+tools, Octoparse scrape template need ,"""If you have experience using Octoparse to scrape websites, then I would need your help creating a scraper to scrape this particular page """,https://www.upwork.com/jobs/Octoparse-scrape-template-need_~011edae674b76371f7?source=rss
+leads, Web Scraping- Lists ,"""I would like to scrape the data of this entire database  
+ . 
+I want the law firm's names, email address, phone numbers and physical addresses uploaded to an excel spreadsheet, each in a sperate column.""",https://www.upwork.com/jobs/Web-Scraping-Lists_~01321b20749516cfa3?source=rss
+data, Data collection on London Residential Tower Projects on Google Maps ,"""All the Tallest buildings and structures, Under construction and Approved from the link below: 
+ 
+ 
+ 
+Mapped onto Google maps by creating a saved map list on google maps of each tower 
+ 
+ 
+""",https://www.upwork.com/jobs/Data-collection-London-Residential-Tower-Projects-Google-Maps_~01ccfe57a3f6887175?source=rss
+tools, Website Scraper for quiz websites ,"""Hi, 
+ 
+I would like a website scraper built to scrape questions, options and explanations from quizzes to an excel spreadsheet. This must be built in a way that I may run this in the future on further exams.""",https://www.upwork.com/jobs/Website-Scraper-for-quiz-websites_~0193ed72f5a5334aae?source=rss
+tools, Need Data scrapper ,"""
+We're looking for an experienced freelancer, that can help us to create a script for scraping an entire website's information about stores. 
+I need someone to create a script to scrap all information about stores from a certain website 
+Hands on experience creating and executing various scripts for data extraction. 
+Must Visit Job/Careers Page and Read Carefully detailed Job Description. 
+ 
+Click at job description section.""",https://www.upwork.com/jobs/Need-Data-scrapper_~01d3709cb73ec324ff?source=rss
+tools," DATA SCRAPING (2 platforms, google search) ","""I need to get: 
+- hotel_name 
+- hotel_location 
+from URLs like:  
+ 
+Data should be scraped from 53 URLs similar to the above and return a total of 2,667 hotel items eligible to get extracted.  
+ 
+When the list of 2,667 hotel is ready (name, location), then I need to query on Google: 
+ 
+- $hotel_name $hotel_location facebook 
+ 
+This will return the hotel facebook page on top of Google search results. 
+ 
+Then I need the script to open the hotel facebook page and get the following contact detaills for each of the 2,667 hotels: 
+ 
+- email 
+- phone 
+- website 
+- address""",https://www.upwork.com/jobs/DATA-SCRAPING-platforms-google-search_~0161887561ef4b60c0?source=rss

@@ -1,0 +1,1886 @@
+jobs_type,title,jobs_text,URLs
+tools, Scrap and automate message on Untappd  ,"""""",https://www.upwork.com/jobs/~019e7708913e7f9c14
+tools, Data Scraping/  Full-stack Scraping Software Development ,"""Please See attached Job Brief for further details and Example CSV  
+Example Video run through links are in the Job Brief Document  
+We will map out detailed requirements with the successful supplier  
+ 
+We are a new recruitment business focusing on connecting ICT professionals with opportunities in the Queensland region.  
+ 
+At this stage improving our lead generation is important and one part of this is chasing leads off the dominant job posting board in Australia ( Seek.com.au)  
+ 
+By scraping the data across the ICT category on Seek we will be able to start running marketing approaches and nurturing sequences to potential clients.  
+ 
+Over time we’d like to be able to sort that historical data, segment according to an exclusion list and filter across data points. """,https://www.upwork.com/jobs/~01dc7db2fd06c6e9ca
+tools, Scrape Lottery Numbers from Website and create a simple lottery predictor based on frequent numbers ,"""Simple Lottery Predictor using Python or PHP: 
+ 
+(1) Scrape Lottery Numbers from this website every day (at random times): 
+ 
+ 
+ 
+(2) Count the number of occurrences of each number - for example:  the number 20 came up  8 times, followed by the number 5 which came up 7 times, etc. 
+ 
+(3) Output a simple prediction based on the frequency of which the numbers come up.  For example, based on the website above, maybe the next draw should have the following numbers as they have occurred the most so far: 
+ 
+03   28  33  43  51    Bonus Number: 03 
+ 
+The script needs to output the number to a simple webpage if possible.  If you can't do this, then just output it to a text file and I can take care of the rest! ;)""",https://www.upwork.com/jobs/~01fa7941f20a160b20
+tools, Bypass Google ReCaptcha V3 ,"""Hi, 
+ 
+Looking to bypass Google ReCaptcha V3 with an existing Python code with ChromeDriver. 
+ 
+Willing to discuss on payment""",https://www.upwork.com/jobs/~01079922f687345330
+tools," Automatic data scraping from various website, feed into Airtable ","""We would like to build a script to schedule automatic data scraping from various website, written in Python (or whatever language you see fit) and feed the structured data into Airtable. 
+ 
+We will provide instruction on what information is needed and what websites should the data be extracted from. There are approximately 30 of those website. 
+ 
+The script should either scrape overnight once per day, or we can also run it manually to update all the records on Airtable.""",https://www.upwork.com/jobs/Automatic-data-scraping-from-various-website-feed-into-Airtable_~0112528f5553a06ec7/
+tools, Write a python scraper to scrape a website text data ,"""I need to scrape tennis odds from a website which are simple text data scraping. It's a very simple project. In order to qualify for this project you must know following 
+- Tennis 
+- Odds 
+ 
+You should be available on daily basis for few hours so that we can run this script and tweak as required. I'll keep this project open for few weeks as I'll take time to scrape data and may need to tweak script.""",https://www.upwork.com/jobs/Write-python-scraper-scrape-website-text-data_~014a8f416772c945eb?source=rss
+tools, Web Scraper for truepeoplesearch.com ,"""We are looking for someone to build a web scraper for (link removed). This website is notoriously hard to scrape and we need to extract some data out of it. We would also like the code for the scraper at the end and will handle any cost associated with needing extra technologies on your end. Before we accept you we will give you a sample list to run to verify you can actually scrape this site. 
+ 
+Thanks!""",https://www.upwork.com/jobs/Web-Scraper-for-truepeoplesearch-com_~01ec591bce0dbcefce?source=rss
+tools, Scrape website for delivery dates and upload to file ,"""Daily scrape of delivery dates from different producer websites (for example (link removed)) and upload to spreadsheet URL (For example: (link removed)). 
+Basic price for development + fee for each additional website. (Potentially more than 100 websites to scrape from)""",https://www.upwork.com/jobs/Scrape-website-for-delivery-dates-and-upload-file_~0137f6c95546589fbd?source=rss
+tools, Google Maps Scraper for Digital Agencies ,"""I am looking to create a google maps scraper / api integration that pulls data on digital agency companies in different cities. I currently do this manually using a tool called G Maps Extractor (https://gmapsextractor.getwebooster.com/) and scraping the results for the term 'Digital Agencies in (City)' for each city. Ideally, I'd like to create a scraper that runs on autopilot pulling the results monthly and exporting to a google sheets.""",https://www.upwork.com/jobs/Google-Maps-Scraper-for-Digital-Agencies_~0198b93210e9a0b2fc?source=rss
+tools, Expert in scraping images links from URL ,"""We have a main URL, we want the URL's of the images that are in that initial link. We have everything in EXCELs, the idea would be to place the links of the images next to the main URL. There are about 60000 links, approximately.  
+ 
+For example MAIN URL: (link removed) 
+ 
+And what we want are images links:  
+ 
+1)https://d30o7qbghf97ws.cloudfront.net/itemimage/5241860/image/standard-5329c363fa51dc34889d595536147636.jpg 
+ 
+2)https://d30o7qbghf97ws.cloudfront.net/itemimage/5241881/image/standard-217d3c96744339e2038a008f2abb6efd.jpg 
+ 
+When scraping the URL's of the images, we want the size to be like the picture below, you can see in the excel attached, how we want the result.""",https://www.upwork.com/jobs/Expert-scraping-images-links-from-URL_~0141bfa11971b1c117?source=rss
+leads, Data scraping / Lead building script ,"""We want someone that can help us build a script which can take as input the name of a city and generate a list of companies based on these steps: 
+ 
+Interact with google business apis 
+- builds a list of companies that show up for certain keywords  
+- filter company list by its reviews keyword relevance to our existing set of reviews 
+- sort list and append additional contact data about each company 
+- output list as csv 
+ 
+To apply for this job, please describe how you will complete the task and what technology/tools you will use. You can be technical, you are speaking to developers.""",https://www.upwork.com/jobs/Data-scraping-Lead-building-script_~011fb0cb829fcf32ee?source=rss
+tools, Google News Scraper ,"""Need a Google News Scraper basic personnal tool in order to archive an search easely google news website and pages. 
+ 
+Integration and developpement explication are there   or your own requirement. 
+ 
+Need a personnal app / toolin order to run, extract and display on a basic personnal dashboard. 
+""",https://www.upwork.com/jobs/Google-News-Scraper_~013a22bd045189be01?source=rss
+tools, Create a tool that extracts data and creates a excel file ,"""I need someone who can help me create a tools that extracts data from this website, 
+ 
+(link removed) 
+ 
+And automatically makes an excel/spreadsheet file with all the new registration that fit a certain filter 
+ 
+Please be in contact with me for more information""",https://www.upwork.com/jobs/Create-tool-that-extracts-data-and-creates-excel-file_~01c49fbb65bf021d75?source=rss
+tools, Scrapy expert needed  ,"""we are looking for a  Web scraping and automation expert to solve our data research teams problems with quires made online.  we need help finding a solution that will automatically scrape and input data into our database.  
+the data will come from about 5 or 6 websites (possibly more in the future)  
+We are currently working on solutions to auto rotate our IP addresses to US based IPs . Or perhaps using proxy servers that can solve our problems while searching and doing quires  online. 
+Prior experience with solving this sort of problem with examples is a requirement. looking forward to speaking with you about our project soon.""",https://www.upwork.com/jobs/Scrapy-expert-needed_~014725c877288b0e0b?source=rss
+tools, Discord mass server scrape bot needed (User:ID) format ,"""I want a script/software developed that would enable me to mass scrape online/offline users in a specific server I choose. Scraping via emoji reacts and messages posted within the Discord server. 
+ 
+I want it in the format of 
+User:ID only 
+Looking forward to discussing this more!""",https://www.upwork.com/jobs/Discord-mass-server-scrape-bot-needed-User-format_~0139f54c29af9c8cdb?source=rss
+tools, Create Bot to scrape and collect data ,"""There is a website where it provides public data. The steps to get the data should be automated. 
+This job will involve by-passing captcha, related bot detection mechanisms in general.""",https://www.upwork.com/jobs/Create-Bot-scrape-and-collect-data_~01735b530e3d2186e7?source=rss
+tools, Monitor web site changes and automate detailed form submission ,"""Monitor web site changes and automate detailed form submission""",https://www.upwork.com/jobs/Monitor-web-site-changes-and-automate-detailed-form-submission_~014b3f6d36411bf4a8?source=rss
+tools, Automated API alerts from online website ,"""Hello,  
+I need to have an automated tool that traces one website and it gives back to me the number of new occurrences per day. 
+For example: 
+Today on the website there are 5 announcements. Tomorrow we will have 6 announcements. 
+The script needs to give me the new announcement added.""",https://www.upwork.com/jobs/Automated-API-alerts-from-online-website_~0125b4a9e4ccf24bee?source=rss
+tools, Chrome Extension - Single Site Web Scraper ,"""Overview:  create a custom chrome extension for use by colleagues to scrape data from a single website and store results to a database by user.  The database will source brand data from 25-50 users to identify statistical similarities per item and generate an ‘ideal’ dataset.  At any point the end user can compare their data to the ideal data to suggest updates. 
+ 
+ 
+Project details attached.""",https://www.upwork.com/jobs/Chrome-Extension-Single-Site-Web-Scraper_~018fa98ff5a50e62e6?source=rss
+tools, Automatically scrape certain sites + notify via Slack bot ,"""I am looking for a solution where we can input certain URL's to track and whenever there is new data it scrapes basic information and notifies us via a Slack bot. 
+ 
+If there is an off-the-shelf solution that would be great. I'm happy to pay for it.""",https://www.upwork.com/jobs/Automatically-scrape-certain-sites-notify-via-Slack-bot_~01b64e0675948eec24?source=rss
+tools, Write an automation script ,"""Hello, 
+ 
+Write a browser automation script using Selenium or any other library to perform the following task: 
+ 
+- Fetch records from DB (text) 
+- Use G o o g l e Translate Tool to convert it into 6 different languages 
+- Save in their respective columns in the DB 
+- Use 3rd party captcha solving API to solve captcha 
+- Multi-threading as at the launch of the script 
+- No. of records to convert/translate at a time per thread. 
+ 
+That's it!""",https://www.upwork.com/jobs/Write-automation-script_~015f15ed71a3cc2162?source=rss
+tools, Screen Scrape Windows VM Data Center Destination SQL Server. Python? Powershell? Chromium? SSIS? ,"""We need a daily scrape of public government data.  Pass to our specified stored procedures and that's it!. 
+ 
+Your script has to talk to our ETL controller and report problems.  You know how screen scrapers are.  We hope to keep you close by as these things need occasional fixing.  
+ 
+Cheers. 
+ 
+ 
+ 
+process each year. take a look. 
+""",https://www.upwork.com/jobs/Screen-Scrape-Windows-Data-Center-Destination-SQL-Server-Python-Powershell-Chromium-SSIS_~011697cd2b7c20db07?source=rss
+tools, Python based daily scraper for websites with integration into a Django database ,"""Our goal: Scrape all property listings from homegate.ch, immoscout.ch and newhome.ch DAILY (mainly the URL to the property listing) and load them into a Django database. 
+ 
+Your deliverable: Running application on AWS using proxy servers and we need complete access and control of the source code and test scripts, so we can run and configure the scraper ourselves. We also need the IP rights to the source code. 
+ 
+Potential future work: We have a list with more than 10 website types that we want to scrape and will need help with to build scrapers.""",https://www.upwork.com/jobs/Python-based-daily-scraper-for-websites-with-integration-into-Django-database_~01f2085c00366e9c55?source=rss
+tools, ETL. Scraping then populating a DB. ,"""We want to scrape auction results from a variety of websites. Data should be scraped, then stored cleanly. 
+ 
+When we finish scraping a site and configure new data to be scraped automatically, we will begin work on a new site. 
+ 
+We also need a basic scraping status page, to report problems in case scraping was not possible for any reason. 
+ 
+If you can build a basic UI to search through the DB, that's a bonus. 
+ 
+You will need to configure server infrastructure too, I am open to using cloud/droplets/dedicated.""",https://www.upwork.com/jobs/~01ba7253edb6b91ae0
+data, Create Python code to scrape data from Yahoo Finance + Google. ,"""Need Python code to fetch data from Yahoo Finance for a number of stock codes listed in a CSV file. I need to get the current stock price, along with all the data from the following pages (see screenshot): 
+ 
+- Statistics 
+- Profile 
+- Financials 
+- Sustainability 
+ 
+In addition to this, I also need to get the subsidiaries of each business. You can find this on Google (see the 2nd screenshot) but I'm happy if you want to use another source, (maybe Wikipedia?). 
+ 
+This data will need to be neatly saved into an Excel file. The code should ideally run without the costs associated with an API (but if this is not feasible, please let me know). It doesn't matter how long it takes to run the code, in case you need to build in wait times.""",https://www.upwork.com/jobs/Create-Python-code-scrape-data-from-Yahoo-Finance-Google_~01f281a6c7ed2e9d40?source=rss
+tools, Short Script to Press a Button on Time ,"""Hi, please look at the attached image. 
+ 
+This is a website where it displays crypto prices and it has a START button underneath. 
+The USDT price keeps changing every second. 
+ 
+I need a script which will press that start button when that USDT is over $400. 
+It has to be lightning fast as that figures changes in a split second. 
+ 
+I should also be allowed to turn the script on and off. 
+ 
+I can pay $5 for this quick solution. 
+ 
+Webkept""",https://www.upwork.com/jobs/Short-Script-Press-Button-Time_~01ace053c96d208d30?source=rss
+tools, Scraping Tool  ,"""First Version Requirements: 
+ 
+The Script has to run on an MacBook Pro (processor: 2,5 GHz Quad-Core Intel Core i7 | RAM: 16 GB 1600 MHz DDR3) 
+ 
+1. daily scrape: 
+go through all listings once a day. 
+ 
+2. update database 
+If any changes are detected, the corresponding advertisement must be updated in the database. The price history must not be lost. If an already scraped advertisement is no longer available, the entry: 'sold' is added to the database entry. 
+ 
+3. blocking safe 
+The website blocks after 20 requests. So it must be taken into account that the site quickly punishes with restrictions. 
+ 
+4. CSV export 
+A clean export is expected or store it in MongoDB 
+ 
+The required information i need from the page can be found in the HTML appendix. 
+ 
+If we are happy with the Version we will discuss any further details of the project.""",https://www.upwork.com/jobs/Scraping-Tool_~01c63cf2b385e50eba?source=rss
+tools, Chrome plug-in / webscraping project  ,"""I am looking for someone to develop a chrome plugin / widget that allows me to input a tax ID number and will then produce an excel file of 12 data points and 4 pdf pages.  
+Bellow is an example of each url and the input tax ID # of 480890014 and the data on each page to be out into and excel file 
+ 
+ 
+(On tax history tab) 
+1 - serial number 
+2 - acreage 
+3 - legal description 
+4 - the two most recent years of general taxes 
+ 
+ 
+6 - owner name  
+ 
+ 
+7 - primary use  
+8 - sq ft 
+9 - bsmnt sq ft 
+10 - bsmnt sq ft finished  
+11 - year built 
+12 - fireplaces 
+ 
+ 
+ 
+ 
+The excel file would have header names on the first line and the second line would be the data.   
+ 
+The excel and PDF’s of each webpage would be saved in a folder on the desktop named with the tax ID used.   
+ 
+One additional feature on the plug-in setting would be an option to have all 4 webpages open after the tax ID is entered.  
+ 
+I’d prefer to have a fixed price for the project.  Timeline isn’t urgent but the sooner the better.  """,https://www.upwork.com/jobs/Chrome-plug-webscraping-project_~01a3e5a62fc6aed0a6?source=rss
+tools," Web scrapping application, WebCrawler.  ","""I need a web scraping application. 
+ 
+Problem description: 
+ 
+I have about 20 websites with auctions of used machines and traders of used machines. 
+ 
+For example   
+ 
+I need a web scraping automated service that would search these websites on a regular basis - for example, every day and save the results to the database and send an email with the results to the specified address. 
+ 
+The crawler should search for machines with descriptions matching any of the predefined keywords. For example ""Matsuura"". 
+ 
+When it finds a machine it should save a link to the machine to its database. This is to prevent notifications about the same machine more than once. 
+ 
+There should be a simple interface to edit keywords. (Protected by password).  
+The interface should also allow viewing the list of searched addresses.  
+ 
+This job requires full-stack development skills.  
+You need to install and test the application on our VPS.  
+ 
+If you think the budget is too low for all 20 websites I can agree to a smaller number of websites to search at the beginning and if everything goes well we expand this project.""",https://www.upwork.com/jobs/Web-scrapping-application-WebCrawler_~01935614e5d968bb4c?source=rss
+tools, Need a scraper created to scrape dappradar  ,"""Need a scraper/script that will scrape dapp radar every 24 hours returning the daily percentages of new high contracts that are posted on the website. I can specify 24 hr or 7 daysbfor the criteria for the scraper to pull. The data needs to be organized and presentable.""",https://www.upwork.com/jobs/Need-scraper-created-scrape-dappradar_~0143b99136715dfdf5?source=rss
+tools, Scrape data from airtable embed ,"""I have an airtable embed (https://airtable.com/embed/shrJ5uzrIBG7c5BtD/tblpg6Xx6xUDQKBci) 
+ 
+i am looking for someone to scrape all the data out of this into a google sheet""",https://www.upwork.com/jobs/Scrape-data-from-airtable-embed_~0166569ccdc7f43da5?source=rss
+tools, Google sheet web scrape  ,"""Looking to create a google sheet that automatically pulls data from a website and organizes it into google sheet . 
+ 
+The sheet should be able to automatically update  when the website updates . 
+ 
+The google sheet will be pulling foreclosure auction information. Important data points to extract will be auction date , property address , and bid amount .  
+ 
+Link to website: 
+""",https://www.upwork.com/jobs/Google-sheet-web-scrape_~0183753381f62f1585?source=rss
+tools, Add Tracking Status To Google Sheet Through API ,"""We have a google sheet that includes a list of tracking codes for deliveries and we need someone to use an API such as this one -   and get the status of each tracking code every day to the google sheet.""",https://www.upwork.com/jobs/Add-Tracking-Status-Google-Sheet-Through-API_~016afee3ddadb8380c?source=rss
+tools, Is there anyone who is expert in selenium to make a bot by python. ,"""Is there anyone who is expert in selenium to make a bot by python. 
+The major thing is to do bypass the google bot verification. 
+Expert person can knock to deal with me❣️""",https://www.upwork.com/jobs/there-anyone-who-expert-selenium-make-bot-python_~01f24be97b1d8aed9d?source=rss
+tools, Python / Scrapy / Cronjob :: Scraping Experts ,"""1. To fix minor issues relating to existing scrapers/spiders [python 2] 
+2. To create a new spider to scrape data from a targeted website [python 3] 
+-Data scraped to be saved into database 
+-To run a cronjob for the scraper to auto scrape at certain intervals""",https://www.upwork.com/jobs/Python-Scrapy-Cronjob-Scraping-Experts_~01854fc465dd5c1f52?source=rss
+tools, Write an Automation Script ,"""Write a browser automation script using Selenium or any other library to perform the following task: Our Business Details - (link removed) 
+ 
+- Fetch records from DB (landing page URL or keyword) 
+- Use Browser Automation to log in on kw research tool, run a search, filter results and save results data in DB. 
+- Script should ask for no. of threads to launch and different filters data values at the start. If not entered it should proceed without it.""",https://www.upwork.com/jobs/Write-Automation-Script_~019e637e2c5b676c10?source=rss
+tools, Developer needed to build script for dynamic scraping of website. ,"""I'm looking for a solid developer that can build a scraper for a website. The script will need to be able to handle dynamic changes to the site that occur daily to pull information down and export it into an excel workbook. I'd like to have this scrape and data-export occur daily. 
+ 
+Ideally, we could also use something like the Wayback Machine to scrape and pull historical data over the last few years as well. 
+ 
+For an experienced dev this should be a relatively straightforward job. As a final product I'd like to receive the data collected as well as the code so that I can continue to operate the scraper on my own. 
+ 
+Please contact for more details.""",https://www.upwork.com/jobs/Developer-needed-build-script-for-dynamic-scraping-website_~01ec5812e08111a044?source=rss
+data, Python developer needed to make script for downloading data from API ,"""Make automated script for extracting data from (link removed)/ fundamental and EOD API and save each table as excel file. Program should take list of tickets as input.""",https://www.upwork.com/jobs/Python-developer-needed-make-script-for-downloading-data-from-API_~01faf81fe5b0eb4f8d?source=rss
+tools," Scrape Websites Grab primary font, primary font color, and background color ","""Let me know what experience you have that would give confidence that you can: 
+ 
+Take an input:  
+website URL 
+ 
+Provide output: 
+Primary font color 
+secondary font color 
+Background color 
+Primary font 
+secondary font 
+ 
+Preferably using Javascript""",https://www.upwork.com/jobs/Scrape-Websites-Grab-primary-font-primary-font-color-and-background-color_~018ea095cfb8afe0b4?source=rss
+tools, Script to automatically fetch data from website simulate clicking ,"""Hello 
+ 
+I have a python script that I can run and download a list from a website. The issue is, without clicking on the menu buttons it is hard to get to the data. 
+ 
+I want a script (preferably a Python script as a part of a flask website) to run every Monday and download the page into a PDF/CSV/HTML. 
+ 
+the important thing is, I want it to run without issues in the background. This includes logging in, clicking the right buttons, downloading the data, and logging out (every Monday afternoon) 
+ 
+my own python code is attached:""",https://www.upwork.com/jobs/Script-automatically-fetch-data-from-website-simulate-clicking_~01547b6f7bddfe62ab?source=rss
+tools, Python Scrapy Expert Needed To Scrape Sales Data From Alias App ,"""I need you help with scraping sneaker sales data from the Alias app. 
+ 
+You can only scrape the app after logging in. 
+ 
+The alias app: (link removed) 
+ 
+Please see the attached flow chart, I will need your help with the orange marked objects. 
+The red marked objects will be completed by someone else. 
+ 
+In the attached alias_post.py file you can see a ""for document in all_records:"" loop. 
+There there will be a style code fetched from MongoDB database 1, and this event refers to the green square on top of the flowchart. 
+ 
+Everything else you see in the flowchart needs to occur for each and every style code we fetch from MongoDB database 1 
+ 
+The calculation we will do with the sales data per size are: 
+average selling price 
+# sales per 30 days""",https://www.upwork.com/jobs/Python-Scrapy-Expert-Needed-Scrape-Sales-Data-From-Alias-App_~01f289a531df7b5c31?source=rss
+tools, Website | Data Scraper ,"""I need someone to help me scrape this site:  
+ 
+I had this done over a year ago and the individual completed in a few hours. 
+ 
+I need all the details from the main search page  
+ 
+And the details from the individual broker pages: 
+ 
+ 
+Please no manual scraper need to apply.   Thanks""",https://www.upwork.com/jobs/Website-Data-Scraper_~015da93cba31943559?source=rss
+tools," Scrapping bot, used for data collection ","""Features : 
+1. Automate Chrome browser 
+2. Scrape cells from browser 
+3. Export as text or Excel 
+4. Application will have a user interface 
+ 
+1. After opening it, you will have to log into your account & select state. 
+2. Then you can select your desired output format (Text or Excel). 
+3. Then it will ask to select a output folder. 
+4. Then it will scrape those data and save them into your selected location.""",https://www.upwork.com/jobs/Scrapping-bot-used-for-data-collection_~01a4c859f94db4103e?source=rss
+tools, Project: Web Scraping and Loading to Tables ,"""Summary: 
+I’m looking for someone who can help with data extraction from a website and placing the data in storage. This may involve writing customized scripts to extract data from different parts of the site.  Some scripts will need to be automated/scheduled based on the frequency of extraction.   
+ 
+In addition, you must have experience in scaling data scraping jobs. The data will be used for analysis to provide actionable insights to others.   I will work with you to make sure the data is accurately scraped. 
+ 
+I will provide detailed requirements and the purpose of this data, so we can work together to create the best solution for this project.   
+ 
+Timeframe: To Be Determined after reviewing the detail requirements.""",https://www.upwork.com/jobs/Project-Web-Scraping-and-Loading-Tables_~0198c12034f83e7197?source=rss
+tools, Web scraping with API  ,"""Looking for someone to build an API that directly populates information from a website to our database. Scraping business information such as business owner name, business address, document number in their state, etc for leads (B2B).  Collecting information on a public website. Responsibility is to design, implement, and maintain data pipelines that transform data, adding value to it in the process.""",https://www.upwork.com/jobs/Web-scraping-with-API_~014756e4e06893a540?source=rss
+tools," Scraping nasdaq, crypto data  ","""Need to do a couple of things:  
+* scrape a list of nasdaq information  
+* then scrape associated nasdaq information: revenue, forward P/S ratio, P/E ratio, cash on hand, balance sheet.  
+* scrape and get daily data from yahoo  
+* 15 minute data  
+* database schema will be to a master securities database  
+* get historical es_f data into security database 
+ 
+Code needs to handle multiple cases:  
+* be able to handle error case when data is not there, have a backup  
+* retry logic with a certain SLA  
+* make sure incoming data handles multiple error cases in malformed data or you don't have the right api endpoint  
+* have unit test to test the endpoints to make sure they're working properly""",https://www.upwork.com/jobs/Scraping-nasdaq-crypto-data_~01c428080575b82db6?source=rss
+tools," Build a Web Scrapping Algorithm in Python - Extract Images, Tweets, GIFs, News ","""Build an algorithm in Python that extracts data based on Keywords. The data required as output per Keyword includes:  
+ 
+-Images - Source:   (7 images per keyword)  
+-Tweets - Source: Twitter, Reddit (3 Tweets, 2 Reddit posts per keyword) 
+-GIFs - Source:   (3 GIFs per keyword)  
+-News - Source: Google News (3 news articles per keyword)  
+ 
+Ideally build using Beautiful Soup or Scrapy.  
+ 
+Algorithm to be run on a list of 10.000 keywords.""",https://www.upwork.com/jobs/Build-Web-Scrapping-Algorithm-Python-Extract-Images-Tweets-GIFs-News_~019fc1c6e5ba9fb3b9?source=rss
+tools, Fix Python - Selenium Generator and Add Captcha Solver ,"""I require a fix of a Python-Selenium bot that generates accounts and confirms the email. 
+The base is ready on github but requires a fix for it to work effectively, 
+once it is fixed and back working, it needs 
+1) Captcha Solving using API 
+2) Phone Confirmation using API 
+how will it work: 
+I will give You the github and You can check and see if You could do it, 
+if You confirm I'll hire You and You can start working on it. 
+the bot has 
+1) a manual mode that You can use to test if it works correctly manual 
+then You can confirm and showcase it works manually, 
+then You can tell me which service You need me to register and add credit to and I will provide You the api keys for you to finish adding both Captcha Solving and Phone Confirmation.""",https://www.upwork.com/jobs/Fix-Python-Selenium-Generator-and-Add-Captcha-Solver_~0194317ac672416bd5?source=rss
+tools, Python developer needed to scrape website and do VBA excel calculations ,"""First, scrape and save the data with a program like python. 
+After the data is scraped, use VBA to auto create the tables and place the summation formulas. 
+Note: Each law firm has a variable amount of locations, therefore, you cannot just create a single table-template with formulas and use that template for all the firms. Some additional / advanced logic has to be applied to create the tables with variable numbers of rows.""",https://www.upwork.com/jobs/Python-developer-needed-scrape-website-and-VBA-excel-calculations_~01a9642afc22450bc0?source=rss
+tools, Automated Website Scrapping Tool ,"""Hi... I'm a Trucking Broker, 
+ 
+I do a very tedious job! I copy and paste the LIVE Truck Loads in USA and CANADA from free websites and pay websites that I'm a member of and other CVS files my clients send me all together into a spreadsheet, then checked for errors then uploaded on my website. I then rescan for any new loads and do it again and this removes any loads not showing up and keeps my site going 
+ 
+I'm seeking someone that can make a web based scrapping tool for text data fields in real time. If anyone knows a really good one already, please send me the link 
+ 
+It will need to continually preform the following tasks: 
+Scrape Multiple websites at once 
+All collect into a .CVS file, Remove any duplicate entries and check for errors 
+That .CVS file would then automatically update every 10 minutes to my website. 
+ 
+The big sites do things to not allow scrapping tools on their sites easily and why I subscribe to smaller load boards that allow for easier scraping of fields. 
+ 
+If anyone thinks they can help me, please contact me with an exact plan including what language you will use for coding and I will get back to anyone that sounds like that can get me working software. 
+ 
+Thank you""",https://www.upwork.com/jobs/Automated-Website-Scrapping-Tool_~011e4b2b1164353852?source=rss
+tools, Scrapy website crawler for websites with ajax elements ,"""I need a website crawler for websites with ajax content (load more etc..) 
+ 
+The crawler should be fast an stable and should easily customizable for other websites. So, a bit of code-documention would be nice. 
+ 
+The crawler should only download the whole website and follow all internal links, without external links. There should be also the possibility to setup a max link-depth for the internal links. The crawler do not need to do anything special with the downloaded website.""",https://www.upwork.com/jobs/Scrapy-website-crawler-for-websites-with-ajax-elements_~010e61a5111d93e0fd?source=rss
+tools, Python code to monitor a website ,"""We are looking for a developer to setup an automated script in Pyton to monitor changes to a website.  This should be fairly straightforward with the following requirements: 
+ 
+1) Script will run on developer server 
+2) Script will monitor changes to a specific website on a specific interval (every 5 minutes) 
+3) When changes are identified since the last interval, it will send an email to a specific email address to notify of a change.  If no changes occured, it will not send an email. 
+4) The script will keep a running tally of the number of changes that occurred during the day and send an additional email at the end of each day (12:01AM EDT) indicating the number of changes that occured during the prior day. 
+ 
+Developer should provide a proposal to do each of the below: 
+ - Base level Project:  Sends a generic email stating ""Something changed"" 
+ - Advanced Project:  The body of the email states what changed.  Detail of email woudl include:   
+        1) Listing Venue 
+        2) Listing Date 
+        3) Listing Artist 
+        4) Listing Time 
+ 
+Base level project should be easily achieved using the following guide:  
+ 
+PLEASE PROVIDE a ""NOT TO EXCEED $____ TOTAL COST"" in your proposal for the Basic Scope 
+ 
+Advanced Project would build upon the Base Project and developer has flexibility to propose the format of output.   
+PLEASE PROVIDE a ""NOT TO EXCEED $____ TOTAL COST"" in your proposal for the Advanced Scope 
+ 
+Website to be monitored:  
+ 
+NOTE:  The monitored page does not have any listings yet, however below is an example of what the listings ""should"" look like once the postings begin appearing.  Of note, the ACTUAL page may have a slighly different format, which will be known as soon as the first posting appears. 
+ 
+ 
+ 
+Requirement:  Developer will need to have a reliabile server running 24/7 through May 18, 2022. 
+ 
+Compensation: Fee will be paid 50% upon completion of setup and 50% on May 18th after developer has completed monitoring period. 
+ 
+We are looking to have this done by 2/10/22. 
+ 
+NOTE:  If Developer believes there is a better solution or alternative to using Pyton, please specy in the proposal.""",https://www.upwork.com/jobs/Python-code-monitor-website_~01bad06275100ffbbc?source=rss
+tools, Web crawler ,"""The requirements are that there should be a user interface where the user sets some search criteria. The crawler would then reports adverts every time a new one is added. The reports should be sent to the users email address  
+The issue is that from the user interface there should be a search option similar to the search option on the   and   websites. each have their own API specifications. The user can have several options set and saved, the app should be sent to user email address a url of the advert.  
+So as soon as the advert is added, a notification should be sent to the account user. Several account users can be added by the admin""",https://www.upwork.com/jobs/Web-crawler_~0186360494806ff5b1?source=rss
+tools, Python Expert to Write a script to scrap data from a website ,"""I'm looking for a Python Expert to write a script and help scrap and organise data from a website. 
+The data: 
+- product titles, 
+- product images, 
+- product description, 
+- product variables (colors, size, material...), 
+ 
+To make sure you have read this job post, please start your reply with PENGUIN.""",https://www.upwork.com/jobs/Python-Expert-Write-script-scrap-data-from-website_~01093726e5fe6ecf1a?source=rss
+tools, Opensea Notification Bot ,"""I am simply looking for a bot/tool which notified me instantly whenever an account PURCHASES an NFT.  
+ 
+I'd like the following: 
+ 
+1.) Notification via text (preferred) or email once NFT was purchased by One or Multiple accounts instantly  
+**Ideally it includes a link to the user's activity page. 
+ 
+Bonus** If you can add the ability to purchase immediately after the followed profile(s) purchases  
+ 
+I'd be interested to add-on the ability to auto-purchase the NFTs purchased by user's I'm following (receiving notifications on). The requirements would be 
+ 
+Auto Buy cheapest buy now nft (floor) after the user's buys project. I assume if there was not enough eth, that the system would just ignore? For example if I only have 0.5 eth and project is 20eth floor, obviously transaction won't go through? """,https://www.upwork.com/jobs/Opensea-Notification-Bot_~015a2e73e16bccd938?source=rss
+tools, Python Web Scraping ,"""Navee is a company building online scrapers, we have an internal framework to build scrapers on new websites from a simple configuration file. 
+ 
+We are looking for developers to add new scrapers to our framework. 
+ 
+Required skills to start the job are: 
+- CSS Selectors 
+- Python 
+- Linux or Mac OS 
+- Scrapy 
+- Selenium 
+ 
+We are going to start with the configuration of one new scraper. If the mission is successful we want to work regularly (every week) with you on this tool.""",https://www.upwork.com/jobs/Python-Web-Scraping_~01ea947cf2d1f392fa?source=rss
+tools, Selenium / webdriver expert needed ,"""We are looking for selenium expert who can help us create automation scripts for social media platforms. 
+ 
+List of the sites: 
+Facebook 
+Twitter 
+Minds 
+Gab 
+Parler 
+Gettr 
+MeWe 
+CloutHub 
+ 
+Scripts should be simple and we just need to login & post content. For example, it can work as follows: 
+ 
+1. Login to social media account using credentials 
+2. Navigate to posting page 
+3. Initiate post 
+ 
+Experience needed: 
+- Python 
+- Webdriver / Selenium 
+- Automation 
+ 
+If we can reduce errors or add logging then it would be nice, but not essential. 
+ 
+If you are experienced with Selenium please send us your cover letter & portfolio. We are looking to find someone immediately. 
+ 
+Thanks""",https://www.upwork.com/jobs/Selenium-webdriver-expert-needed_~01d0a5a46224163b99?source=rss
+tools, Selenium developer for 2captcha project ,"""I need a Selenium Developer who can integrate 2captcha and storm proxies with the script.  
+ 
+The script needs to visit a link and solve a problem using different IPs. The script also needs to run until stopped""",https://www.upwork.com/jobs/Selenium-developer-for-2captcha-project_~01c040210a47ba4247?source=rss
+tools, Bot for data entry scraping ,"""Hi! 
+ 
+I am looking for someone to make a basic bot that will try multiple combinations on this website: VicRoads Custom Plates (vplates.com.au)  
+ 
+I need the bot to type in all numbers from 1 to 285000. I need to see which ones are unavailable and which are available. I need this data in an excel document. It is a fast job. The data only needs to show which combinations are available and which are not.""",https://www.upwork.com/jobs/Bot-for-data-entry-scraping_~0148056dfb3d515019?source=rss
+tools, Desktop/Web crawling application with CAPTURE and REFUND Functionality   ,"""I would like to create a desktop or web application to do web crawling and submitting information 
+It should with 2* data (payment ID + Amount) provided in excel or API: 
+1. connect to a URL and use saved username and password 
+2. Click on a specific link 
+ 
+And  
+for CAPTURE functionality do: 
+3. Submit ID* data provided in specific field and press “search” button + Click on a specific field Authorized capture + “Captured marked” button 
+ 
+OR 
+for REFUND functionality do: 
+3. Submit ID* data provided in specific field and press “search” button 
+4. Click on a specific link, press “refund” button + fill a field with amount provided and also put a dot “.” in other specific field + “Perform operation” button 
+ 
+At the end of the process, LOGS should be kept to know if one action was not completed properly.""",https://www.upwork.com/jobs/Desktop-Web-crawling-application-with-CAPTURE-and-REFUND-Functionality_~018eeb250afc9b38d5?source=rss
+tools, Build custom chrome extension for scraping pages ,"""Need to create a chrome extension that scrapes page data and shows that data in a popup/modal box on the same page and when the user clicks on submit button that specific data saves into the database. 
+ 
+More details about the project will be discussed""",https://www.upwork.com/jobs/Build-custom-chrome-extension-for-scraping-pages_~0148adf800ab438884?source=rss
+tools, Selenium VBA advice on a loop & using variable in an xpath ,"""I'm looking for somebody to help me correct this issue in my VBA selenium code 
+ 
+I am trying to loop to find an xpath, it finds it okay, but then in the loop when i tell it to click it based on the loop i get an error - Object doesn't support this property or method 
+ 
+ 
+--------------------------- 
+ 
+Code is attached""",https://www.upwork.com/jobs/Selenium-VBA-advice-loop-amp-using-variable-xpath_~016f27f00fe18edc45?source=rss
+tools, Python developer needed for building a web scraper and storing results locally ,"""For some personal research I need access to 'forward rates'. These can be found in tables for instance on  , or  . 
+ 
+I would like to be able to select the 'cross' (EURNOK, EURUSD, GBPEUR, etc...) and then all entries need to be loaded into a Pandas dataframe or something, and written to my local drive as a JSON file for instance. 
+ 
+Then for my research I can figure out how to pick up the JSON. I will probably run this script once a week or once a month to get updated forward rates. I might also want to maintain a local SQLite database to store the numbers in. 
+ 
+I need the script to be written in Python, and made available to me so I can incorporate it into my own research. The rates will not be used for commercial purposes.""",https://www.upwork.com/jobs/Python-developer-needed-for-building-web-scraper-and-storing-results-locally_~01e29b2f2e96624d1a?source=rss
+tools, Need Developer to Update Sharepoint lists from CSV files ,"""Looking for a developer to add records in the Sharepoint Lists from csv files.  
+In short, check a folder daily for new csv's and then access the records in that csv and upload it to the two Sharepoint lists.""",https://www.upwork.com/jobs/Need-Developer-Update-Sharepoint-lists-from-CSV-files_~019f4bd735396a2436?source=rss
+tools, Pandas and Amazon S3 Expert ,"""Greetings! 
+ 
+We are looking for an engineer with AWS S3 and Python experience to build a function(s) to move outputs of web crawlers to an S3 bucket automatically. 
+ 
+The main requirements are: 
+ 
+- Moving Scrapy or Selenium crawler outputs (CSV files) to an S3 bucket 
+- Combining some CSV files located in S3, remove duplicates and replacing original files 
+- Retrieving a file from S3 and place inside a specific folder in the local directory 
+- This function must be ready to be directly integrated with any Scrapy or Selenium crawler. 
+ 
+Please digitally sign the NDA attached below and send the signed PDF file together with proposal to indicate you have read all the requirements. 
+ 
+The task will be explained in more detail using a Loom video and Miro board once the NDA is signed. 
+ 
+AWS access will be given as needed. 
+ 
+We have a stack of similar tasks and can assign you more if this one is completed successfully. 
+ 
+The budget is only a placeholder and is negotiable. 
+ 
+Thanks! 
+ 
+NDA: (link removed)""",https://www.upwork.com/jobs/Pandas-and-Amazon-Expert_~01de55bad8da958d0f?source=rss
+data, Web Scrape ,"""I need to scrape the details for all exhibitors at the following -  
+ 
+Click the down arrow then all exhibitors. 
+ 
+Name 
+Booth # 
+Category 
+Description 
+Website URL""",https://www.upwork.com/jobs/Web-Scrape_~01f019968b0be1f683?source=rss
+tools, Data Feeds for Crypto Wallets ,"""There are a number of websites that track the assets in crypto wallets.  We would like to set up an excel document where we could refresh these feeds and the new quantities of assets would be updated.  Ideally we would like to find an option that we could even select a point in time in the past and see what assets were present.  There are most likely API solutions that can do this, but may also require pulling data tables in from the web.  We are only looking for a data feed that shows the wallet address, tokens in that wallet and preferably the date/time of the data pull, across multiple blockchains.""",https://www.upwork.com/jobs/Data-Feeds-for-Crypto-Wallets_~014ecd4cdf6996692c?source=rss
+tools, Web scraping chick out  ,"""hello i want scraping chick out  autmatick to site  
+python  
+not selenium 
+or node.js""",https://www.upwork.com/jobs/Web-scraping-chick-out_~01b6df7e9b577ea6e9?source=rss
+tools, Web Scraping Developer (NodeJS and Python) ,"""Looking for a Web Scraping Developer to help improve and maintain existing data pipeline which scrapes data from websites using a variety of different web scraping tech (NodeJS, HTML, Puppeteer, APIs). 
+ 
+The scraped data is feeding a SQL database and generates a dashboard built in Superset. 
+ 
+Responsibilities include: 
+- Refactor existing code base to be more robust 
+- Build new scrapers 
+- Perform error checks daily 
+- Refactor existing scrapers based on changes to the scraped websites 
+ 
+When the job starts, the role will be for a minimum of 1 month at 40 hours per week capacity, periodic team meetings to provide an update on priorities and progress. 
+ 
+To succeed: 
+- Able to clearly communicate with the hiring manager in English 
+- Have a good understanding of HTML, NodeJS, Python, SQL, and Git 
+- Be self-motivated, as most of the work will be task-driven with minimal supervision 
+ 
+If you are interested in this project, please reply with your prior experience and start your message with I'm interested.""",https://www.upwork.com/jobs/Web-Scraping-Developer-NodeJS-and-Python_~019de7ad9cbd675a46?source=rss
+tools, Web scraping for all the image URLs ,"""I need a reliable Web scraper, that can extract the images URL of any Webpage. 
+the input: a webpage URL. 
+the output: the images URL inside the webpage 
+ 
+Currently i have a web scrapper, but it struggles in the following webpages: 
+apple.com 
+airbnb.com 
+amazon.com 
+facebook.com 
+ 
+So your scrapper will need to be able to overcome the challenges in this websites (and any other website). 
+ 
+My scrapper also sometimes return blank pages, which is also not good. 
+ 
+notes: 
+1. i just need some pictures from the webpage, i don't need ALL the pages or something like that. 
+2. Just the image URL is needs to be extracted. i don't need anything else. 
+3. please use Swagger API. 
+4. I host the scrapper in Heroku cloud servers, so your scrapper will have only 30 seconds to respond until Heroku shuts down it's running operation. 
+""",https://www.upwork.com/jobs/Web-scraping-for-all-the-image-URLs_~01a56f02e36f9e8ea0/
+tools, Multi-Site Web Scraping Project ,"""We are looking for a web scraping expert to help us get content across many sites. You'll be working on a team to scrape various sites in parallel. 
+ 
+More will be discussed when we start the conversation. 
+ 
+Thank you and looking forward to hearing from you!""",https://www.upwork.com/jobs/Multi-Site-Web-Scraping-Project_~0156bad5b2c0a1a66a/
+tools, I need install scraper(scrapy)code in Digital Ocean. ,"""Hello freelancers 
+I have a code that scrapes with Scrapy 
+I just want to put it on a digital ocean ubuntu droplet 
+I need someone who specializes in explaining to me and helping me to do that 
+I have similar projects, so whoever will do this I will employ them in future projects 
+don't send a proposal if you haven't done so before""",https://www.upwork.com/jobs/need-install-scraper-scrapy-code-Digital-Ocean_~01c6fb1aada835858b/
+tools, Data Mining / extraction from 2 websites in excel  ,"""Data extraction from 2 websites into excel. Websites are: 
+ 
+ 
+ 
+ 
+ 
+On the attached excel you will see the information needed and an example of the first 2 lines completed from each website into the 2 separate website tabs.  
+ 
+Info needed - Firm Name, First Name, Full Name, email address, email end, Practice Area(s)""",https://www.upwork.com/jobs/Data-Mining-extraction-from-websites-excel_~01bea0c2f2a4863171?source=rss
+tools, Scrape Contact Information from URL after login ,"""1. Login the Portal 
+2. Navigate to Matrix 
+3. Get List of Expired Listings 
+4. Navigate to Remine 
+5. Get All Contact Details for each Expired Listings 
+6. Save them in CSV Files with the following information for each contact. 
+7. Address/Names can be same, Phone/Email should be different. 
+ 
+Address, Firstname, Lastname, Phone, Email""",https://www.upwork.com/jobs/Scrape-Contact-Information-from-URL-after-login_~01e813b71c26fa5a55?source=rss
+tools, Cypress.io extract website data ,"""write a small website crawler using cypress that does the following 
+ 
+website:  
+ 
+what to do:  
+1. for each 'app' in the marketplace, extract the 'review rating number' AND 'installs' (see screenshot attachment) 
+2. dump information in some csv file. format (app name, review rating, installs). example: (Foo, 3.5, 2000) 
+ 
+What to deliver to me 
+- your script that I can run locally that produces the csv file 
+- readme on how to run your script 
+- should run and complete within 3-4 minuteS""",https://www.upwork.com/jobs/Cypress-extract-website-data_~013006bb9f99bc2488?source=rss
+tools, Python/Django or Flask website with data scraping ,"""A one-page website built with Python and Django(or Flask) is needed for next Thursday (in 6days). 
+The site is straight forward and the functionalities are just a few. 
+ 
+We will provide you with the following: 
+- Mock-up of the one-page website (all the images and files involved). 
+- All the texts. 
+- Full explanation of the functionalities needed. 
+ 
+Deliverables: 
+1- One-page website developed and fully functional (both front and back). 
+2- Implementation of a data scraping script to keep the site updated. 
+3- Deployment in FastComet shared hosting. 
+ 
+You will work with an engineer who will provide you with full support and any requirement you need. 
+ 
+Budget is fixed as seen in the description. 
+ 
+Thanks""",https://www.upwork.com/jobs/Python-Django-Flask-website-with-data-scraping_~011b0984d92fc532c5?source=rss
+leads, Build a basic data scraper that can extract certain data ,"""We are looking for someone that can build a data scraper to extract data from websites 
+those can include e-mails, names, websites or even more advanced fields from a specific page. 
+ 
+I would like to know what is possible to build a basic data scraping tool that would extract the data in Excel""",https://www.upwork.com/jobs/Build-basic-data-scraper-that-can-extract-certain-data_~018dfc1c3e96c4055d?source=rss
+tools, Create a code to scrape news ,"""BUDGET IS JUST A PLACE HOLDER AND IS FLEXIBLE. 
+ 
+Looking for someone who can build a code that scrapes news regarding any conflict about a specific sports team from specific years from the internet.  I want the results to be saved as PDF files. 
+ 
+Added bonus if the code can highlight the sentence(s) that are specifically about the conflict and another bonus if the PDF can be determined to be an internal or external conflict and filed in an appropriate folder.""",https://www.upwork.com/jobs/Create-code-scrape-news_~01b44f18c1cb8505f6?source=rss
+tools, Web scraper to scrape data and make visualization ,"""hy i want to scrape a website which does not allow scraping. It is a pharmacy website and only shows specific data asked only. i want to scrape whole of the web. data.""",https://www.upwork.com/jobs/Web-scraper-scrape-data-and-make-visualization_~01489ba6d7700b3e3a?source=rss
+tools, Data analyst to scrape and classify the tags from Tripadvisor review. ,"""I want you to visit the Tripadvisor pages of 100 hotels and click on the review page. There would be 'Popular mentions' tags for hotels (not all). I want you 1) to scrape all of them for each hotel and 2) determine location-related tags among 'popular mentions.' 
+Details are included in the attached pdf file.""",https://www.upwork.com/jobs/Data-analyst-scrape-and-classify-the-tags-from-Tripadvisor-review_~01a733a4127d6ade2b?source=rss
+tools, Developer Needed for Web Scraping for Dashboard ,"""Sneaker inventory/sales comparison dashboard which aggregates data and is visualized in simple and clean UX 
+ 
+Data should be refreshed daily run on a schedule, data can be exported, filtered by tags 
+Daily Dashboard should be sorted to show highest potential arbitrage / profit on top for the day. 
+show 30, 60. 90, year to date, month to date, previous month calculations should be available. The date range should be available as a picker for start and end dates. 
+Data should be able to be sorted by any of the numeric columns 
+High and Low Prices in comparison view should be highlighted in different colors 
+This should be available in size based view 
+Thumbnail image of each sneaker should be stored as a reference 
+Can be taken from stockX 
+Sites should be referenced as Retail, Resale or Both 
+The three sites we are starting with are all both,  
+Current prices should be refreshed daily, historical prices should not be lost. A new row should be stored with a price for each key value per (style/size/ site) unique combination for every day 
+Average price view should show 30, 60. 90, year to date, month to date, previous month calculations should be available. The date range should be available as a picker for start and end dates.""",https://www.upwork.com/jobs/Developer-Needed-for-Web-Scraping-for-Dashboard_~01ac022cb60c71a6f8?source=rss
+data, Script Developer to Download Files ,"""Hi. 
+ 
+Looking for a great script writer to write a script and download these files for me. 
+ 
+See attached list and instructions for what is needed. 
+ 
+Thanks""",https://www.upwork.com/jobs/Script-Developer-Download-Files_~01ac2b1ebf6ad8fd1a?source=rss
+data, Web Scrapping Expert specialize in Data Extraction ,"""We are looking for a web scraping expert to help us get content from a single portal. You'll be working on a team to scrape after login and update frequent data in mysql. 
+ 
+More will be discussed when we start the conversation. 
+ 
+Thank you and looking forward to hearing from you!""",https://www.upwork.com/jobs/Web-Scrapping-Expert-specialize-Data-Extraction_~01fd11410d3d5f451c?source=rss
+data, Website scraping in Python ,"""We are looking for an experienced Python developer to improve our existing web site scraping code with Beautisoup, Scrapy or other libraries. 
+ 
+Our existing code can scrape images from many website. However, it is having problem with some websites.  
+ 
+Successful candidates must have 5-year relevant experience and are expert in Python. This short-term project is for individual freelancers, not for agencies or teams. 
+ 
+""",https://www.upwork.com/jobs/Website-scraping-Python_~01b4f4cacc93959a8b?source=rss
+tools, Scrape website and make a CSV or Google Sheet ,"""The job description with images are here. It's way easier to understand: 
+ 
+ 
+----------------- 
+# About 
+- Please make Anki Deck file(.apkg) by scraping a website 
+- The content is about questions, answers and explanations for a medical exam  
+- Even though the content is in Japanese, you don't need to be able to read Japanese since translation extensions on the browser would be enough help 
+- The result file should be in this formatting.01.腎 
+ 
+# Amount 
+About 5000 to 7000 pages 
+ 
+# Details 
+ 
+## How to browse the website 
+Visit here and open the pulldown under ""科目別"".  
+ 
+ 
+There are 3+27 genres. Please ignore the 3 genres on the top without numbers. 
+Please make the files for 06.呼吸器 to 27.基礎医学. 
+Files for 01.腎 to 05.呼吸器 are not required. 
+Choose one genre and click ""設定する"". Make sure other conditions are the same as below. 
+ 
+Then click ""演習を始める"". 
+ 
+Click “回答状況” 
+ 
+Then copy all the column ”問題番号” to Google sheet or something and tag them to that specific genre. You will refer to them with VLOOKUP or whatever way you would like to. 
+ 
+Do the steps below for each of 22 genres 
+Please make the files for 06.呼吸器 to 27.基礎医学. 
+Files for 01.腎 to 05.呼吸器 are not required. 
+## How to make the sheet 
+Visit  
+AAAxAA matches the “問題番号”. In the case below, the URL is  
+ 
+Scrape the content and make the sheet like this. 01.腎 
+Image is also required. Please submit all the files. 
+ 
+# Deadline 
+The file should be submitted within 72 hours since you start working. 
+This is a bit of a complicated task. If you have any questions, please feel free to ask.""",https://www.upwork.com/jobs/Scrape-website-and-make-CSV-Google-Sheet_~013976e9334072b0d9?source=rss
+tools," 2 Python Scraping Scripts Required. 
+For scraping stories and other metadata to a specific format ","""We want scripts to be able to scrape 2 websites: 
+Archive of our Own and Wattpad  
+These should be able to take in a list from a search of the sites then scrape the metadata, and the first chapter of the stories into a specific format.  
+Then output a txt document. 
+ 
+You must be experiencing in web scraping and parsing data.  
+We will send videos showing how the data is to be parsed and collected.  
+We are offering a generous $99 for both the scripts that have been thoroughly tested in python.  
+The scripts are expected to be delivered 3 days from hire. If you can deliver the tested and working scripts in 24hrs from hire we offer a bonus of $40!""",https://www.upwork.com/jobs/Python-Scraping-Scripts-Required-For-scraping-stories-and-other-metadata-specific-format_~01221384f3d8b735e2?source=rss
+tools, Web scraping data in real time ,"""Aim of project is to receive a notification (preferably SMS text) which describes calculations such as a change in numerical data from a website producing live data. Calculations include percentage changes, min/max values etc. 
+ 
+Google account is a requirement for accessing our resources on GCP. 
+ 
+More details provided upon review.""",https://www.upwork.com/jobs/Web-scraping-data-real-time_~017077c7c6f75849a8?source=rss
+tools, Data Extraction via Python Webscraping ,"""Greetings, 
+ 
+We am looking to scrape some text from a well-known website. I am looking for someone to write a Python script that can do this effectively and showcase their work with the output file for the text. Both the script and the text dataset are the en products.  
+ 
+You will be given a file that you will use as input for your script.  
+ 
+The text will need to be formatted a specific way and these specifics will be shared to the chosen candidate.  
+ 
+Although the script won't be long or complicated, we will want it properly documented within the script.  
+ 
+The script must be in Python. 
+ 
+We would like the solution within a week. Only serious candidates who can meet that timeline should apply.""",https://www.upwork.com/jobs/Data-Extraction-via-Python-Webscraping_~017dba39582062f971?source=rss
+tools, Full Stack Developer with knowledge of web scraping and Firebase ,"""I have created a PWA with Firebase that triggers functions with multiple scrapers. 
+I am looking for an experience developer to do the following for a few months: 
+- Create and finish features (scrapers, connections with APIs, etc) 
+- Provide maintenance of the app. Fixing errors, debugging, etc. 
+- Solve questions from a junior dev. 
+ 
+This is a couple of hours per day job from Monday to Friday.""",https://www.upwork.com/jobs/Developer-with-knowledge-web-scraping-and-Firebase_~01236c4aa91ffbf4ac?source=rss
+tools, Need to extract specific data from PDFs to Excel ,"""We receive purchase order via email which are in PDF form and need only specific data from them. the pdfs contain part numbers, quantity and delivery which is the only data we need. we need an automatic way to extract that data.""",https://www.upwork.com/jobs/Need-extract-specific-data-from-PDFs-Excel_~01b02b7b2c11b7cbbc?source=rss
+tools, Amazon SKU Match in Excel ,"""Find SKUs for a list of products within an inventory spreadsheet.  The list contains 400 products.  The inventory spreadsheet contains 1200 items.  Need to find the best match for each product from the spreadsheet.  """,https://www.upwork.com/jobs/Amazon-SKU-Match-Excel_~0198b7c5896200b56c?source=rss
+tools, Need help to scrap a website  ,"""I need help to use rotating proxy to scrap data from a website.  There is no captcha.  All we need to do is to send request slowly and the. Insert result to Postgres db.   
+ 
+This code should run in Linux. 
+""",https://www.upwork.com/jobs/Need-help-scrap-website_~019b9f9cfed2d4a975?source=rss
+tools," Web Scraping Expert (Scrapy, Selenium) ","""I need to scrape some web resources (I'll provide links to resources by request). Tech stack what I prefer: Python, JavaScript, Scrapy, Selenium/Puppeteer. 
+All details I'll provide by request. 
+Thanks""",https://www.upwork.com/jobs/Web-Scraping-Expert-Scrapy-Selenium_~0181ba4a96fa73ed23?source=rss
+tools, Properties Job Python Scrape from web site ,"""URGENT HIRE - No agencies - we work direct with the freelancer 
+ 
+Details to be provided via messaging. 
+ 
+We need the following done. 
+ 
+Build a python or other package to ;  
+ 
+Visit site 
+Enter suburb from a text file 
+Download all the data to a .CSV or JSON file. 
+Download images to a folder 
+ 
+Must run off a PC and have the ability to run many instances e.g. open a browser with 20 tabs etc.""",https://www.upwork.com/jobs/Properties-Job-Python-Scrape-from-web-site_~01e643f1d9ab423934?source=rss
+tools, Advanced Webscraping and email extraction ,"""I need an expert scraper with a bit of automation skills. 
+ 
+Task is the following: 
+- extract data from a website 
+- use that data to search in google with a specific query I provide 
+- click the first result (is always a facebook page) 
+- get the email address from the facebook page 
+- get the phone number from the facebook page 
+ 
+i always give a bonus for fast and accurate work""",https://www.upwork.com/jobs/Advanced-Webscraping-and-email-extraction_~01e5432905e05781fe?source=rss
+tools, Scrape Discord Channel history ,"""We would like the history of all NFT collection-related Discord servers scraped. We have a detailed spec, ready to go. Please quote for the initial scrape and also how much you would like to be paid per month to maintain it.""",https://www.upwork.com/jobs/Scrape-Discord-Channel-history_~01c197bf25992e7c35?source=rss
+tools, Python developer to build an Airbnb data  Scraper ,"""Provisions & Expectations 
+We will provide a repo with a Python scraper code with the ability to query locations by date range and with different specifications. Endpoints for different scrapes are also provided. MongoDB is to be provided and the expectation is for this to be uploaded to a GitHub repository and the scraper application should be launched.  
+ 
+Specifications 
+●	Written in Python (Scrapy preferable)  
+●	Must be able to rotate through non-sequential IPs and spoof user agents (evade blocking) 
+●	Build, save and maintain a Listings List 
+●	Build, save and maintain a Markets List 
+●	Summarize Market Scraped Data 
+●	Save Market Summary to MongoDB 
+●	Save Raw Scraped Data in .csv in AWS S3 Bucket 
+●	Continuous scraping scheduled jobs 
+ 
+Read the attached file for the complete job description.""",https://www.upwork.com/jobs/Python-developer-build-Airbnb-data-Scraper_~0126d3e5c698b2982f?source=rss
+tools, Web Scraper Project ,"""We are looking for a web scraping expert who is fully fluent in English, available to start right away, and can provide quality work quickly. 
+ 
+The scraper will need to have rotating IP addresses and the means to avoid anti-bot software/detection.  
+ 
+The scraper will need to collect specific fields according to a provided template, parse and clean the collected data, and send the endpoints to either Google Sheets or AWS.  
+ 
+We need to be able to have the user input desired search criteria and run the scraper at will on an ongoing basis.  
+ 
+It is very important that the creator of this scraper is available to quickly fix the scraper if it breaks and provide potential updates to the scraper as needed in the future.""",https://www.upwork.com/jobs/Web-Scraper-Project_~01ddf18e7d222e7c98?source=rss
+tools, Python web scrapping using selenium/pandas ,"""You need to speak and understand English very very good. Accent is ok  
+1 
+I would to get to scrape daily gogole shopping to see if our company show up in first results row for key terms   using Python selenium package . We have aws acoount ready for you to use .  
+ 
+2 
+Python to Generate Keywords for Google Ads Campaigns 
+In coding, a “for loop” is a way to program tasks which involve iterations. A great use case would be to generate keywords by iterating through different word combinations. 
+For example, suppose you were to build a search campaign to sell shoes. On a spreadsheet, you would make the first column a descriptor, for this example we will use colors such as “red”, “green”, and “blue”.  Next, you would have a column with different types of footwear: “shoes”, “sneakers”, “sandals”. The third column is a specific term, in this case, shoe width: “wide”, “regular”, etc. 
+(link removed) 
+ 
+You need to speak and understand English very very well. An accent is ok .if you don't speak or understand English .Save the time don't apply.""",https://www.upwork.com/jobs/Python-web-scrapping-using-selenium-pandas_~014fa502a0f6c60ca2?source=rss
+tools, Data Scraping and Validating  ,"""Build a scraper and validation tool: 
+ 
+I have a list of URLs / domains. 
+ 
+1) The tool needs to find the imprint page of the URL (please explain which approach you choose here). 
+2) Then the tool searches on the imprint page if the term ""GmbH"" is existing. 
+ 
+I need the results as Excel or Google Sheet.  
+ 
+Tell me what such a tool costs or your service.""",https://www.upwork.com/jobs/Data-Scraping-and-Validating_~01aa6196d9fb08892a?source=rss
+tools, Data extraction/web scraping ,"""Looking for a freelancer who can scrape a website to gather pieces of data from a few sites or from the schema markup on a Google SERP, and export these into a Google sheet. 
+ 
+The data will always be in the same place on the page layout, but this will require some page scraping/extraction work.""",https://www.upwork.com/jobs/Data-extraction-web-scraping_~01f66db36233d93202?source=rss
+tools, Build a template project for Python web scraping ,"""We need a template project for Python web scraping. We plan on creating and developing many scheduled scripts for data extraction but we need a solid fundament with tools that will be used in the future. These tools are: 
+ 
+- Notifier class with the function “notify” that sends the email message to admin notifying about an error. This method returns nothing. This method takes arguments of: 
+    - exception (error message); 
+    - script name (or any other name for identification, this one may be redundant); 
+    - the admin email (optional, if not present, it uses pre-defined email in the shared configuration file). 
+ 
+- Proxy rotation class with the function “next” that returns the address of available proxy from the shared configuration file. 
+ 
+- Data delivery class with the function “deliver” that makes a request to endpoint and verifies that request was successful. Throws a specified exception if the request has failed. This method takes arguments of: 
+    - data in the dictionary (transforms it into a JSON and delivers to endpoint using POST request); 
+    - delivery endpoint URL (optional, if not present, it uses pre-defined endpoint in the shared configuration file). 
+ 
+- Script template that has included: 
+    - notifier and proxy rotation classes; 
+    - BeautifulSoap and Selenium; 
+    - 3 method calls: “notify”, “next” and “deliver” with usage examples. 
+ 
+- Venv and pip setup for this project. 
+ 
+Attaching the preliminary project structure. 
+ 
+Finally, we need short but meaningful documentation of what you have created together with usage examples.""",https://www.upwork.com/jobs/Build-template-project-for-Python-web-scraping_~01c9bfed3c2a6505db?source=rss
+tools, Scrape of website and download of files with some storing to MySQL Db ,"""Hi Guys, 
+ 
+URGENT REQUIREMENT 
+ 
+EDIT: A Contractor has just taken 12 to NOT deliver anything - please dont apply for this job if you cannot do it! 
+ 
+I need someone to create and supply the software to perform the following tasks. 
+I need a scrape of specific searches on rawpixel.com. e.g…… 
+ 
+ 
+I would like all image 
+ 
+This page is paginated and I would like all downloadable images followed 
+e.g. 
+ 
+ 
+I need description grabbing and I need it flagging if the description says Public Domain and/or “Editorial use only” e.g.  
+When you have grabbed the above information – I would like stored to a MySQL Db. 
+Last but not least – I would like the highest quality images on offer downloaded locally. 
+My need proxy options not too sure. 
+You will need to create a free account on the website in order to download the files. 
+This must be able to fun form the command line lie follows. 
+ 
+	Php ScrapeScript.php #url# 
+PLEASE READ AND MAKE SUE YOU 100% CAN DO THIS 
+I am a programmer and can code in PHP & Python. 
+I would Prefer PHP as its my native language. 
+I have a server which I can give access to if you need it. 
+Many thanks, 
+""",https://www.upwork.com/jobs/Scrape-website-and-download-files-with-some-storing-MySQL_~019da5049b99bc78a9?source=rss
+tools," Python API Web Scraping Expert
+ ","""Looking for an passionate Python Developer 
+Web Scraping experience is advantage 
+Python API experience is requried 
+Machine Learning, Artificial Intelligence is a Big Plus 
+ 
+ 
+ 
+Python Test 
+This is a quick 10-15 minutes test, hoping that you have all necessary tools ready on your computer.    
+ 
+Use PYTHON; Automate to scrap gmail..   Create an excel file and update below fields into that file.  
+ 
+1) Scrap all emails, including next tabs / load more 
+2) Scrap fields like From Email, To Email, Subject, Body 
+ 
+Once successful with test, please share screenshots for verification.  If you are successful till this point, you are 80% selected. Followed by that we will start assigning projects, In our long term projects. 
+""",https://www.upwork.com/jobs/Python-API-Web-Scraping-Expert_~018ff61ecaf1d68e06?source=rss
+tools, Scrapy expert- have an existing Python code need expert that understand extractions & lxml ,"""We have an existing scrapy project that works well for certain URL but we need to make it work for certain specific URL. You must be familiar with understand a page source HTML and adapting scrapy to extract elements. 
+ 
+Please apply only if you are proficient with scrapy extraction rules For example: 
+ 
+ div class=""Parent Class "" 
+                      div class=""Container Class"" somekey=""xxx"" 
+                        div class=""row"" 
+                          div class=""column1"" 
+                            div class=""SubSubClass""h3 class=""someLabel"" 
+span class=""SomeName""ABCD/span 
+                              span   class=""AnotherLabel""        Hello     /span 
+..... 
+                            """,https://www.upwork.com/jobs/Scrapy-expert-have-existing-Python-code-need-expert-that-understand-extractions-amp-lxml_~010109a01fc7733543?source=rss
+tools," Web scraping, GUI design and big data analysis with Python ","""Hi, 
+ 
+I am looking for a Python developer who is experienced in web scraping (using Scrapy module), big data analysis, and have a fair UI/UX design experience.  
+ 
+You are required to crawl data from a specified target website (e.g. Amazon or TripAdvisor, or other if you are familiar with them, but Amazon is preferred) and visualize the data in a graphic user interface GUI. The data is then analyzed by the big data techniques (NLP is preferred, other is also acceptable if you can prove the complexity) 
+ 
+Since I don’t specific too many details at the moment, you can introduce some idea if you can achieve it. Here is some of my suggestion. If NLP is used, you may determine if the comment is consistent to the grading. If clustering is used, you may determine if there is any anomaly user. It is important to show the the outcome of the techniques used is meaningful. 
+ 
+In short, what you need to do is: 
+(1)	Crawl the data from a target website and store it in a database 
+(2)	Design a GUI and visualize the data retrieved from the database 
+(3)	Apply big data techniques to the data 
+ 
+For the first two, I will give  5-7 days to complete since it is not really difficult if you have such experience. For the third one, I believe it is sufficient to be done in 10 to 15 days, but more can be given if I believe it turns out to be good work after reviewing. 
+ 
+It is expected the developer should have good communication to me and, as we may discuss many times during the development and also I can keep on track your progress. 
+ 
+I will pay more if you did a great job.""",https://www.upwork.com/jobs/Web-scraping-GUI-design-and-big-data-analysis-with-Python_~01c19a5d3489fc13e4?source=rss
+tools, Developer to scrape data from website ,"""We are looking for a software developer to help our company compile data. You will need to: 
+1. Build a scraper to scrape building permit data daily or weekly (depending on recurring costs) from PPRBD at  
+2. We have historical data from prior to October 2021, so it will need to include from October 2021 until today and scrape daily or weekly. 
+3. Filter ""Project Description"" for ""Reroof"" 
+4. Include all fields in the table: Permit #, Plan, Address, Zip, Issue date, Contractor, Fee, Status, Dept, Code, Project Description 
+5. Deliver into a BigQuery table after scraping.  
+ 
+Please begin your proposal with the word ""reroof"" so we know you've read the post. Also include your preferred scraping software for this job and how you intend to handle the ETL of the scraped data into BigQuery.""",https://www.upwork.com/jobs/Developer-scrape-data-from-website_~01e242ce2d93a1910c?source=rss
+tools, Web scraper needed for straightforward job (IMDb Pro) ,"""Hi. I am creating a new B2B tool for talent agents in the entertainment industry. I need someone to scrape emails for all talent agents on IMDb Pro for a marketing campaign. That's around 10,000 people. 
+ 
+Deliverables:  
+ 
+- a spreadsheet with their Agency name, their name, email, and number of clients  
+- source code 
+""",https://www.upwork.com/jobs/Web-scraper-needed-for-straightforward-job-IMDb-Pro_~0133d3b11582ab1446?source=rss
+tools, Daily scraping of new job postings ,"""Following websites are publishing daily job postings in Finland and we need them: 
+ 
+Duunitori.fi 
+We don't want postings where source is: Lähde: ""TE-palvelut"" 
+ 
+ 
+We don't want postings where source is: Lähde: ""TE-palvelut"" 
+ 
+We would like to do scraping once a day and the results should be saved to Excel Sheet or other better cloud service. - Later automatic saving to database will be needed.""",https://www.upwork.com/jobs/Daily-scraping-new-job-postings_~01be229038837cb7ab?source=rss
+tools, Scrape hotel prices weekly and send message  ,"""I need a tool that scrapes hotel prices for a given area or city (will specify if required) and send a weekly message or email. Also would like to be able to post it on a webpage and have it update weekly at minimum.""",https://www.upwork.com/jobs/Scrape-hotel-prices-weekly-and-send-message_~01eba3582fed10380f?source=rss
+tools, Expert Scrapy/Pyhton to fix Scrapers  ,"""We have several scrapers running on Scrapy. we do have a dedicatd proxy rotative service , nevertheless some scrapers stop working. 403 error. we are looking for an experimented scrapy developper who has advanced skills ans ca scrape complex website""",https://www.upwork.com/jobs/Expert-Scrapy-Pyhton-fix-Scrapers_~013c165acbfb32ea41?source=rss
+tools," Python API Web Scraping Expert
+ ","""Hi ,we are Looking for an passionate Python Developer 
+Web Scraping experience is advantage 
+Python API experience is requried 
+Machine Learning, Artificial Intelligence is a Big Plus 
+ 
+Before hiring you to the project, there will be a small unpaid test which you have to clear. 
+ 
+If you are interested then complete the following (unpaid)test: 
+Python Test 
+This is a quick 10-15 minutes test, hoping that you have all necessary tools ready on your computer.    
+ 
+Use PYTHON; Automate to scrap gmail..   Create an excel file and update below fields into that file.  
+ 
+1) Scrap all emails, including next tabs / load more 
+2) Scrap fields like From Email, To Email, Subject, Body 
+ 
+Once successful with test, please share screenshots for verification.  If you are successful till this point, you are 80% selected. Followed by that we will start assigning projects, In our long term projects. 
+""",https://www.upwork.com/jobs/Python-API-Web-Scraping-Expert_~0129b59831397a4e83?source=rss
+tools, Web Data Collection Programmer  ,"""A skilled programmer is required for developing a web-scraping – online-data-collection tool. 
+The tool will be used for collecting data from websites & add them to a database (Excel sheet). 
+The tool process rules are defined in a detailed specification file: the process input are keywords and /or links. 
+Attached are the specifications of the job & Excel file.  
+If you can't fully understand - I can't help in a chat or a conversation. 
+Please see that you can provide the requested tool and if do - quote for a final requested payment & time for completing the job. 
+Thanks!""",https://www.upwork.com/jobs/Web-Data-Collection-Programmer_~01b1df02f16a60eea2?source=rss
+tools, Crawl Scrape and Save Data ,"""I have a website I need to crawl and scrape all the info. 
+ 
+So the task is as follows: 
+ 
+- Go To  
+- Find the method that they are storing the data 
+- I need to retrieve the data in a python dictionary  
+- Create a script that can grab the entire content from as far back as possible of every item in the DB 
+- Script must be able to run daily and grab the latest content everyday. 
+ 
+Your requirements 
+-Written in python 
+-Use the BeautifulSoup library to parse/scrape the HTML 
+-End result should be a dictionary with all info available 
+ 
+Job needs to be automated daily at a specific hour and always scrape NEW LINKS ONLY. 
+ 
+Instructions and all files/libraries needed to run the script must be included. 
+ 
+Message me for more details on the specific website and what needs to be done. 
+ 
+--- 
+Skills: Data, Mining, Collection, Python""",https://www.upwork.com/jobs/Crawl-Scrape-and-Save-Data_~01e543a6b01fba3cd5?source=rss
+tools, Scraping data from a website that is protected by Cloudflare ,"""Extract data from this example Brickseek link and load it into a Google sheet. 
+ 
+(link removed) 
+ 
+Currently, the website is protected by Cloudflare. My previous coder have it working, but we ran too many requests (6 per min) and it is blocked by it. I'm looking for a new way to scrape the data that won't be affected by Cloudflare.  In addition, we also tried various rotating proxies, and it is also blocked by Cloudflare. 
+ 
+The scraper must be working offline (meaning that it won't be running constantly on my computer, and instead in a virtual server). In addition, it must perform refresh every 15 mins or so, so the google sheet can be updated by itself.  
+ 
+The google sheet output will be in the attached picture""",https://www.upwork.com/jobs/Scraping-data-from-website-that-protected-Cloudflare_~01258cca3e08650ac5?source=rss
+tools, Scraping of websites using Zyte/Scrapy ,"""We are looking for help to scrape daily listings of three (3) marketplace websites, specifically pet section and then pushing that scraped data into a database. If project is successful, we have many more sites to scrape. 
+ 
+Ideally the data is pushed to our BigQuery data warehouse, where every website has its own table. If that doesn't work we have a postgres database we could push data to. 
+ 
+The websites to scrape are the following: 
+ 
+- Gumtree.co.uk 
+- Preloved.co.uk 
+- Freeads.co.uk 
+ 
+Please see attached guide to scraping the sites with URLs included and what data should be collected. Points for a successful project include: 
+ 
+Technical details 
+- Well-documented code 
+- Only unique listings should be pushed (based on ad id) - if entry exists, entry should be updated 
+- Data pushed to Google bigquery  (optionally postgresql) 
+- Crawler to run every 6 hours to check if new results have been published on the website 
+- Please use Scrapy, where we use Zyte to manage all crawlers. Access to our Zyte account will be provided 
+- Push all crawler scripts to our git repository (access will be given) 
+ 
+Please get in touch if you have any questions! 
+ 
+ 
+/Emil""",https://www.upwork.com/jobs/Scraping-websites-using-Zyte-Scrapy_~014bcd703dfd96b1bf?source=rss
+tools, Bypass cloudflare in scrapy python ,"""I have a scrapy code that scraped a website with 100% accuracy but the website updated the security system and needs to pass a cloudflare , and I’m getting error 403 and error 1020, I need to pass cloudflare in my scrapy spider or a guidance on how to do this . 
+the error is in the photo . 
+if you read the job post , please try to write ""asdfasdf""""",https://www.upwork.com/jobs/Bypass-cloudflare-scrapy-python_~01b4755ccca40616bb?source=rss
+tools, Web data scraping expert ,"""We are looking for a data scraping expert for a project. The task is to collect data from different websites and store it in excel/CSV files.  
+This is a long-term project, if the candidate is a good match, we can work further. 
+ 
+Alongside data scraping, ETL experience is preferable, as this might help to work on the project long-term. 
+ 
+Please send your proposal with skillsets on language, tools, etc. Also please mention your previous works.""",https://www.upwork.com/jobs/Web-data-scraping-expert_~018478c318a0ce7fce?source=rss
+data, Extract data from private airtable ,"""I need data extracted from  . It is a private airtable view. You can access the database by signing up for free.""",https://www.upwork.com/jobs/Extract-data-from-private-airtable_~01ee2c1538dbf77f0c?source=rss
+tools, Need to scrape page with Python and insert into Pandas dataframe ,"""I need to scrape NBA over/under prop bets from this site (https://www.bovada.lv/sports/player-props). I have done scraping before, but I can't get the HTML properly from this page. I prefer you to use Splinter/Selenium and/or BeautifulSoup (if possible).  
+ 
+Pictures and descriptions: 
+ 
+Picture 1 - Yellow highlighted are the settings that need to be selected. I need to scrape for all categories available on the page in the red brace area. 
+ 
+Pictures 2 and 3 - I need the data highlighted in picture 2 to be put into a Pandas Dataframe like is shown in picture 3""",https://www.upwork.com/jobs/Need-scrape-page-with-Python-and-insert-into-Pandas-dataframe_~01b63f1b4a28a6207b?source=rss
+tools, Scrappy engineer with Flask experience ,"""We're hiring a python developer with strong scraping / extraction experience. 
+ 
+Our scraper is built with scrapy and flask. There is an application layer to control jobs / regular extraction routines and some logic that defines what should be extracted and updated at designated time intervals. 
+ 
+The front end is built on vue.js and another developer will handle the front end.  
+ 
+The scraper operates at high volume typically extracting 1M+ ecommerce listings a day. 
+ 
+We are looking to build out this tool so this project will be ongoing with a lot of work available should you want to continue on the project. 
+ 
+We are looking for developers with strong scraping, scrapy and flask experience. 
+ 
+Please apply now to learn more, we are looking to get started asap.""",https://www.upwork.com/jobs/Scrappy-engineer-with-Flask-experience_~01a2d659a70814c8eb?source=rss
+data, Data Extraction from websites to csv ,"""I have a website with a list of companies. I would like the contacts and their details within the list to be imported on to a CSV so I can upload them on to Salesloft""",https://www.upwork.com/jobs/Data-Extraction-from-websites-csv_~014cd3877a254cb672?source=rss
+tools, Scraping a webpage - data extraction & mining ,"""Hello, 
+I need a website scraping specialist. 
+The website that I need to scrape is (link removed)/ 
+ 
+It is a website with judicial auctions of bankrupt companies. It has thousands of pages. 
+It does not allow a search using specific keywords. I would like to scrape the auctions using the existing filters (e.g. minimum and maximum price) plus one or more keywords (e.g. “zona industrial”). 
+ 
+As an output I would like to have an Excel with auction link, auction date, price. 
+I would also like to have the possibility to download the PDFs associated with each auction (“Ordinanza”, “Avviso”, “Perizia”). 
+I want to install the software on my server with the possibility to make an automatic daily (or weekly, or monthly) search. A GUI is nice to have but not compulsory. 
+ 
+I don’t thing that IP rotation with proxies or website login will be needed. 
+Questions are welcome. 
+ 
+Thanks, 
+Francesco""",https://www.upwork.com/jobs/Scraping-webpage-data-extraction-amp-mining_~015607262905cd4f01?source=rss
+tools, Scraping website with anti-scraping measures + form submission ,"""•	The job is to scrape data on SEDI.CA, a Canada government website that lists insider transactions: SEDI 
+•	You will quickly notice that the website has an anti-scraping system, which would need to be bypassed 
+•	Scraping SEDI requires to fill in a form to access the page with the results: on the first page, you should filter by notification date (loop through each day) and only select the “Equity” securities 
+•	Once you accessed the page with all the results, you need to click on the “Do you want to view transactions with remarks?” button so that remarks will be shown 
+•	On the results page, transactions are sorted by issuer and by insider: I need you to gather all the data that is found on the table in a structured json 
+•	You will need to use python as the main language but can use any other tool that you want with it (scrapy, selenium, etc. – anything that works)""",https://www.upwork.com/jobs/Scraping-website-with-anti-scraping-measures-form-submission_~019c1bf8553f801a00?source=rss
+tools, Python script for web scraping ,"""We need someone to create a python script that walks links on a site and delivers scraped data via a csv file.  This first project should include the python script and the full csv from the scraping project. 
+ 
+Details will be made available in discussion.""",https://www.upwork.com/jobs/Python-script-for-web-scraping_~01a12995a018871857?source=rss
+tools, Web Scraping for Crypto ,"""Extract data from crypto websites and store it to Amazon Timestream. 
+The project includes the deployment to AWS Lambda. 
+ 
+Example of websites to scrape data from. 
+ 
+ 
+""",https://www.upwork.com/jobs/Web-Scraping-for-Crypto_~01d22747de4e7c1665?source=rss
+tools, Simple Python web page scraper ,"""Hi. I need something pretty quickly... 
+ 
+On this page: 
+ 
+ 
+I need to monitor the numeric value under ""Borrow Markets"" on the ""Spirit"" value. This updates dynamically so you'll need to use selenium or equivalent. I want to know when it changes immediately (at least within a few seconds). 
+ 
+Just give me the script and I'll add the logic to deal with value.  
+ 
+This should take you like 10 minutes. :-) 
+ 
+Thanks!""",https://www.upwork.com/jobs/Simple-Python-web-page-scraper_~017a7a0bf62587f566?source=rss
+tools, Create script to download and organize API Data ,"""Create a python script that extracts from opensea API 
+(link removed) 
+ 
+From a list of projects: 
+Extract ids of owners 
+Extract transaction history of owners 
+Extract transaction history of last 50 sales  of the project 
+Extract list of nfts of owners and last sellers  
+   
+Data fromatted as df to extract to csvs""",https://www.upwork.com/jobs/Create-script-download-and-organize-API-Data_~012c9f28c314378303?source=rss
+tools, API scraper example ,"""Hello, 
+ 
+Looking for a developer who can provide me with a python or other language script example to scrape data from an api. This api is called from the website. 
+ 
+Deliverable- 
+Script example with successful calling of api request of a product using only 1 id. All i need is a sample to see it’s possible. 
+ 
+Once that’s done, project will be extended further to mature the script to scrape all the products. 
+Payment will be done milestone wise. 
+Contact me for the website to be scraped. 
+Start you cover letter with word “scrape”""",https://www.upwork.com/jobs/API-scraper-example_~01b4a81e4940b17f13?source=rss
+tools, Scrape booking.com availability and integrate with my Airbnb account  (automation) ,"""1. Scrape availability of hotel rooms from booking.com 
+2. Integrate/Sync calendar availability  from booking.com with  my Airbnb account 
+3. If possible, create listing with pictures on my account  
+4. Grab booking details from guests on Airbnb and automatically book on booking.com (such as first name, last name , etc).  
+5. Automate this process so it works without error in the future""",https://www.upwork.com/jobs/Scrape-booking-com-availability-and-integrate-with-Airbnb-account-automation_~01612116194d81dc7d?source=rss
+tools, Dynamic Web Scaper ,"""Building dynamic web scraper for a specific URL (to be provided when job is accepted) 
+ 
+Should be built in python and inputs should be automated.  
+""",https://www.upwork.com/jobs/Dynamic-Web-Scaper_~0159213b672c3622c3?source=rss
+tools, Create a custom scraping script ,"""I require a custom scraping script that will check the home pages of a list of domain sites for certain keywords.  
+ 
+I will be providing different types of csv files with a list of domain sites. I need these domain sites crawled and checked for certain keywords.  
+ 
+The keywords may change, I need to be able to update them.  
+ 
+You can write the script in node.js or python.  
+ 
+The script needs to be fast. I also need to be able to use the script myself, so it requires documentation to accompany it.  
+ 
+When domains are identified as containing any of the keywords given, I need to be alerted to this either by a list of the flagged domains being exported in csv format, or some other method.""",https://www.upwork.com/jobs/Create-custom-scraping-script_~01553216aafad5d671?source=rss
+tools, Data scraping automation and formatting ,"""I need a script created that checks website home pages for a list of keywords and then flags those sites from a csv file of domain names. """,https://www.upwork.com/jobs/Data-scraping-automation-and-formatting_~01606d243efdf30022?source=rss
+tools, Script or application to scrape data ,"""I need someone to create either a script, automation or application to retrieve data from a website and then add it to a google excel sheet in the cloud. You will be pulling travel data.  
+ 
+You will receive:  
+Short doc on the task 
+Login information for site 
+google drive access to the google sheet 
+ 
+You will deliver: 
+script, automation or  application for the task""",https://www.upwork.com/jobs/Script-application-scrape-data_~01278c860dd88414d6?source=rss
+tools, Web Scraping Specialist ,"""I need someone to perform web scraping from tata1mg.com and provide the code used. The web scraping needs to be done in python and the final output should be saved as a dataframe. 
+ 
+This is a short-term project but if turnaround and quality are fast and good, I am interested in a longer engagement.""",https://www.upwork.com/jobs/Web-Scraping-Specialist_~016bf2420e38bd0c8f?source=rss
+tools, Web Scraping using Selenium with Python! ,"""Implementation of data collecting (Web Scrapping using Selenium Python) From  
+1)Need to login with username and password 
+2)Collect the data from RSI values and other value as shown in attached image 
+3)Collecting the Request URL,enctoken,api key and secreat.""",https://www.upwork.com/jobs/Web-Scraping-using-Selenium-with-Python_~0154a62a939735df40?source=rss
+tools," Expert python selenium, captcha, docker, xpath, perimeter x, crawlers, script, bot ","""Expert python selenium, captcha, docker, xpath, perimeter x, crawlers, scraping, bot, proxies, ip rotating""",https://www.upwork.com/jobs/Expert-python-selenium-captcha-docker-xpath-perimeter-crawlers-script-bot_~01c270a63787aa77f2?source=rss
+tools, Modify and Python Web scraper Developer for Optimization Project ,"""We have an existing tool already in place, however, we are looking for a new developer for ongoing projects. We have one small project with immediate urgency. 
+ 
+Scope of work for immediate need: 
+1) Adjust a few of the scrapping locations and internal math equations.  
+Our scraper is printing into a discord server. Some of the locations it is grabbing from are incorrect, and some of the math that is printing is also incorrect. I will provide the appropriate locations and math equations. this is a simple swap task.  
+ 
+2) Adjust delay time to minimize proxy blocking. 
+ 
+3) Send Data Feed also into a google sheets/database where we can automate/manipulate data into graphs and charts to prepare for future development of an app.   
+Currently the Scraper does print data into .CSV files, however, these .CSV files are used to identify when changes are made on the URL's and new data/changed data/updates need to be sent to the discord feed.   The .CSV does not keep a record of these changes, and we need to take the data that goes into these discord feeds and input them into a sheets type document, where we can use formulas and automation to manipulate the data/analyze the data. 
+ 
+ 
+Note* require an NDA for work to be complete or to see the code. 
+............................""",https://www.upwork.com/jobs/Modify-and-Python-Web-scraper-Developer-for-Optimization-Project_~0199d22c9a116a8ff1?source=rss
+tools, Website Data Scrapper: python ,"""A Python Script which scrap data from below website & save in to Google bigquery or Google sheet. 
+ 
+ 
+I will provide list of columns & it will be only for 1 category & all subcategory under shared category 
+ 
+Acceptance criteria: 
+ 
+1 time dump of all the products with required details 
+Python script( running) which will extract data if run from my local system 
+ 
+""",https://www.upwork.com/jobs/Website-Data-Scrapper-python_~014db4569bd1678289?source=rss
+tools, Need a Chrome extension scraper TODAY URGENT ,"""I need to scrape hubspot pages, i will login and run chrome extension and it will just output the fields of table. That’s it. Need this done urgently!! Only apply if you can do it in few hours today""",https://www.upwork.com/jobs/Need-Chrome-extension-scraper-TODAY-URGENT_~010ff2edac91a58174?source=rss
+tools, Cricket Data Scraping Automation ( cricket knowledge needed) ,"""I’m looking for someone who is good in automation of scrapers. 
+I will need “Ball Tracking off the BCCI website”  
+ 
+Knowledge in cricket is must. Successful work may lead to new projects""",https://www.upwork.com/jobs/Cricket-Data-Scraping-Automation-cricket-knowledge-needed_~01e449d0bba268e212?source=rss
+tools, Data Scrapping and User Interface development ,"""Looking for freelancer  
+1.  who can crawl and download data from a few Urdu resources and  
+2. create simple user interface to show it, this user interface will have a few fields to tag data, once tagged it should move to the third step 
+3. save it in JSON format along with their labels""",https://www.upwork.com/jobs/Data-Scrapping-and-User-Interface-development_~01c4cb04765b8f9aa2?source=rss
+tools, Tracking Pixel  Scraper  ,"""Hello everyone we are looking for someone who could build and perfect what these two companies have built we will be using this across multiple dealerships and want it to help us find and match data. 
+ 
+The Price is a place holder please view this video and get back to me thanks! I am looking for someone to create a pixel we can use for dealer sites to track more data. 
+ 
+The links provided should give you an idea of what we need ! 
+ 
+(link removed) 
+ 
+ 
+leadhero.us 
+ 
+shynable.com 
+ 
+(link removed)""",https://www.upwork.com/jobs/Tracking-Pixel-Scraper_~0188997d23eefbe762?source=rss
+tools, Software Development - Automated Listing For Facebook ,"""I am looking for a software to be developed where it can automate listings into private facebook groups that I am a part of. I would like there to be a portal where I can view listings, repost certain listings and add more listings.""",https://www.upwork.com/jobs/Software-Development-Automated-Listing-For-Facebook_~01ca29ca6e7811e844?source=rss
+tools, Scraping-Bot for music publisher ,"""As a music publisher we want to track when and where songs published by us were played live at concerts and festivals. For that we need a scraping bot which can scrape websites like Songkick, Bands in Town etc.. The bot should be able to give us dates, locations, names of venues and names+adresses of concert promoters once we give it a name of a certain artist and store it in a google sheet.""",https://www.upwork.com/jobs/Scraping-Bot-for-music-publisher_~01d9e507f9fba256d8?source=rss
+tools, Google Scraper Python Script Needed ,"""I need a simple script that can scrape google PAA/FAQ for a series of keywords.  
+Maybe we can use Google scraping 3rd party API or anything you suggest.  
+Let's talk""",https://www.upwork.com/jobs/Google-Scraper-Python-Script-Needed_~0171952d4c827851b1?source=rss
+tools, Web Scrapper: Automated Web Analyzer to Accumulate Data ,"""-Script programming to analyze related website and collect Data based on logical criteria 
+-Generate a spreadsheet based on the outcome of the filteration""",https://www.upwork.com/jobs/Web-Scrapper-Automated-Web-Analyzer-Accumulate-Data_~011cbb7ae62a4d5410?source=rss
+tools, Adaptation of existing Python web scraper ,"""We have an existing web scraper based on Python that needs to be adapted slightly. We assume that the foundation is already there but the scraper has to perform a slightly different task thatn it was originally built for. 
+Please submit a proposal to receive more details for an estimate.""",https://www.upwork.com/jobs/Adaptation-existing-Python-web-scraper_~01a3faddba8d7d2cc6?source=rss
+tools, Data Extraction from Football Portal ,"""Extract data from a football (soccer) portal with a PHP script. 
+ 
+Info to extract : teams and betting odds. 
+ 
+Data Fields: about 7 to 12 data fields.  
+ 
+Data Rows: 50,000 rows of data. 
+ 
+Tech Spec: 
+* Language: PHP 
+* DB: Mysql or MariaDB 
+* OS: Linux 64 bits 
+ 
+Deliverables: 
+1) 50,000 rows of data in MySQL or MariaDB 
+2) A working php script for future data extraction 
+ 
+The football portal url and detailed info will be provided in private message.""",https://www.upwork.com/jobs/Data-Extraction-from-Football-Portal_~019e563eb57b505db6?source=rss
+tools, Automate email from Excel ,"""I have attached a sales report which links to our accounting package, once we select a date slicer i want to run a macro which will run a program to filter using the slicers then create a pdf file for each sales person, needs to be able to recognize when additional sales reps start, need a tab with the rep number and email addresses..   
+ 
+also Conditional format Prices to be in RED if price overridden = Y""",https://www.upwork.com/jobs/Automate-email-from-Excel_~01c6f394cca601af46?source=rss
+tools, Python web scrapping using selenium ,"""hello, 
+ 
+I would to get to scrap the website and grab a value from the chrome browser console and convert that to a csv file for any 100 pages on the site using Python selenium package .  
+ 
+URL -  
+ 
+go to browser console and get values from ""dataLayer"" ; attached an example screenshot here. 
+""",https://www.upwork.com/jobs/Python-web-scrapping-using-selenium_~01a113413922cf5a4b?source=rss
+tools, Run scripts to scrape data from websites ,"""Looking to have several websites scraped via a script - data added to a google doc. Will try with one and then we will do more together. Thanks! 
+ 
+An example would be to scrape all data about all distilleries here: 
+ 
+ 
+Name 
+Location 
+Website 
+Email Address  
+Phone number 
+Has Tastings / Tours / Events""",https://www.upwork.com/jobs/Run-scripts-scrape-data-from-websites_~01b470620aed37f0c8?source=rss
+tools, Fix etsy scrape script ,"""Here's the code of the script: 
+ 
+ 
+ 
+it's supposed to scrape a list of shop names but it's now broken and scraping random data. Needs to be investigated. 
+ 
+Here's an example call: 
+ 
+shops_list = scrape_listings( 
+        ""https://www.etsy.com/search?q=print+wall+art&explicit=1&ship_to=ZZ"", 
+        1, 
+        2 
+    )""",https://www.upwork.com/jobs/Fix-etsy-scrape-script_~01bb6029388cc3f1e7?source=rss
+tools, Implement API/Scraper to make Cruise Website  ,"""Hi, 
+ 
+I have a cruise website that I would like to have automatically updated based on where cruises are going. This could be done with API (if available) or scraping of cruise websites I believe. Using this information, it inputs it to the website for customers looking to cruise to particular destinations.""",https://www.upwork.com/jobs/Implement-API-Scraper-make-Cruise-Website_~012ac4f98f4644517d?source=rss
+tools, Need a python scripts that scans webpage and sends mail ,"""We need a python script that scans the following page:  
+ 
+ 
+Script must scan the page with an x second interval that we set as variable in the code. 
+ 
+The script must scan the code for occurrences of the string ""0000,#"" where the value of # should be set as a variable in the code, so if we set #=2 it should scan for ""0000,2"" 
+ 
+We should be able to set a list of numbers for ""SectionName"" that the script does not search. Hence if we set ExcludeSections=[1,2,3,4] the script should search all sections but that one. 
+ 
+If a string (or multiple strings) are found that match the requirements it should return an email that contains the text: x occurrences found of # seats for relevant sections, click here to go to the event: url. 
+ 
+Where x, # and url are variables that we can set in the code. The mail should be sent with the attached Mailgun code.""",https://www.upwork.com/jobs/Need-python-scripts-that-scans-webpage-and-sends-mail_~0177e6195ccac9e7f3?source=rss
+tools, Make python web scraping faster  ,"""I have a python code that extracts the data from a website with 500 pages and each page has links to be scraped ( 12k links )  
+ 
+The code is built using python module “cloudscraper” to pass the cloudflare  
+ 
+But running this code will take more than 12 hours  
+ 
+And I need any way to make faster and make the running time less than 1:30 hour  
+ 
+Please apply if you can do it""",https://www.upwork.com/jobs/Make-python-web-scraping-faster_~01444be9386eadd6a9?source=rss
+tools, We need help with a scraping project / bot ,"""Hi - we want to build a bot that scrapes a website and gets leads from a website that is notoriously pretty hard to scrape. Please say batman in your reply so we know you read the description. 
+ 
+We need someone with a lot of experience navigating hard-to-scrape sites. We need the data in a very organized format. 
+ 
+We can go over exactly what we need on a call. We're excited to get started.""",https://www.upwork.com/jobs/need-help-with-scraping-project-bot_~01d8425ab685c04514?source=rss
+tools, Scraper for dynamic page ,"""Scraper needed for dynamically generated page. 
+1. login 
+2. get a value from the user profile 
+3. store the value to external database or spreadsheet 
+4. logout 
+The project is very basic for the right developer. If all goes well, additional options will be needed.""",https://www.upwork.com/jobs/Scraper-for-dynamic-page_~019dbd2298aa6d988c?source=rss
+tools, Python Web Scrape and Post ,"""The job will require scraping a simple table from a website and reorganising the data so it can automatically be posted through twitter in their format.""",https://www.upwork.com/jobs/Python-Web-Scrape-and-Post_~013d3aa9bcbe245b18?source=rss
+tools, Scarpe of website and download of files with some storing to MySQL Db ,"""Hi Guys, 
+ 
+URGENT REQUIREMENT 
+ 
+I need someone to create and supply the software to perform the following tasks. 
+I need a scrape of specific searches on rawpixel.com. e.g…… 
+ 
+ 
+I would like all image 
+ 
+This page is paginated and I would like all downloadable images followed 
+e.g. 
+ 
+ 
+I need description grabbing and I need it flagging if the description says Public Domain and/or “Editorial use only” e.g.  
+When you have grabbed the above information – I would like stored to a MySQL Db. 
+Last but not least – I would like the highest quality images on offer downloaded locally. 
+My need proxy options not too sure. 
+You will need to create a free account on the website in order to download the files. 
+This must be able to fun form the command line lie follows. 
+ 
+	Php ScrapeScript.php #url# 
+PLEASE READ AND MAKE SUE YOU 100% CAN DO THIS 
+I am a programmer and can code in PHP & Python. 
+I would Prefer PHP as its my native language. 
+I have a server which I can give access to if you need it. 
+Many thanks, 
+""",https://www.upwork.com/jobs/Scarpe-website-and-download-files-with-some-storing-MySQL_~014dbfbe8dd6942afe?source=rss
+tools, Web Crawling and Scraping Project ,"""We are a massive marketplace. We are looking for a quick software/web application creation that will help us crawl and scrap (publicly available information) from multiple websites for data mining purposes.""",https://www.upwork.com/jobs/Web-Crawling-and-Scraping-Project_~01861e9b3267e38a30?source=rss
+tools, Script to Press a Button on Website ,"""Hi, please look at the attached image. 
+ 
+This is a website where it displays crypto prices and it has a START button underneath. 
+The USDT price keeps changing every second. 
+ 
+I need a script which will press that start button when that USDT is over a certain amount. 
+But it needs to check a few criteria before it presses that button automatically. 
+It also has to be lightning fast as that figures changes in a split second. 
+ 
+I should also be allowed to turn the script on and off. 
+A chrome extension would be perfect if there is no lag. 
+ 
+I can pay $8 for this quick solution. 
+ 
+First read the full explanation and then watch the video for the visual explanation. 
+Here is the written explanation: (link removed) 
+Here is the video explanation: (link removed) 
+ 
+Webkept""",https://www.upwork.com/jobs/Script-Press-Button-Website_~0170f6a5acbfe190ec?source=rss
+tools, UI for python selenium scraper ,"""I already have the code and everything, I just need 4 attributes that we are manually adding into a folder to be just there upon opening the application please.  """,https://www.upwork.com/jobs/for-python-selenium-scraper_~0135bc5ad3778b1123?source=rss
+tools, Website Scraping Automation ,"""The aim of this project is to help create a part of the automation to scrape price 
+product information to create a Wordpress Price Comparison Website, for different products. 
+ 
+This part being developed will be the MVP, after which we hope to work with the same developers provided things are successful to expand the site further. 
+ 
+The development to achieve this is split into these sections: 
+• Extraction, of product data 
+• Processing, the scraped data 
+• Matching, same products from different websites 
+ 
+Once all of this is done, this information will be uploaded to a CSV file on a FTP server and provide the link to the file or XML link provided. These two links will be linked to our website, where it will upload the information onto our Wordpress website, and showcased on the website as products. 
+ 
+A detailed brief has been written, which can be found at the link below: 
+(link removed) 
+ 
+The completed ETA for this project would be mid next-month and expect to have quotes and timescales by 12:00 GMT on THU 17 FEB 2022. 
+ 
+Please kindly let me know if you have any further questions.""",https://www.upwork.com/jobs/Website-Scraping-Automation_~018e30eae5ba068106?source=rss
+tools, Web/App Scraper ,"""Web/app scraping - must be able to scrape data from all sources - mobile app, web, etc. - and convert into easy-to-use csv file for analysis. 
+ 
+Project timeline will probably start with 5-10 hours/week and expand based on skill level and output.""",https://www.upwork.com/jobs/Web-App-Scraper_~01ee2374268f715c29?source=rss
+tools, Need script to scrap data from APK ,"""Hello Guys, 
+ 
+We need help in scrapping images and contents from APK. 
+Contents have already been uploaded as a story, so every story will have many chapters 
+ 
+If you can just download the first two chapters, then we will give you the account login, So that you can make a script that will help us to download all the stories' content. 
+The contents mostly are images  
+So when the script will download the images, need to store them like  
+ 
+**Folder Name(will use story name) 
+**[  chapter-1_1.jpg , chapter-1_2.jpg     for chapter 1 
+**   chapter-2_2.jpg , chapter-2_2.jpg      for chapter 2 ] 
+ 
+ 
+We have attached the an APK file in zip format. 
+The language is in Chinese, so we have attached images to take you the story page 
+You can check and let us know""",https://www.upwork.com/jobs/Need-script-scrap-data-from-APK_~0120b68437d2d694d8?source=rss
+tools, Fix existing script to scrape linkedin jobs ,"""Hi everyone, 
+ 
+I am looking for someone to help me scrape some jobs data and append this data into google sheet. I have an existing script that can load data to google sheets so its not hard to just replicate. 
+ 
+The current script doesnt seem to be recognising changes to the linkedin website so i think thats why it doesnt work. 
+ 
+thanks""",https://www.upwork.com/jobs/Fix-existing-script-scrape-linkedin-jobs_~01264e2dd8757be598?source=rss
+data, Create Scrapy python scripts to fetch data (around 5k records) ,"""Hi Mr/Ms, 
+ 
+Please help me to write Scrapy script to fetch data from the following link (sample): 
+ 
+ 
+ 
+Required fields include: 
++ 3 fields in attached image (1.png) 
++ Google location (2.png) 
+ 
+Deliverable: 
++ Scrapy script 
++ 5,000 records (will send list of link later if you accept the job 
+ 
+Please contact me if you interested in the job 
+ 
+Thank you""",https://www.upwork.com/jobs/Create-Scrapy-python-scripts-fetch-data-around-records_~01203efd921c385732?source=rss
+tools, Pass cloudflare in scrapy python ASAP ,"""I have a scrapy code that scraped a website with 100% accuracy but the website updated the security system and needs to pass a cloudflare , and I’m getting error 403 and error 1020, I need to pass cloudflare in my scrapy spider or a guidance on how to do this .""",https://www.upwork.com/jobs/Pass-cloudflare-scrapy-python-ASAP_~0133f9d9fe08d72de5?source=rss
+tools," Web Crowler/Scrapper, Data mining, Data Extraction, Automated Script Project ","""IMPORTANT : We are not looking for data from this websites, the data is more or less optional. The most important part is the script itself, the data collection/extraction, the extraction method and speed. We are looking for script source code and not the data. 
+ 
+CRAWLER SUNGLASSES 
+ 
+- Crawl/Scrap 6 fashion e-Commerce websites for a specific Category (Sunglasses) 
+- The websites will be provided by us 
+- For each product, the following datapoint are required: 
+    - Source/website 
+    - Brand 
+    - Title 
+    - Description (where exists) 
+    - Sizes 
+    - Price  
+    - All photos 
+- Other datapoints are also welcome, but optional 
+- The data will be stored in a MongoDB provided by us 
+- The files will go storage provided by us 
+- We can discuss the setup of the database and storage for ease of use 
+- The source code should be written either in JS or PYTHON 
+- The script should be ready to run periodically on a cron job 
+ 
+Deliverables 
+- Database full with crawled products 
+- Crawled product files (photos) on storage 
+- Source code of the crawler 
+ 
+NOTE: We need the source code of the script, you will need to create a new script for automated processes, we are not looking for data only. You need to provide us with a script that will update the data base with new products that will appear on this websites, the script needs to be an automated process based on cron.""",https://www.upwork.com/jobs/Web-Crowler-Scrapper-Data-mining-Data-Extraction-Automated-Script-Project_~0159f7c4203d8f6b94?source=rss
+tools," Python Selenium (Python Scraping Experience)
+ ","""Hi , 
+We are Looking for an passionate Python Selenium Expert 
+Scraping experience is a Must 
+Machine Learning, Artificial Intelligence is a Big Plus 
+ 
+Before hiring you to the project, there will be a small unpaid test which you have to clear. 
+ 
+If you are interested then complete the following (unpaid)test: 
+ 
+Python Selenium Test 
+This is a quick 10-15 minutes test, hoping that you have all necessary tools ready on your computer. (Scraping experience is MANDATORY for this job) 
+ 
+Use Selenium with PYTHON in headless mode; Automate to scrap below details from (link removed). Create an excel file and update all below details into that file. 
+1) Fetch all links on home page, and store in Excel file 
+2) Open Each link and Fetch title of the topic and also fetch detailed description (See screenshot to locate Title & Description) 
+ 
+Once successful with test, please share screenshots/Excel file output for verification.  
+Once the output is discussed and verified successfully we will start assigning projects, in our long term projects. 
+""",https://www.upwork.com/jobs/Python-Selenium-Python-Scraping-Experience_~0101549e0cce8be7e9?source=rss
+tools, Look for a web developer crawl website and upload auto  ,"""I'm looking for a web developer who could crawl website and auto upload that contents my website. I tried working other guy in fiverr but he couldn't do that. just gave up. I guess this is not going to be super hard...  
+ 
+and I could show you other websites exactly what I want to do as examples.  
+ 
+let me know if you're interested in this one. thanks.""",https://www.upwork.com/jobs/Look-for-web-developer-crawl-website-and-upload-auto_~01f5810e00b5ee9e7b?source=rss
+tools, Build a scrapping tool in php ,"""Hello, I'm looking for a french dev, english version bellow,  
+ 
+Bonjour, 
+ 
+Je cherche quelqu'un avec des compétences en php pour m'aider à créer un outil de scrapping de site web. Il s'agit de 5 sites d'enchères en ligne. L'idée est de récupérer les infos sur chacune des ventes en cours : prix d'attribution, pseudo du vainqueur, nom de l'objet vendu, etc ... 
+ 
+Au niveau des contraintes techniques, il faut savoir se loguer à distance à un site en php, parser le dom et récupérer des données qui seront stockées en base de données. Il faut aussi connaitre les tâches cron en php car cela va servir à récupérer les infos à un horaire précis. 
+ 
+Si vous maitrisez le français c'est un gros plus 
+ 
+Je vous fournirais plus d'infos en message privé. 
+ 
+Merci d'avance, 
+Cordialement 
+ 
+-------------------------------------------------- 
+English version : 
+ 
+Hello, 
+ 
+I'm looking for someone with php skills to help me create a website scrapping tool. It is about 5 online auction sites. The idea is to retrieve information on each of the current sales: award price, winner's nickname, name of the item sold, etc. ... 
+ 
+In terms of technical constraints, you need to know how to log in to a php site remotely, parse the dom and retrieve data that will be stored in a database. You also need to know the cron tasks in php because it will be used to retrieve information at a specific time. 
+ 
+If you know french it's a big plus 
+ 
+I will provide you more information in private message. 
+ 
+Thanks in advance, 
+Sincerely""",https://www.upwork.com/jobs/Build-scrapping-tool-php_~018e1fe16445f813b8?source=rss
+tools, Scrape a backend API protected by datadome ,"""Scrape a backend API to return a json object. This API has datadome protection. I would like to scrape several links such as this every 30-40 seconds. I have my own proxies for testing/production""",https://www.upwork.com/jobs/Scrape-backend-API-protected-datadome_~01867ca065ad787cec?source=rss
+tools, Scripting / GUI Automation Tool ,"""Need an automation tool for LinkedIn integrating multiple 3,4 LI accounts simultaneously to do following automation tasks; 
+ 
+1. Extracting LinkedIn search results automatedly with their URL profile and emails, 
+2. Deleting/filtering bulk unwanted profiles from the Extracted database 
+3. Duplicate profiles searched through different searches needs to be filtered out as well. 
+4. Taking that Extracted database to Connection Invite campaign database 
+5. There should be start/pause/stop button for campaign 
+6. Some profiles have no connection button but only Message button for premium members, so need to connect with them through their email automatically 
+7. Connect via Email check box 
+8. Sending personalized bulk connection invites with intervals 
+9. Thanks message once they accept automatedly 
+10. No connection invite should be sent to my 1st Degree connections (if they got extracted through different search and added in the database 
+11. Auto Withdrawal of non-responsive invites after set time-period 3 weeks 
+12. Cancelled invitation profiles needs to go back to extracted profiles database to the bottom 
+13. Follow up bulk mail with my 1st degree or the selected ones from 1st degree 
+ 
+The tool should be in a format where I can use it as an app basic graphic interface and change desired values easily and need to be done in a way keeping in mind the algorithms of LinkedIn so the profile should not get flagged. Alongwith it, need following Data mining of LI profiles with their respective URL, First Name, Designation and Emails in Excel sheet from Pakistan region; 
+ 
+• Marketing Director 55K, Head of Marketing 53K, GM Marketing 5K, Chief Marketing officer 18K, , Marketing Manager 224K 
+• Brand Manager 47K 
+• Managing Director 51K, CEO 120K""",https://www.upwork.com/jobs/Scripting-GUI-Automation-Tool_~016245897cc4503e63?source=rss
+tools, Opensea Data Scraper ,"""We are creating a tool that will compare two different NFT projects on Opensea.  
+ 
+1. Find all current holders of an NFT project (List #1) 
+2. Then find a list of minters of another NFT project (List #2), 
+3. Then filter across the two lists by finding all wallets who are on list #1 but not list #2 
+4. Create Front End Website that shows the NFTs 
+5. You have to complete a backend MVP in 3 days to test it.  
+6. You have to be free to work on this right now.  
+ 
+Ideal if you have experience with Dune and Moralis/Etherscan/Opensea 
+ 
+ 
+ 
+""",https://www.upwork.com/jobs/Opensea-Data-Scraper_~01a886274e1d51cb0d?source=rss
+tools, Extracting climate data ,"""I am looking for someone who can use Python to extract climate data for a number of countries. The python script is available but needs to be modified. The raw climate data and shapefile will be provided.""",https://www.upwork.com/jobs/Extracting-climate-data_~01ef1b9b6460ce563c?source=rss
+tools, Build web crawler with Scrapy ,"""We're looking for a crawling/scrapy expert who can improve our existing discovery crawler that crawls entire websites (based on certain conditions) 
+ 
+Experience with Scrapy is a must, please do not apply unless you're a scrapy expert.""",https://www.upwork.com/jobs/Build-web-crawler-with-Scrapy_~01ff80f7a09ad6adeb?source=rss
+tools, Scrapping and Price update ,"""I need someone who make a prestashop plugin to: 
+ 
+- Scrap Price from WEBSITE B 
+- Rase the amount to 20% of price of WEBSITE A 
+ 
+Difficulty: 
+- Scrapping from SKU 
+- In WEBSITE B size unit are different so you have to put correlation in your script 
+- In WEBSITE B there's for example two product page (Kid and Adult) but in WEBSITE A there's only one page for those two (but SKU are not different)""",https://www.upwork.com/jobs/Scrapping-and-Price-update_~0139f0acfd766c2eee?source=rss
+tools, Building Daily Web Scraper ,"""We have a series of target websites that we need to monitor DAILY for updates. Some of these may require logins (which we can provide), other's are going to be public. 
+ 
+Each site is going to have multiple categories that we would need to scrape. 
+ 
+The output of the scrape is going to be dumping any NEW URLs into a Google Sheet that we can monitor daily for new entries. 
+ 
+Project is fairly straightforward. 
+ 
+I don't mind what language tool is built in, but preferred Python or Javascript since I can actually write in those languages if I need to modify down the road. 
+ 
+Should be easy and configurable for us to add new target URLs if we deem it necessary to scrape more competitors as time goes on. 
+ 
+Please start your reply with ""COOLIO"" so that I know you read this posting.""",https://www.upwork.com/jobs/Building-Daily-Web-Scraper_~0129e92d788a07b26b?source=rss
+tools, Opensea Webscraper with APi Integration ,"""I want to add API in my Scraper to access it locally.""",https://www.upwork.com/jobs/Opensea-Webscraper-with-APi-Integration_~01191dffb8f2b9c572?source=rss
+tools, Javascript Scraping Script ,"""We need to crawl this page... 
+ 
+to get each of the event URL's like this 
+ 
+ 
+Then we need to collect 
+-url 
+-date/range 
+-time 
+-location 
+-main image 
+-main text 
+ 
+You will return an array of objects, each object will represent each event crawled.  
+ 
+Needs to run in the browser (recent version of Chrome) no node.  
+Integrating this into a bigger project, so ideally a single file to include, not too many (or any) dependancies.""",https://www.upwork.com/jobs/Javascript-Scraping-Script_~01085067d9df878617?source=rss
+tools, Web scraping - Download Image protected by session (VBA/Selenium) ,"""Attn. VBA/Python Experts! We have a web scraping script in VBA that automates scraping in IE browser. We need to download the image in the website to local PC. However, when we try to download the image, we get error and the saved image is empty. We even tried to pass the session's cookie using HTTP Get method but its of no success.  
+ 
+Can you think of solution to solve this problem? 
+1) If you are good in VBA, help me in downloading the the image by passing cookies or any other mechanism that the website prevents from downloading the image 
+2) Or should we pass the image URL and cookies and anything else that is required to a Python script that can download the image? (Note: Already tried passing cookies to the python script but the result is same). 
+""",https://www.upwork.com/jobs/Web-scraping-Download-Image-protected-session-VBA-Selenium_~01ba97bf08046eb9fb?source=rss
+data, Web crawler and data extraction/cleaning ,"""Web crawler needed for multiple sites. 
+ 
+Looking for a bot/crawl expert who almost exclusively focuses on this type of work.  (i.e. should have many many relevant projects, not just a few). 
+ 
+An important part of this task will be data verification and data cleaning by you.  This means you will need to check to see that quality of data in fields is clean, as well as deciding if data should be split into new fields.""",https://www.upwork.com/jobs/Web-crawler-and-data-extraction-cleaning_~015a4f3bfd6c4597de?source=rss
+tools, Classified Listings Site Scraping Project ,"""We need to develop a scraping program to monitor a competitor classified listing site daily to record new listings that are being posted. 
+ 
+The first stage of this project would be to record the latest listings with discrete data for each listing into a spreadsheet format that we can discuss requirements on. The reporting that we would like is a new worksheet that has all the newly posted listing for a month. 
+ 
+The second phase of the project would be to organise more specific reporting based on the ads being posted to feed out to our business development team. 
+ 
+The Third phase would be to build a more robust storage of the data into a database system.""",https://www.upwork.com/jobs/Classified-Listings-Site-Scraping-Project_~01a05479134b8bb99e?source=rss
+tools, Data scraping using Python required ,"""Programming experience in Python 
+SQL, data exploration tools, or data modeling skills 
+Engineering background preferred  
+ 
+I am looking to get a data set (see below) done, and if my team likes it, we will consider you for future projects. 
+ 
+What we are doing: 
+ 
+We've partnered with a non-profit organization that provides free recruitment services for job seekers as well as helps employers hire the right candidates using intelligence and personal profile assessment. 
+ 
+We are developing an exciting recruitment platform for job seekers and employers to create a stress-free employment experience. The web app will be used by companies, recruiting agencies, and job seekers. An example would be a job seeker who wants to create a resume using AIML in minutes or an employer who wants to create a job description in minutes to be able to hire the right candidate. We add the candidate assessment layer on top of it to create a better experience for the users. 
+ 
+You will scrape data using Python skills: 
+1. Web scraping the required data 
+2. Provide ideas and intelligence on scraping new and updated data periodically 
+ 
+ 
+To submit a proposal for this project, please send a cover letter with an overview of your recent work in this space and why this particular project sounds interesting to you. I am virtually available at most times.""",https://www.upwork.com/jobs/Data-scraping-using-Python-required_~01784097f25cfed2dc?source=rss
+tools, Experienced Web Scraping Engineer – Scrapy ,"""At LSMF Tech Ventures, we provide tools that help small businesses to grow. We offer different products where web scraping plays an important role in all of them. 
+You will be part of a small company consisting of six software engineers and two co-founders. We offer you a steep learning curve, and the possibility to take over responsibilities from the beginning on. 
+ 
+Tasks: 
+-	As our scraping expert you will be responsible for all web scraping products 
+-	Develop custom spiders to extract different kind of data 
+ 
+Requirements: 
+-	Experience in web scraping (Scrapy) and Python 
+-	You have successfully used Crawlab as your deployment and scheduling tool 
+ 
+We are looking for a long-term contract and would like to get to know you better in a virtual appointment. 
+ 
+We are looking forward to your application!""",https://www.upwork.com/jobs/Experienced-Web-Scraping-Engineer-Scrapy_~01d300f58cf5f30774?source=rss
+tools, Software Engineer (Web Scraping) ,"""We are looking for an experienced Python developer with practical experience writing, deploying, and managing web scrapers. The successful candidate will be responsible for both design, maintenance, and ensuring successful onboarding.  
+ 
+We are a small, remote team of technically savvy and friendly developers with a focus on quality and consistent improvement. We develop regulatory technology services for businesses such as banks and cybersecurity firms, and our clients include some household names. 
+ 
+Our ordinary data sources are HTML, XML, and RSS feeds in the public domain: legislation, regulation, news, and enforcement information. We currently have ~150 spiders running in production and are continuously adding more.  
+ 
+The successful candidate will be an efficient, driven worker who is able to follow well-defined processes for preparing documents for enrichment and pushing to the S3 Amazon platform, where it will be picked and processed up by our backend. They should also be an independent thinker who is able to speak up and start discussions where they believe the process can be improved.  
+ 
+We believe in maximum automation and excellent software design. We believe in merit and encourage all candidates who fit the requirements to apply. Developers who demonstrate strong abilities can over time expect plenty of opportunity to learn about new areas of software development outside of their core specialisation and are encouraged to spend time engaging in research and development. 
+ 
+ 
+Requirements:  
+•	Solid understanding of Python as a language 
+•	Working knowledge of relational databases and SQL 
+•	Driven to write consistently clean, DRY, and maintainable code.  
+•	Familiarity with scraping and parsing frameworks like Scrapy and BeautifulSoup, along with JSON parsing and validation via schemas 
+•	Experience writing involved test cases to prove that data extraction works as specified 
+•	Experience working with at least one cloud platform, preferably AWS. 
+•	A team player in a fast-paced work environment 
+ 
+ 
+Nice to have:  
+•	Experience with AWS (S3 buckets and queues) 
+•	Experience of deploying to Zyte (formerly ScrapingHub) 
+•	An exposure to and understanding of REST APIs""",https://www.upwork.com/jobs/Software-Engineer-Web-Scraping_~01f8fa531b62bf29de?source=rss
+data, Extract purchase details from email accounts and create a digital closet ,"""Objective											 
+ On user consent to access their mailbox, extract all past purchases by categories, starting with Fashion only. Output: image dashboard with past purchase category e.g. Clothing tab: includes  
+ 
+Source 
+Product description	 
+Size	 
+Brand	Colour	 
+Description	 
+Price	 
+Date sold  
+Categories (skirts, pants, tops...)											 
+ 
+				 
+ 
+ 
+ 
+Dependencies											 
+Mail account access per provider (apple, gmail, outlook….); leverage existing APIs									 
+Image rights	 
+Multiple stores with different email templates- 100 
+payment integration: paypal, stripe, worldpay 							 
+											 
+										 
+					 
+											 
+											 
+											 
+KPI for success											 
+Ability to recognise brands (use retail db) in mailbox											 
+Ability to locate correct email e.g. delivery vs order vs return											 
+Ability to represent data across brands in a standardised way- data cleaning and enrichment											 
+Ability to segment item by user categories Adult/Gender - different to buyer e.g. mum buying clothing for baby											 
+Ability to display output in a  very slick manner (e.g. Amazon past order)								 
+Ability to get 80% of orders online	 
+										 
+											 
+											 
+									 
+											 
+Approach 											 
+ML											 
+Crawlers?											 
+Else?											 
+											 
+											 
+Output											 
+Slick - ecommerce like dashboard for consumer 	with images and product details 
+									 
+									 
+											 
+											 
+											 
+ 
+											""",https://www.upwork.com/jobs/Extract-purchase-details-from-email-accounts-and-create_~019c97c15199557a2f?source=rss
+tools, Excel Automation Dashboard  ,"""I want to create a automatic Dashboard in excel for our Clinic 
+1)Sales report 
+2)Operation Report  
+3)Inventory""",https://www.upwork.com/jobs/Excel-Automation-Dashboard_~01e584cf8279bcbd56?source=rss
+data, Web scraper consultant ,"""A very straightforward task, only apply if you know how to scrape this website:   using sitemap: 
+ 
+ 
+I need coaching, someone that will guide me on how to download .xml.gz files, extract them and scrape the links. 
+ 
+This needs to be done today. 
+ 
+apply with ""sitemap"" in the beginning so i will know you have read the job description.""",https://www.upwork.com/jobs/Web-scraper-consultant_~01e7cd5db9b3be06e6?source=rss
+tools, need someone who could bypass Cloudflare bot protection python-requests no selenium ,"""need to bypass cloudflare page in requests python who could bypass only submit proposal if you can or you have done in past""",https://www.upwork.com/jobs/need-someone-who-could-bypass-Cloudflare-bot-protection-python-requests-selenium_~0145ec9b8d62c3fc94?source=rss
+data, Daily Web Scraping Download to XML from Multiple Sites ,"""Hello! 
+ 
+I am looking for a developer who can scrape specific data from a number of websites for me and download them into a database in the format that will integrate with my Google sheets database.  
+ 
+The first milestone of the project will be developing program(s) to scrape the data from each site. 
+ 
+Once we have the programs prepared, I would like you to run the program(s) once every business day at 8:30AM EST (GMT-5) and email/send me the output so I can put it into my database.  
+ 
+Thank you!""",https://www.upwork.com/jobs/Daily-Web-Scraping-Download-XML-from-Multiple-Sites_~011d05bd3fc01b5031?source=rss
+tools, Puppeteer scraper with cronjob to keep data fresh in MySQL ,"""I'm looking for someone who would scrape 10M companies from a site, and maintain records in a database up-to-date by running a cronjob that will keep this data fresh.""",https://www.upwork.com/jobs/Puppeteer-scraper-with-cronjob-keep-data-fresh-MySQL_~016a869a40e111d039?source=rss
+tools, Scrape data from website - Python ,"""I'm looking for a freelancer who is expert in Python and selenium. I need You to login to (link removed) and scrape some information (to automate few tasks). Information will be provided. Other methods are also acceptable, but need to be implemented in Python (code will run form Python, otherwise I'll need docker image for running). I'm also developer, so I will review code and test it. I need this ASAP. Best would be to send me video or share screen so I can see it is working. Don't waste Your and mine time, try it first. I will hire first freelancer who do it successful, no matter when You applied. Price is not fixed, but be reasonable when You apply.""",https://www.upwork.com/jobs/Scrape-data-from-website-Python_~013009e241a3010657?source=rss
+data, Need help scrapping data from one website ,"""I am looking for an expert who can scrape data from one site to start with and provide it in a CSV format to start with. Once the first requirement is done, need help on an ongoing basis to scrape sites and load them to the db directly for applications to pull via APIs.""",https://www.upwork.com/jobs/Need-help-scrapping-data-from-one-website_~01bb0d2b47f0075cd4?source=rss
+tools, NFT Pricing intelligence ,"""NFT Pricing intelligence tool 
+ 
+The goal of our project is to understand the uniqueness of an NFT collection based on its specific attributes and sales history. Visualise data to determine under or overvalued listings. 
+ 
+The initial project will comprise 3 components: scrape, analyse, visualise: 
+1. Scrape NFT site for NFT attributes data (iframe, powerbi) 
+   Scrape NFT marketplace for historical sales & current listing data 
+2. Join NFT attribute data with sales/listing data based on NFT ID.  
+3. Plot current NFT listings (attribute vs list price) against historical sales to identify current undervalued listings. (The simplest method to achieve this locally is still to be determined  and am open to suggestions) 
+ 
+Deliver NFT Pricing intelligence tool so that I can run locally to achieve above objectives. Can discuss further. 
+ 
+Required Experience: 
+Selenium / Scrapy 
+Python 
+Data analysis 
+ 
+To be a best fit for this project you need: 
+Ability to communicate clearly 
+Write “I am a human” at the top of your proposal 
+Attention to details 
+ 
+The project is fluid and will evolve further. I'm not the expert and will rely on your expertise and advice for how to best achieve the results. So keenness to propose ideas to improve project is important. 
+ 
+If you are interested in this project, please reply with your prior experience.""",https://www.upwork.com/jobs/NFT-Pricing-intelligence_~01a415f38155bc4120?source=rss
+tools, Web Scraping tool ,"""looking for a Web Scraping developer to develop data extraction tool for the career page with job postings. input will be an URL and output will be list of all the job description.  
+ 
+You need to provide a Tool to Rangam. This tool should accept URL as an input and provide the scrapped jobs as an output in CSV / Excel or XML format. 
+""",https://www.upwork.com/jobs/Web-Scraping-tool_~01f97c31d5288ff4ae?source=rss
+tools, Python Web Scraping with BeautifulSoup ,"""I am looking to scrape this website:  . I want to type a combination of letters into a string and get the availability of a license plate. However, the link which is used to get the availability (https://vplates.com.au/vplatesapi/checkcombo?vehicleType=car&combination=abc) is blocked and giving Response 503 errors. I need a scraper which can get the cookies from the first page, and use it to get the availability response from the next page. 
+ 
+I want a script which can check a string and export the availability. Preferably, it would not use selenium, and only requests/BeautifulSoup since these implement much easier into a cloud system. 
+ 
+I have attached a previous script which worked, but it is no longer working.""",https://www.upwork.com/jobs/Python-Web-Scraping-with-BeautifulSoup_~0103f99038ef947f33?source=rss
+tools, Scrape Data & Tweet On Accounts ,"""I'm looking for someone to help develop an application for me that can scrape Opensea data or pull  this data via the API.  
+ 
+Example: I like how this bot always posts and shares upcoming transactions from the latest projects.  
+ 
+ 
+ 
+I'm looking for an application that can:  
+ 
+1. Scrape this data once an hour on links such as:  
+ 
+ 
+ 
+Having the ability to add different links would be great. I'd like to scrape different collections.  
+ 
+2. Automatically tweet to a designated twitter account.  
+ 
+OR 
+ 
+Output via RSS feed. 
+1. Name 
+2. Price 
+3. Date 
+ 
+I have another bot that can read in RSS and tweet too. This is if you do not know how to get tweets pushed to an authenticated twitter account.  
+ 
+Let me know if you have any questions. This can be a web app or local app. Let me know your thoughts! Willing to pay by the project.""",https://www.upwork.com/jobs/Scrape-Data-amp-Tweet-Accounts_~0109f5cf8ad4c8c506?source=rss
+data, Capture data from website ,"""I have an angular site I would like to capture data from.""",https://www.upwork.com/jobs/Capture-data-from-website_~013ecae576326e766b?source=rss
+data, Data Extraction Project ,"""Data Extraction Project 
+Atlas Digital Partners is looking to hire a data extraction team or individual. The job is to extract data from professional services web sites and put that data in a format that can be ingested into our data lake. It is likely that we will have an evergreen need for this role.  
+The initial project will involve 250 websites. It can be accomplished by populating a CSV file or by using a scraping tool - Zyte in this case. 
+ 
+Your work will be coordinated by our dedicated tech team..""",https://www.upwork.com/jobs/Data-Extraction-Project_~015d87e3e11d91dd9b?source=rss
+data," Copying content from Kajabi product website pages (Web scraping)
+ ","""Simple copying of all content within each page including titles, links, images. 
+around 100 pages total 
+Keep categories and organization/table of contents 
+ Estimate around 1-2 hour task at most 
+Reason for project: 
+Kajabi does not have a feature to export all content so it must be manually saved individually before transferring to new website and rebuilding from scratch.""",https://www.upwork.com/jobs/Copying-content-from-Kajabi-product-website-pages-Web-scraping_~01463fb6be5f4e7673?source=rss
+tools, Html programmer - data scraping from a website list ,"""I need a software that bypass the normal USER INTERFACE of a website i am using. 
+No login data needed. 
+ 
+1 I need that this software opens a specific website that has a list of products 
+2  for each product, the software clicks on that product's icon and navigate to the product's specific page 
+4  copy all contac info of that product pages (email, tel, address etccc) 
+ 
+Result:-put all product contact info on a output list""",https://www.upwork.com/jobs/Html-programmer-data-scraping-from-website-list_~01af6323fdde34de42?source=rss
+tools, Build data extraction algorithm ,"""I would like to build a data extraction tool that will take 10 different file formats (Email, CIOMS, AER, MedWatch file, etc) and provide the content of those Input files in .xls files (key Value pair). 
+ 
+The tool should have a UI to input the files and also correct the output. Wherever we correct the output, the algorithm should learn by itself. 
+""",https://www.upwork.com/jobs/Build-data-extraction-algorithm_~0132fb51db1a0dd575?source=rss
+data, Web Scrapping Request ,"""I am looking for a web scraping service in order to obtain specific data but I am honestly not sure how to structure it. The information I need is attached. 
+ 
+Here are the sources:  
+ 
+Website:  
+Website:  
+Investor Relations:  
+SEC listings under Investor Relations""",https://www.upwork.com/jobs/Web-Scrapping-Request_~018d821f90b556ea16?source=rss
+tools, Automated Web Scraper Bot ,"""Need a Bot to scrape websites for seleted data like headers,text paragraphs and images etc. The data should be transfered to a excel or word file once the web pages are scrapped.""",https://www.upwork.com/jobs/Automated-Web-Scraper-Bot_~013b7d32e2a046238e?source=rss

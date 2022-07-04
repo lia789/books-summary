@@ -1,0 +1,1345 @@
+jobs_type,title,jobs_text,URLs
+tools, Job Inquiry - TikTok Scraper ,"""Hello, 
+ 
+Can you make me something that can scrape through TikTok hashtags and look for videos that meet a certain criteria? (ex. like/comment ratio, certain keywords) 
+ 
+If possible, I would also like you to make occasional updates when things aren't working. 
+ 
+I look forward to working with you, 
+Thanks""",https://www.upwork.com/jobs/~01da0f749150d8ac64
+leads, Developer needed to create a script to find emails from Tiktok and Instagram ,"""A script need to be created: 
+- Find Tiktok influencers with a specific hashtag using a simple script. Use Appium to load their instagram from Tiktok, and scrape their email. Put their info (name, followers, tiktok a/c, insta a/c, and Email and some other info) into a csv file for export. 
+- Push this into a VM that I give you the information for. 
+ 
+You can check this article for information: (link removed) 
+ 
+If done properly, this would lead to many more projects. 
+ 
+This task should be done in 2-3 days.""",https://www.upwork.com/jobs/Developer-needed-create-script-find-emails-from-Tiktok-and-Instagram_~013dce9bfe1b09ae0b?source=rss
+tools, Data Scraper for Instagram Using Proxy Server ,"""1. Create a script to scrap all the details of the influencer based on their user handle. These data sets are required  User name, bio, display picture, followers, following, total posts count & first 20 media, reach, video views, posts (likes and comments of each post of first 20 posts), profile url, email and phone number. 
+ 
+2. Create a script to scrap data of their followers and following that has more than 10k followers. 
+ 
+3. Host this script on a server which runs on a daily/weekly/monthly basis based on our requirement. 
+ 
+4. This should be based on a proxy server. So, our IP cannot be blocked by Instagram. 
+ 
+5. This should be in an API format so that it can communicate with different servers. And if our IP gets blocked then it should notify us via email would be helpful.  
+ 
+6. Proper commenting in code and following the industry best practice for coding. Code should be in modular format so that we can scale it up. 
+ 
+7. Proper API authentication is required. So, only our server can access the data. 
+ 
+8. Demo is in 3 days once the project gets started.""",https://www.upwork.com/jobs/Data-Scraper-for-Instagram-Using-Proxy-Server_~011834de93806c2fca/
+tools, Web Scapping Expert for extracting large scale data from social network ,"""Hi, 
+ 
+We have a script that extract data from social medias. We are looking for a talented python developer to make it run on scale and store the output.""",https://www.upwork.com/jobs/Web-Scapping-Expert-for-extracting-large-scale-data-from-social-network_~011d28edb319939c56/
+leads, Web Scraping of Facebook Group For Contacts ,"""We would like you to web scrape few open Facebook groups as well as Google Business lists, for individual and business contacts related to our field of operation. Expecting this to be a short 1 week project. If this goes well, there is a bigger project for another associated venture.""",https://www.upwork.com/jobs/Web-Scraping-Facebook-Group-For-Contacts_~016538cff0a2376703?source=rss
+leads, Data Extraction - From our LinkedIn Event  ,"""Extract data for own LinkedIn Connections and get Company + Mobile + Email  
+Extract LinkedIn Event Attendees contact details for our own Event Future Foods on LinkedIn - Important additional requirements - Name + Company + Telephone + Email 
+Deliver 2 x Excel spreadsheets with data""",https://www.upwork.com/jobs/Data-Extraction-from-LinkedIn-Account_~01b8bc0ba0b924cf3a?source=rss
+data, Facebook Scraper Needed ,"""I need someone who can scrape Facebook member ID's from Facebook groups, convert those ID's to a regular FB profile URL and then do a verification process on each profile to see if they live in the United States or not. 
+ 
+Watch this video to see an example: """,https://www.upwork.com/jobs/Facebook-Scraper-Needed_~0161fd359163a15e56?source=rss
+data, Instagram Scraping for Online Art Gallery ,"""Hello Upwork!  
+ 
+I am looking to have someone scrape instagram for: 
+ 
+80K artists accounts based on a specific # 
+Their location 
+Their Emails 
+Phone numbers (if available) 
+ 
+The scraping would be put on an Excel File (xlsl) 
+Categorized by Company Name, Email, Phone Number and Instagram Handle 
+ 
+Thanks! 
+""",https://www.upwork.com/jobs/Instagram-Scraping-for-Online-Art-Gallery_~0127f67e90da06ccef?source=rss
+tools, TikTok Scraper ,"""I need an expert developer to create a TikTok scraper that can scrape information from the mobile app - not desktop version. 
+ 
+I will input some TikTok account username and I want the below scraped from TikTok app: 
+ 
+1. All 'Suggested Accounts' of X input account 
+2. All 'Followings' of X input account 
+3. Instagram username of all accounts scraped in 1 + 2 
+ 
+(Please see pictures) 
+ 
+ 
+ 
+ 
+Only apply for the project if you have experience scraping social media and/or TikTok platform""",https://www.upwork.com/jobs/TikTok-Scraper_~012385c9e72289e782?source=rss
+data, Somone to data scrape Crypto related Instagram accounts  ,"""Looking for someone to data scrape 10 specific intstagram accounts for emails in the crypto space must be high quality emails""",https://www.upwork.com/jobs/Somone-data-scrape-Crypto-related-Instagram-accounts_~0141bdf15826111562?source=rss
+tools, TikTok User Scrape ,"""Looking for someone to scrape all the users who have created a TikTok video to the songs on this list: 
+ 
+ 
+ 
+User profiles must have posted at least 30 TikTok videos each and I'm looking for at least 75,000 users from the UK Rap songs section and 75,000 users from the Afrobeat songs section. I can provide more songs if needed. 
+ 
+In your application please provide a price quote for the complete set of data.""",https://www.upwork.com/jobs/TikTok-User-Scrape_~01694a03969c6d47f2?source=rss
+data, Facebook group scrape and deliver spreadsheet ,"""Hey, we are looking for someone who can scrape a Facebook group and deliver data in a formatted spreadsheet. The group has 30k members 
+ 
+We are looking for the following fields 
+First name, last name, email, phone number and location. 
+ 
+Please send a message confirming experience and a budget and we can then create a new contract so you can get started asap. 
+ 
+Thanks, 
+Jono""",https://www.upwork.com/jobs/Facebook-group-scrape-and-deliver-spreadsheet_~01c20575a422f4957a?source=rss
+data, Facebook group scrape and deliver spreadsheet ,"""Hey, we are looking for someone who can scrape a Facebook group and deliver data in a formatted spreadsheet. The group has 30k members 
+ 
+We are looking for the following fields 
+First name, last name, email, phone number and location. 
+ 
+Please send a message confirming experience and a budget and we can then create a new contract so you can get started asap. 
+ 
+Thanks, 
+Jono""",https://www.upwork.com/jobs/Facebook-group-scrape-and-deliver-spreadsheet_~01c20575a422f4957a?source=rss
+data," Tik Tok Scraping & List Building
+ ","""We are looking to hire a diligent data scraper who has knowledge of data scraping on the Tik Tok platform. We will then use this data to reach out to influencers to help promote our ecom company. 
+ 
+Applying candidate needs to be very experienced in data scraping, Google sheets and technical knowledge of how Tik Tok works. 
+ 
+Applicant requirements: 
+ 
+-Someone who has experience scraping from Tik Tok 
+-Someone who is skilled at Data Entry and Google Sheets 
+-Someone who has a 5 star rating. 
+-Someone who takes pride in their work and makes a polished looking final product. 
+-Someone who has a high level of English. 
+ 
+Application process: 
+ 
+Please reply with your experience in this line of work. If your work is of an exceptionally high standard I will reply and give you further details. 
+ 
+*IMPORTANT* - any response should start with the code word ‘Tik Tok’. This is a test to see if you have fully read and understood the job posting description. 
+ 
+Looking forward to hearing from you! 
+ 
+Kind regards 
+ 
+Gary""",https://www.upwork.com/jobs/Tik-Tok-Scraping-amp-List-Building_~0106172857b32b085e?source=rss
+tools, Developer needed for data extraction from Tiktok and Instagram using Appium ,"""- Find Tiktok influencers with a specific hashtag using a script. Use Appium to load their instagram from Tiktok, and scrape their email. Put their info (name, followers, tiktok a/c, insta a/c, and Email and some other info) into a csv file for export. 
+- Push this into a VM on Amazon. 
+ 
+You might need to create a virtual emulator for Android 
+ 
+If done properly, this would lead to many more projects. 
+ 
+This task should be done in 2-3 days.""",https://www.upwork.com/jobs/Developer-needed-for-data-extraction-from-Tiktok-and-Instagram-using-Appium_~01a8623c3cacab7b3e?source=rss
+data, Instagram follower scraping job ,"""Looking for someone to scrape partial followers lists on specific instagram accounts.  
+ 
+There is about 5 accounts that we need the most recent only, followers list. Just the username is all we require for the followers. The accounts to be scraped from are private, and there will be approx 6000 usernames we are looking to collect. 
+ 
+The accounts will take a day or two to be accepted on (as they are private), but scraping can then commence. 
+ 
+Really easy job from someone that does data extraction. 
+ 
+Need to be delivered on a csv, usernames will be spot checked for accuracy across the accounts to verify the data.""",https://www.upwork.com/jobs/Instagram-follower-scraping-job_~015baa1b6111aae679?source=rss
+tools, Facebook Marketplace crawl & scrap ,"""The project is to build a robot to crawl & scrap Facebook marketplace on the daily in order to extract all Facebook market place listing in a specific country. 
+The robot can be built in the tech stack of your recommendation, make you proposition. 
+ 
+Demo deliverable: 
+- the output formatted to be imported easily (csv) 
+ 
+Final Deliverable: 
+- the crawl/scrap robot script to execute it on our side 
+ 
+The best priced offer will get the project!""",https://www.upwork.com/jobs/Facebook-Marketplace-crawl-amp-scrap_~01bb410a4029ec25cb?source=rss
+tools, Document / reverse engineer my scraping app + fix minor issues ,"""We have a LinkedIn Automation app that auto visits profiles, captures and scrapes data and adds to our users dashboard. The application runs on Google Cloud + MySQL + PHP + js. The application was abandoned and has very little documentation on how to run, manage and deploy.  
+ 
+I am looking for someone who can review the codebase, document and resolve some minor issues. You must be experienced enough to look through the code, document how it's all put together (for future developers) and fix the current issue.  
+ 
+The current issue is as a result of a recent UI change within LinkedIn. The app tries to run, but it does not talk back to our application. Please note that this app also uses a Desktop application that runs on both Mac/Windows in order to run a headless browser which then communicates with a Dashboard.  
+ 
+Also, if you are experienced enough to figure this out, you may be hired to manage and maintain this project long-term. This is an immediate need and I have no time for people to ""learn"". Experienced developers only.""",https://www.upwork.com/jobs/Document-reverse-engineer-scraping-app-fix-minor-issues_~01a4eaf293136c2228?source=rss
+tools, Youtube search by criteria ,"""I need an application, that given a keyword and criteria (number of subscribers, year), it searches on youtube and returns in a list variable the channels names for further use. 
+ 
+Example: 
+input keyword ""abc"" 
+input number subscriber ""123"" 
+input year ""2020"" 
+ 
+the app will then search youtube for all videos from 2020, get the channels name with at least 123 subscribers and returns them all into a variable list.""",https://www.upwork.com/jobs/Youtube-search-criteria_~01e955cef6d7204310?source=rss
+tools, Python script  ,"""Hi Freelancer  
+ 
+i need a python script to download all videos on youtube by Url channel.  
+and check a very day if that any new video in this channels , and download it  
+ 
+ 
+Best Regards""",https://www.upwork.com/jobs/Python-script_~016a0846b05d4bc931?source=rss
+tools, Create Python Scraping Script ,"""Hello I am looking for someone to help create a script to scrape profile links from the facebook ads library using multiple different keywords. Need someone to do this every two weeks. We need to have the output file as follows: Page Name - Keyword Used - Link To FB Page - Link to profile ads. All of this data can be pulled from one page.  
+ 
+Example below:  
+ 
+(link removed)  
+ 
+We must be able to scroll down the page in the script because most of the data is limited until you scroll down further. Let me know if you can do this.""",https://www.upwork.com/jobs/Create-Python-Scraping-Script_~01381da764806d7d18?source=rss
+tools, Webscraping Development - user posts  ,"""Scrape a LinkedIn posts from a user 
+Input:  
+1 - LinkedIn user name or user URL 
+2 - date from and date to  
+Output: user name, post text, number of likes, number of comments (not interested in any personal / other data) 
+Save data to CSV file 
+ 
+ 
+Deliverable: 
+- Working code and set up script which extracts the data as described above  
+- Extracted data for 5 users as described above in a spreadsheet  
+- Readme explaining how to run the code and how to schedule running it using cron job (once a day)  
+ 
+I'll provide the url of the example profiles. I am testing an idea so you will be interacting with me directly. I will be available to help with any questions.  
+ 
+Required past experience is websrcaping. When applying please: 
+- State your experience with LinkedIn and  
+- Provide link to a past project/GitHub repo to help speed up hiring.  
+""",https://www.upwork.com/jobs/Webscraping-Development-user-posts_~012e156a18e0bd70f7?source=rss
+tools, Profile Scraper in Python from Social Media  ,"""I need a large scale / fast performance scraper in python.  
+It should scrape profile picture, and basic info and save it into MySQL database: 
+Scrape_Date, Domain_Name, URL, Picture_File_Name, Profile_Name, Username. 
+Before scraping it should check if we already scraped the page in the last 120 days. If we did, it should not scrape it again. 
+You can start with some code from GitHub and customize it. You should find a proper proxy solution or captcha breaker if needed. It should be able to run on multiple machines and continually scrape all users. It should be stable and run without interruptions indefinitely. 
+ 
+Initially I need this for Instagram. I will need solutions for other social media too, but let's start with one platform. If you have already similar code for other social networks, let me know, we can reuse your existing code.""",https://www.upwork.com/jobs/Profile-Scraper-Python-from-Social-Media_~01fcdf4ed1b7bd94ff?source=rss
+tools, Developer needed to create a script to find emails from Tiktok and Instagram ,"""A script need to be created: 
+- Find Tiktok influencers with a specific hashtag using a simple script. Use Appium to load their instagram from Tiktok, and scrape their email. Put their info (name, followers, tiktok a/c, insta a/c, and Email and some other info) into a csv file for export. 
+- Push this into a VM that I give you the information for. 
+ 
+You can check this article for information: (link removed) 
+ 
+If done properly, this would lead to many more projects. 
+ 
+This task should be done in 2-3 days.""",https://www.upwork.com/jobs/Developer-needed-create-script-find-emails-from-Tiktok-and-Instagram_~013dce9bfe1b09ae0b?source=rss
+tools, URGENT Need Twitter API Keys for Tweepy ,"""Hi there, I need urgent following Twitter API keys. 
+API key: """" 
+API key secret: """" 
+Access token: """" 
+Access token secret: """" 
+ 
+I will use tokens for testing purposes. 
+Best regards.""",https://www.upwork.com/jobs/URGENT-Need-Twitter-API-Keys-for-Tweepy_~0161252b62e0f95b50?source=rss
+tools, Youtube Video URL Grabber Script ,"""We are looking for someone who can create a script that will grab youtube videos based upon our criteria. We want to type in a keyword, filter the videos by the youtube 'filters' that are already available, and then generate the top 10,25, 50, and 100 youtube URLs for that filter. 
+ 
+This should be web-based and easy to create. If you are capable of this or have done something similar in the past please send us a message with your working script""",https://www.upwork.com/jobs/Youtube-Video-URL-Grabber-Script_~01172569050e87d5f2?source=rss
+tools, Twitter api tweet Bot ,"""Twitter bot that tweets every time it detects a sell trough an api. 
+ 
+(link removed) 
+ 
+There will be many images stored locally, the bot needs to tweet information about the sold thing, and tweet a picture representing id of the sold item. ((so if sold item id is 1000 bot attaches a image with id 1000)) 
+""",https://www.upwork.com/jobs/Twitter-api-tweet-Bot_~011c9d3c100a275a93?source=rss
+tools, Need script/ bot built for tracking Tweets for keywords ,"""I am looking for a developer that can create a bot that will scan specific twitter accounts  and track key words tweeted by that profile.  
+ 
+The aim is to automate a human system of monitoring ‘x’ accounts for tweets manually to create a system that can imitate this and any time a tweet is sent with a specified word, an alert is sent to telegram or whatsapp.  
+ 
+An example would be a twitter page such as Elon Musk, key words may be ‘Doge’, ‘Inu’.""",https://www.upwork.com/jobs/Need-script-bot-built-for-tracking-Tweets-for-keywords_~01f4d5179d4387bff3?source=rss
+tools, Instagram link scraper ,"""I need a scraper that finds Instagram accounts of websites by visiting the sites and scrapping the Instagram links (Any social links). 
+ 
+Here is an explanation video please mention that  if you apply: (link removed)""",https://www.upwork.com/jobs/Instagram-link-scraper_~01fad1d59ae96525a2?source=rss
+tools, Facebook API: Data Capture and integration with Power Bi ,"""We require assistance with Facebook's API and Power BI.  
+ 
+We would like to setup an integration that captures Facebook's page/group insights, stores the data and passes it through to a Power BI dashboard. We are open to recommendations on this setup.  
+ 
+I am happy to review the fee once we've agreed on a direction and you've provided me with an estimate for the hours.  
+ 
+To assist us in the ongoing management of this feed and once you've set up the integration, I would like to organise a video call and for you to walk me through how it was set up.""",https://www.upwork.com/jobs/Facebook-API-Data-Capture-and-integration-with-Power_~014f322e25aa4cf9f6?source=rss
+data, Identify and Extract Linkedin Records ,"""
+I am a research professor at Northeastern University in charge of running several programs at the school. 
+ 
+For one of these initiatives, it is important that I disambiguate a series of names that I have, as to whether they are current students at the school or not.  
+ 
+The approach I propose is as follows: 
+- Take the names in my list (roughly 100k) 
+- Capture Linkedin profiles 
+- Generate an xl or csv file where current students are flagged as student=1 
+ 
+(If you have an alternative approach to identifying the subset of current students, that's fine too.)  
+ 
+Project budget is flexible and depends on quality,  assurance, and speed of completion.  
+ 
+Thank you for your interest. 
+ 
+(I have not been on the platform for a long while and use to be a regular e-lance employer)""",https://www.upwork.com/jobs/Identify-and-Extract-Linkedin-Records_~012cc81e4fe5e71c8b?source=rss
+tools, Scrape Pinterest for Images ,"""Looking for someone to write me a script/scraper that will download images from Pinterest with the given search term. This script must download the first 100 images from Pinterest and must be able to be run on a Mac. 
+ 
+The deliverable for this is a working scraper (language of your choice) that runs from a Mac terminal.""",https://www.upwork.com/jobs/Scrape-Pinterest-for-Images_~0153321d4d30def40c?source=rss
+tools, Linkedin Data Scraping ,"""I have a list of names that I need help scraping data from Linkedin.  
+ 
+Follow the below steps:  
+1. ) Search the person's name on LinkedIn 
+2. ) Find their account (They need to have gone to Virginia Tech for education, so please filter for this)  
+3. ) Fill our their current company and current location  
+4. ) Scrape their email with their current company using snovio or something similar 
+ 
+If you do this successfully and in a timely manner you will receive a 20% tip minimum.""",https://www.upwork.com/jobs/Linkedin-Data-Scraping_~012379e69bfdc4159c?source=rss
+data, LinkedIn Data Collection ,"""Hello, 
+I have some profile links and need their complete data into Excel.  
+ 
+Our URL is -  (link removed) 
+ 
+Do you have previous experience. 
+ 
+Please apply if you have LinkedIn profile 
+Thanks""",https://www.upwork.com/jobs/LinkedIn-Data-Collection_~01a760c0b49681919d?source=rss
+tools, Need a Linkedin Data Scraper  ,"""Follow the steps below  
+1 - Logon to Linkedin  
+2 - Look at the spreadsheet 
+3 - Search the person by First Name, Last Name and Company - find that person in linkedin  
+4 - Copy and paste the URL to their LInkedin page into the spreadsheet  
+5 - Copy and paste the title into the spreadsheet  
+6 - Also send a connection request with a message I will give you  
+7 - Then move on to the next record""",https://www.upwork.com/jobs/Need-Linkedin-Data-Scraper_~012dafb26c5840474d?source=rss
+tools, Linkedin expert to create monitoring alerts ,"""I need help to set up monitoring alerts on a number of companies on Linkedin. What I want to get is a weekly digest of the people who have joined or left the companies I am monitoring. I am looking to monitor about 15 companies. 
+ 
+The reason for this is that I want to keep an eye on competitor companies and see who they are hiring/who is leaving them.""",https://www.upwork.com/jobs/Linkedin-expert-create-monitoring-alerts_~01dc4b43f100362d9a?source=rss
+tools, Twitter account/tweet scraper bot ,"""Hello, 
+ 
+I am looking for two separate Twitter bots. Below is the first bot. 
+ 
+Ability to scrape and download tweets from an account with certain parameters. For example, scrape all tweets from @Elonmusk with number of favorites 10,000-25,000. 
+ 
+Below is the second bot. 
+ 
+Scrape a list of accounts that have followed a certain account in the past 24 hours. If possible to add parameters to those accounts such as accounts with 5,000-10,000 followers that have followed @elonmusk in the last 24 hours. 
+ 
+Prefer someone who has prior examples of similar jobs completed.""",https://www.upwork.com/jobs/Twitter-account-tweet-scraper-bot_~01ba316ae78466dafb?source=rss
+tools, Twitter Bot  ,"""I have a list of twitter accounts and I want to track new accounts they follow. 
+ 
+I need a bot that holds a list of accounts I want to monitor (With the ability to add new accounts) 
+ 
+When the monitored accounts follow another account on twitter I want that twitter account name send to a channel on telegram 
+ 
+This is a pretty simple task and we have had a similar bot do this in the past but something went wrong and the dev is no longer available.""",https://www.upwork.com/jobs/Twitter-Bot_~01d8cecd10934df2bf?source=rss
+tools, Build a Twitter bot for multiple accounts to like and RT posts from a specific account ,"""I would like a bot/program that makes 25 of my Twitter accounts Like and RT posts from a specific account.""",https://www.upwork.com/jobs/Build-Twitter-bot-for-multiple-accounts-like-and-posts-from-specific-account_~011458ed66f353214f?source=rss
+tools, Youtube scraper builder ,"""A scraper for youtube and TikTok that will take the URL of a video and export to a Google Sheets file all the comments on that video. 
+the scraper preferred to be built using python.""",https://www.upwork.com/jobs/Youtube-scraper-builder_~01196ca480f8242d97?source=rss
+data, Facebook Group Scraping ,"""Im looking for an expert at Facebook Group Scraping. I need to extract emails and cell numbers from Facebook groups.""",https://www.upwork.com/jobs/Facebook-Group-Scraping_~016ac232c7a503d913?source=rss
+data, Scrape data from internet ,"""I have a job where you are provided with 2838 LinkedIn IDs and you have to scrape the posts made on a certain date in 2020, as well as one week before, and one week afterthat date. In addition, you need to capture the engagement metrics (likes/comments/shares, etc). Is this a job you can do? Part of the job is procuring a LinkedIn API (I don't have access to any key) so that you can automate the process. Thanks.""",https://www.upwork.com/jobs/Scrape-data-from-internet_~010a7f582c7b5eaaec?source=rss
+data, Social media Ad scraper ,"""Need add ad scraper that scraped all running ads from NFT projects on Fb Ig Twitter""",https://www.upwork.com/jobs/Social-media-scraper_~0142c66e6cad2d7587?source=rss
+tools, Need Someone Skilled in Twitter API scraping  ,"""I need to scrape twitter API for multiple keywords and get notified via text in real time when they are tweeted.""",https://www.upwork.com/jobs/Need-Someone-Skilled-Twitter-API-scraping_~01e35d867bc8c4c3e1?source=rss
+leads, Data Scraper - YouTube Channel Data (Long Term) ,"""
+ 
+PLEASE READ THE ENTIRE JOB DESCRIPTION 
+ 
+ 
+Trend Watchers is a fast-growing software company that serves tens of thousands of customers every day. To help accelerate our growth, we are looking for some passionate, hard-working data scrapers who can scrape channel data. 
+ 
+ 
+ 
+Qualifications 
+- Excel sheet knowledge 
+- Data entry experience 
+ 
+ 
+Duties 
+- Collect emails, channel links & subscriber count from x100 youtube channels each day. Collecting 100 emails takes about 1 hour/day. 
+ 
+- Collect data from channels that have between 1k - 50k Subscribers 
+ 
+Video Example -  
+ 
+ 
+Benefits 
+- You can expect to get paid $100 weekly.  You can expect to get paid more if your lead quality is decent. 
+ 
+ 
+Our website:  
+More about me: IG @dejon_brooks 
+ 
+If this would interest you, apply & send your resume over!""",https://www.upwork.com/jobs/Data-Scraper-YouTube-Channel-Data-Long-Term_~01038fb56f15c5afa5?source=rss
+tools, Help with Instagram Scraper for Music Festival E-Commerce Marketplace  ,"""Hello there.  
+ 
+Are you familiar with web scraping Instagram?  
+ 
+I am a developer myself and am having some difficulties with certain steps in accessing Instagrams content.  
+ 
+They are rather rigid security protocols. The script I wrote that got through last week is now not persisting.  
+ 
+• You have to be logged in to see the content 
+• It flags your email right away 
+• You must create a new email per browser instance (https://cryptogmail.com/)  
+ 
+To HIGHLIGHT, this job posting is to help work on an existing codebase written in JAVASCRIPT using the Puppeteer library (link removed)/  
+ 
+Please let me know about your experience with scraping Instagram and we'll go from there.  
+ 
+Thank you!""",https://www.upwork.com/jobs/Help-with-Instagram-Scraper-for-Music-Festival-Commerce-Marketplace_~0183d153fb23521dcc?source=rss
+tools, Write a scraper for LinkedIn Search Result Page ,"""Hello, 
+ 
+We want you to write a program where the front end will be a simple page with one field, URL of the LinkedIn search. We will put the search URL in that field and your program should extract the Profile URLs of the people in that search and give us a downloadable CSV.  
+ 
+The software will have the following features.  
+ 
+1. It should be able to log in to our LinkedIn account in the backend to access the search page.  
+2. It should be able to change IPs using some online service 
+3. It should give us all URLs in the search in a CSV.  
+ 
+You can write it in Python or any other language and provide us the source code.""",https://www.upwork.com/jobs/Write-scraper-for-LinkedIn-Search-Result-Page_~018f761a1885dc1776/
+data, Scrape Linkedin profiles ,"""Scrape 11K Linkedin profiles for their URLs, summary, education, positions, skills, recommendations, and endorsements. 
+We will provide a list of the people's names and positions. The people's URLs can be reached by searching them on Linkedin. 
+ 
+There will be checkout points after 10, 50, 100, 1000, and 11,000 profiles.""",https://www.upwork.com/jobs/Scrape-Linkedin-profiles_~01c3f1ac2f0af1d5f1?source=rss
+data, Extract list of followers for 4 users (Twitter) ,"""I need to get the list of followers for 4 users in twitter. Those 4 users have big number of followers as: 
+ 
+User 1: 187.7K 
+User 2: 73.4K 
+User 3: 229.8K 
+User 4: 68.7K 
+ 
+Please make sure of data quality. I will will do random check, and no payment if any mistakes found. 
+ 
+Thanks.""",https://www.upwork.com/jobs/Extract-list-followers-for-users-Twitter_~01fec5bbbc7eff7623?source=rss
+tools, Create Bot to Scrape IG Descriptions ,"""We are looking for someone to create a bot that will check for changes to the description of Instagram profiles. Specifically it will check thousands of IG profiles, and notify us if there were any changes to the description of the IG profile.""",https://www.upwork.com/jobs/Create-Bot-Scrape-Descriptions_~011343ab2dd9f46389?source=rss
+tools, Chrome Extension: Script to Scrape LinkedIn Feed into sortable table ,"""Hello, I'm excited to get some help making my life a little easier :) 
+ 
+This project is in two milestones: 
+ 
+1 
+Create a script scrape a LinkedIn Post feed into a any sortable table format (could be CSV). This is the proof of concept 
+ 
+2 
+create a Chrome Extension from that script, and display the results as a sortable table in the browser""",https://www.upwork.com/jobs/Chrome-Extension-Script-Scrape-LinkedIn-Feed-into-sortable-table_~01ed81fce7981ba896?source=rss
+leads, Data Scraper Needed To Scrap Facebook Page/Group ,"""I am looking for an experienced data scraper who can scrape emails and phone numbers from Facebook Pages and Facebook Groups. 
+ 
+The deliverable is completely scraping the specified pages/groups that I provide for emails and phone numbers of its members and ensuring that they are accurate for the specified niche. Work will be checked. 
+ 
+Will need to scrape as many as possible hopefully around an accurate list of 30k total.""",https://www.upwork.com/jobs/Data-Scraper-Needed-Scrap-Facebook-Page-Group_~01d75a867e6b2e5e13?source=rss
+tools, Python Script for Reddit and Twitter Data Scraping ,"""We need code to collect dataset from Twitter and Reddit. 
+ 
+Reddit - given a subreddit the program can scrape the post, user id 
+given user id the code can scrape all content from the user 
+ 
+Twitter - given a twitter handle, the code can scrape all the post. 
+ The code can find out who reacted and retweeted to the post and collect all the user id 
+Collect the post done by those user ids 
+Also the code can filter for certain keywords/hash tag and scrape the data""",https://www.upwork.com/jobs/Reddit-and-Twitter-Data-Collection_~01aaf75fd0456b2f18?source=rss
+tools, Data Scraping Expert Needed with Tech Tools in Place to Scape Specific Social Groups  ,"""We are working with some Influencers, and are running multiple social groups on Facebook. We are in need of an expert data extraction freelancer to help us gather more specific data about following for our groups and other target audiences.""",https://www.upwork.com/jobs/Data-Scraping-Expert-Needed-with-Tech-Tools-Place-Scape-Specific-Social-Groups_~01d4cce9decb6cea54?source=rss
+data, Two facebook group members scrapping ,"""I want to scrape two facebook group members information 
+ 
+I am member of those groups which I want to scrape. One group has 23000 members and other has 13000 
+ 
+If I give you these two groups to scrape (one has 13,000 members and other has 23000 members) then how soon you can deliver. I want it immediately. 
+ 
+here are two groups that I want to scrape 
+ 
+(link removed) 
+(link removed) 
+ 
+Please note that I need group member name, facebook profile URL, e-mail and ph number plus any other information that you can provide.  
+ 
+A lot of people already have wasted my time so please if you can do it then send me a sample from each group like 100 contacts from each group in order to show your skills that you can do it. 
+ 
+The person with sample and lower bid rate and immediate delivery time will be hired asap.""",https://www.upwork.com/jobs/Two-facebook-group-members-scrapping_~0192fbe6f446310b1b?source=rss
+tools, Script for Most liked Instagram Posts of a account ,"""We are looking for someone that can create us a very lean and quick script that finds the most liked posts of an Instagram account. 
+ 
+Looking for fast turnaround time and a non buggy and quality script that is reliable. Must have high expertise in this field.""",https://www.upwork.com/jobs/Script-for-Most-liked-Instagram-Posts-account_~01f9464ccb931dcbb6?source=rss
+data, Mass Data Scraping ,"""Looking for someone to scrape the number of followers, the emails and phone numbers for a list of 4600 Instagram accounts.  
+ 
+We are not looking for someone to do this manually so you will need your own automation tools.  
+ 
+A list of Instagram URL links in a Google Sheets document will be provided.""",https://www.upwork.com/jobs/Mass-Data-Scraping_~0190d919b3a94dadbf?source=rss
+tools, Data Miner and Scraping ,"""We are looking to collect SMB names and emails. 
+ 
+There are a few places we can look,  
+ 
+for example.  
+ 
+Twitter 
+- Looks for any bios that have keywords like ""entrepreneur, real estate, insurance, etc"" 
+- Look for profiles that have email in bio 
+- Scrape name and email.  
+ 
+We have a list of industries, keywords, and websites to provide to help with locating this data.  
+ 
+I'm looking for an ongoing project for this to collect data. """,https://www.upwork.com/jobs/Data-Miner-and-Scraping_~01ba5250808dfffcf4?source=rss
+data, LinkedIn Profile Scrape from a list of 500k URLs ,"""Hi! 
+ 
+I am looking to get LI profile data from a list of ~500k LinkedIn URLs 
+ 
+I need data such as name, city, country, email, years of experience, skills, industry and former employers.""",https://www.upwork.com/jobs/LinkedIn-Profile-Scrape-from-list-500k-URLs_~01a82b5c8287d82fcf?source=rss
+tools, Scrape Data from Tumblr ,"""Hi Everyone! 
+ 
+I am looking for an experienced webscraping expert, helping me to scrape data from Tumblr (from certain accounts or for trending keywords). I need the images (downloaded), the titles, the descriptions and the tags. 
+ 
+Regards 
+Nicolas""",https://www.upwork.com/jobs/Scrape-Data-from-Tumblr_~01609b82ea56e90695?source=rss
+data, Scrape data from internet ,"""I have a job where you are provided with 2838 LinkedIn IDs and you have to scrape the posts made on a certain date in 2020, as well as one week before, and one week afterthat date. In addition, you need to capture the engagement metrics (likes/comments/shares, etc). Is this a job you can do? Part of the job is procuring a LinkedIn API (I don't have access to any key) so that you can automate the process. Thanks.""",https://www.upwork.com/jobs/Scrape-data-from-internet_~010a7f582c7b5eaaec?source=rss
+tools, Scrape Event Data from FB ,"""I am creating a Car Event Website, that displays all car events within the users local area. 
+ 
+I need to scrape Facebook Events, from specific Facebook Pages that i provide.  
+- Event Name 
+- Event Description 
+- Event Image 
+- Event Location 
+- Event Start Time 
+- Event Host Name 
+ 
+I will supply all the FB page links at the start of the project, and new links as we continue the project. 
+ 
+I would like to receive this as a csv file via email. Or, if possible automatically upload to my webflow cms. I only want to receive a new email when there is new content. 
+ 
+This will be ongoing, and happy to pay a monthly price, i respect your price. I havent set a budget yet, please offer a budget.""",https://www.upwork.com/jobs/Scrape-Event-Data-from_~014c7165600b286df2?source=rss
+data, Extract instagram following information ,"""I am looking for someone to extract the information of my Instagram followings. I currently follow 1000+ accounts on Instagram and I would like to extract their profile data. 
+ 
+The attached CSV file contains a sample of the profile data for 2 of the accounts I am following. I would like to fill it up with the data of the rest of them.""",https://www.upwork.com/jobs/Extract-instagram-following-information_~019b2b3b3360f466d0?source=rss
+data, Scraping public facebook groups (posts and comments) ,"""We want to scrape all of the posts and comments from Facebook public pages, for example: (link removed) 
+ 
+The task: Scraping not only the top posts and comments but all of them.""",https://www.upwork.com/jobs/Scraping-public-facebook-groups-posts-and-comments_~01b2bca1ec86d63404?source=rss
+leads,  TikTok Email Scraper ,"""Hey, we're looking for someone to scrape emails from TikTok profiles for creators based on a specific follower range, region and gender of creators. 
+ 
+Please view the video below to understand the criteria. 
+ 
+(link removed) 
+ 
+Thanks!""",https://www.upwork.com/jobs/TikTok-Email-Scraper_~01cd7f173d81f0adcf?source=rss
+leads, LinkedIn data extraction / Website extraction ,"""Data extractors, your talents are needed! 
+ 
+We need to collect the contact information of the CEO/GM, Sales Managers, Marketing Managers, Communication Managers, Event Managers of an identified list of companies - around 600 companies. We expect you to collect name, surname, title, email ID, phone number, using LinkedIn or Google.""",https://www.upwork.com/jobs/LinkedIn-data-extraction-Website-extraction_~015e17d07cafbb22ec?source=rss
+data, Scrape IG account information by # hashtag  ,"""We’re looking to hire a candidate that can help scrape IG user information such as username, email (if available), bio, followers etc. 
+ 
+We will provide hashtag to filter users. 
+ 
+Ideally looking for a fixed fee per hashtag""",https://www.upwork.com/jobs/Scrape-account-information-hashtag_~01c30fbe792eb06ec9?source=rss
+data, LinkesIn Data Collection ,"""Hi,  
+ 
+I need a professional Freelancer for Data Collector on LinkedIn. If you can do it, then apply it and see your potential. 
+ 
+This is will be a long-term project. If it works. 
+Links I will provide you after hiring. 
+ 
+Data Required 
+ 
+First name  
+Last Name 
+Job Title 
+Linkedin profile 
+Business Email 
+Domain 
+Post Link 
+ 
+ 
+Thanks.""",https://www.upwork.com/jobs/LinkesIn-Data-Collection_~01aa0cd401a4c6bcd6?source=rss
+data, Scrapping playstore and facebook ad library ,"""The job is to make an automated system of scraping some data from playstore and facebook ad library wherein, the system should notify everytime and there is a new listing. 
+ 
+More details can be discussed after the proposal.""",https://www.upwork.com/jobs/Scrapping-playstore-and-facebook-library_~014db192b852525c5f?source=rss
+data, Scrap Images from instagram ,"""Need someone who can scrap images from instagram. When you scrap the images please make sure to scrap the full sized image (not the thumbnail). Provid a folder of all the scrapped images""",https://www.upwork.com/jobs/Scrap-Images-from-instagram_~01dba83d9b739b9a3e?source=rss
+data, Scrape LinkedIn profiles using PhantomBuster  ,"""I need someone who can scrape 1000 LinkedIn profiles using PhantomBuster extension. 
+ 
+Quick turnaround needed.""",https://www.upwork.com/jobs/Scrape-LinkedIn-profiles-using-PhantomBuster_~0105f594951a31bb10?source=rss
+data, Scrapping Twitter Account ,"""Extract Twitter profile data.  
+ 
+I'm going to share some profile links with you I need a file with different tabs. 
+ 
+1. All subscribers  
+-Profile link  
+-the name  
+-bio 
+-Website (if any) 
+-Date of creation 
+-number of subscribers 
+-number of subscribers 
+-number of tweets 
+-Certified (True or False) 
+ 
+ 
+2. (same but on subscriptions) 
+ 
+-profile link  
+-the name  
+-bio 
+-Website (if any) 
+-Date of creation 
+-number of subscribers 
+-number of subscribers 
+-number of tweets 
+-Certified (True or False) 
+ 
+Translated with (link removed) (free version)""",https://www.upwork.com/jobs/Scrapping-Twitter-Account_~0142acae4a0eecb4dd?source=rss
+data, Social Media Data Scraper Needed for Business Pages ,"""I am looking for someone that has the ability to go through Facebook pages and catalog a specific industry (credit repair businesses) and create a spreadsheet by state of the business name, email, phone number, address, and Facebook url.""",https://www.upwork.com/jobs/Social-Media-Data-Scraper-Needed-for-Business-Pages_~01803556575a916971?source=rss
+data, Need Twitter data scraper ,"""I want to scrape the data from twitter profiles. Data must be save in excel list and the profiles must be extracted from excel.""",https://www.upwork.com/jobs/Need-Twitter-data-scraper_~011f8d452e9dbf97c6?source=rss
+data, Export Twitter Collection/Timeline as spreadsheet/data file ,"""Hi, I’m looking for use of the Twitter Collections API to export all the tweets (a few hundred) from an existing Collection/Timeline as some sort of spreadsheet so I can easily search through the tweets in the Collection and sort them by the fields available. 
+ 
+Twitter API documentation for this feature:  
+ 
+ 
+Ideally, the fields are: 
+ - Tweet URL 
+ - Author Name 
+ - Author @ handle 
+ - Tweet Time 
+ - Tweet Text 
+ - Media URL if available 
+ - Tweet Source""",https://www.upwork.com/jobs/Export-Twitter-Collection-Timeline-spreadsheet-data-file_~013226b4461fc08692?source=rss
+tools, Data Scrapping work  ,"""Our project involves Scrapping data from social media sites such as Instagram, Twitter, and YouTube. We need a system that is able to connect to an individual’s Instagram/Twitter/YouTube account that will track their use across that platform. 
+work described in detail on the web page given below: 
+(link removed)  Click on requirements or detail section, you will get our requirements and details.""",https://www.upwork.com/jobs/Data-Scrapping-work_~0170680a3f187292b7?source=rss
+leads, Need Someone to Scrape Emails from Tiktok & Instagram ,"""Hey! We’re looking for someone who is a wiz with scraping emails and data online, we have a database of IG profiles and TikTok profiles that we need to scrape emails from. 
+ 
+Please respond if this is you and let us know why you would be a good fit. 
+ 
+Include the word DRAGON at the top of your cover letter""",https://www.upwork.com/jobs/Need-Someone-Scrape-Emails-from-Tiktok-amp-Instagram_~01a03a40046c184ec5?source=rss
+leads, Need Twitter Web Scraper to Scrape @ Addresses From Twitter Post Engagement ,"""Need help with ongoing need to identify Twitter posts, and then scrape a list of the @ addresses of accounts that interacted with the tweet (for example, all of the accounts that liked the tweet, or retweeted it).""",https://www.upwork.com/jobs/Need-Twitter-Web-Scraper-Scrape-Addresses-From-Twitter-Post-Engagement_~016cd30c864309dffa?source=rss
+tools, Automated scraping of LinkedIn company profiles ,"""This work is for someone with automated tools who can extract a large number of full details from company LinkedIn profiles in the security integrator sector. The type of data will include, but is not limited to: website address, LinkedIn profile address, number of employees on LinkedIn, number of business development people, number of followers, country / city, change in employee numbers.  
+ 
+This work is in two parts: 
+ 
+1) Find profiles within a list of specified countries (to be provided to the person who does the job) and extract all the details. 
+2) When given a short list of profiles (less than 20), extract the details for those. 
+ 
+To do this work cost effectively and quickly, you will need automated software, not manually extracting the details. 
+ 
+The output should be provided in an Excel spreadsheet.""",https://www.upwork.com/jobs/Automated-scraping-LinkedIn-company-profiles_~01298d581ad91f1f52?source=rss
+data, Facebook/Instagram Public comment Scrape ,"""I need a freelancer that can gather all Public comments of a specific person on FB/Instagram, it can be automated or manually scrape.  
+ 
+Basically, I just need to pull every public comment a person with a public Facebook profile has made. This process will be done to just a specific name list that I will provide to the chosen freelancer. 
+ 
+Thank you""",https://www.upwork.com/jobs/Facebook-Public-comment-Scrape_~01d2d0c4d4a7611c77?source=rss
+leads, Data Extraction from LinkedIn ,"""I would provide the list of industries and Required the specifics titles with Geography. So I need the only work Email address and Work Phone number. If you provide me the direct number that's would be great.""",https://www.upwork.com/jobs/Data-Extraction-from-LinkedIn_~0173bc5f7b7f65ab9d?source=rss
+tools, Twitter scraping data and process data ,"""Hi, 
+ 
+We need a quick and easy way to extract data from twitter, particularly tags from certain twits. 
+ 
+There are twits where the author says things like ""comment below and tag some friends"" and what we want is to be able to extract only the people that have been tagged in the comments below with a simple click. 
+ 
+Then we would also want to have a way to run a command to find where these tagged people are from (not always possible because location is not always shown) but whenever possible know their countries.""",https://www.upwork.com/jobs/Twitter-scraping-data-and-process-data_~0164ada910e7790131?source=rss
+data, Data Collection from Telegram Group ,"""1) Join this telegram group  
+2) Go to the very beginning. It has companies who invested in other companies. I don't care about the companies who raised money, only the companies who invested in them. 
+3) We want email addresses, twitters, telegrams, for all the people you can find involved in the investor companies. 
+4) Put this information in a spreadsheet. Google spreadsheet so i can track your progress and determine any mistakes.""",https://www.upwork.com/jobs/Data-Collection-from-Telegram-Group_~0168a6b117f10668eb?source=rss
+tools, Telegram Scrapping ,"""I am looking for a telegram scrapping expert who can scrap members from one group to another. The groups list to be researched and provided by the expert. Industry: Beauty Products l Target: India. Aim to start with 200 members and then increase gradually.""",https://www.upwork.com/jobs/Telegram-Scrapping_~0187fb6934ac26f8bb?source=rss
+tools, Solving Recaptcha and Scraping YouTube Email ,"""We're looking for someone who can solve the recaptcha and extract the email address provided by YouTubers or YouTube channel in their description. 
+ 
+  ( For business Enquiries Emails)""",https://www.upwork.com/jobs/Solving-Recaptcha-and-Scraping-YouTube-Email_~01abf1abd861494c84?source=rss
+data," Instagram scraping -- username, follower count, category, email -- b2b over 10k followers ","""b2b all over 10k followers (USA) --  
+ 
+digital creator, dessert shop, product/service (no marketing agencies), blogger, clothing, entrepreneur, interior design studio, fashion model, health/beauty, boutique store, shopping & retail, doctor, designer, sunglasses & eyewear store, personal coach, personal blog, no category listed, brand, food & beverage company, clothing brand, health & wellness website, baby goods/kids clothes. plastic surgeon, jewelry/watches, party supply & rental shop, coach, etc... --  
+ 
+Please send your project rate for 5,000 - 10,000, 10,000 - 50,000, 50,000 - 1M, and 1M+.""",https://www.upwork.com/jobs/Instagram-scraping-username-follower-count-category-email-b2b-over-10k-followers_~01eae5cf5807b8bf77?source=rss
+data, Instagram - Web-scrapping ,"""I need to extract Contact detail from posts based on hashtags from Instagram, location based. This is an urgent work. Someone who is an expert and demonstrated work experience on the above work only need to apply""",https://www.upwork.com/jobs/Instagram-Web-scrapping_~0132220469990dd485?source=rss
+data, Scrape data from Telegram Groups ,"""Looking for a developer to extract data out of Telegram groups automatically. 
+ 
+When you apply for the job, let me know how long it would approximately take. 
+ 
+Will need the following information: 
+1) When it was created 
+2) Amount of new users joining over time 
+3) Amount of messages sent per hour / day over time 
+ 
+So when I put in any telegram group name, it would show me the data.""",https://www.upwork.com/jobs/Scrape-data-from-Telegram-Groups_~01da22326b04a29c18?source=rss
+data, Scraping Youtube ads ,"""We are looking forward to scraping Youtube ad URLs. Input will be Youtube video URLs and output should be Youtube ad URLs.""",https://www.upwork.com/jobs/Scraping-Youtube-ads_~01da150b4913fbd162?source=rss
+data, Scrape 1 tweet data ,"""I need to scrape all retweets of 1 tweet.  
+ 
+The result should be google sheet with the following data: 
+Username of the account that retweeted 
+Number of followers of the account that retweeted 
+Date and time of the retweet 
+URL of the account that retweeted 
+Url of the retweet 
+Number of retweets of the retweet 
+Number of likes of the retweet 
+Number of comments in the retweet""",https://www.upwork.com/jobs/Scrape-tweet-data_~011c4be2cc3c902ef9?source=rss
+data, Web scraping developer ,"""Looking for a Web scraping developer to scrape information from social media platforms""",https://www.upwork.com/jobs/Web-scraping-developer_~01b2e44e11e20fdee8?source=rss
+data, Scrub a LinkedIn post  ,"""Hello, I need to scrub a LinkedIn post. I have comments with names and need to extract them into excel and possibly also enrich the list. Super quick project""",https://www.upwork.com/jobs/Scrub-LinkedIn-post_~0112e821ad93db51a4?source=rss
+tools, Web Scraping LinkedIn via public API or other (mass quantity) ,"""Hi There, 
+ 
+We are currently running python to automate the collecting of data on our linkedin accounts. 
+ 
+I would like to scale this through the use of API's into LinkedIn Public accounts. 
+ 
+I require someone to build lists from linkedin with the following inputs: 
+ 
+- Organisation (multiple) 
+- Job Title (multiple) 
+- Location (Multiple) 
+ 
+Please reach out if you have the ability to automate this at a large scale.""",https://www.upwork.com/jobs/Web-Scraping-LinkedIn-via-public-API-other-mass-quantity_~013b09e4e1d36e159f?source=rss
+data, LinkedIn Profile Data Extraction ,"""We would like to have a tool to extract LinkedIn profile data of senior executives from a list of companies. We will provide a list of companies (~100) to the project developer. The project developer will use this list of companies to search for the following roles: 
+ 
+1. CEO 2. COO (Chief Operating Officer)  3. President  4. CMO (Chief Medical Officer)  5. CSO (Chief Strategy Officer) 6. CFO (Chief Financial Officer)  7. CCO (Chief Commercial Officer)   8. CSO (Chief Scientific Officer), 9. CTO (Chief Technology Officer), 10 CBO (Chief Business Officer) 
+*Note: Companies may not have people with all these titles. That is ok. We want to make sure if such title exist for a company, then that person's information should be extracted.  
+ 
+ 
+Input: List of companies 
+Output: CSV file with the following information. 
+Comments: The project developer needs to deliver the tool to us, so that we can use the tool to process additional companies 
+ 
+    First name 
+    Last name 
+    Email 
+    LinkedIn profile link 
+    LinkedIn ID 
+    Person's geographic location 
+    Advanced degree (MD, PhD, MBA, JD, etc.) 
+    Academic institute 
+    Computed Age (Based on year of graduation from college. Assuming people graduate from college at 22.) 
+    Company name 
+    How long has the person stayed in the current company. 
+    Current Position 
+    Prior company name 
+    How long has the person stayed in the prior company 
+    Prior company position 
+ 
+Thank you very much!""",https://www.upwork.com/jobs/LinkedIn-Profile-Data-Extraction_~01d2b99a76e71d3e86?source=rss
+data, LinkedIn Data Scraping ,"""Hi, 
+I have a list of around 115 companies for which I would like to scrap the contact details of specific titles: 
+-	Business email address 
+-	Private email address 
+-	Phone number 
+-	First name 
+-	Last name 
+-	Title 
+-	Linkedin profile link 
+ 
+If relevant to you, please advise how you can perform the task (with what tool) and estimate how many hours will be required for you to complete the job. 
+Thank you, 
+Itay""",https://www.upwork.com/jobs/LinkedIn-Data-Scraping_~018b7cc34ae05deee9?source=rss
+leads, web crawling & scraping solution for finding Emails and related social media links. ,"""Web crawling & scraping solution for finding Emails and related social media links. 
+ 
+We have a list of 5000 urls that I would like to scrape and find contacts, emails and social media links to bild a contact database.""",https://www.upwork.com/jobs/web-crawling-amp-scraping-solution-for-finding-Emails-and-related-social-media-links_~01fd4ba10e803a04e4?source=rss
+leads, Influencers data scraper ,"""Hello Freelancers! 
+ 
+I need a data scraper to do research on influencers and find specific ones under different criteria.  
+ 
+These Influencers will be finance Influencers on Tiktok - I need a range of them and details such as  
+- Their Tiktok URL 
+- Instagram URL  
+- Email 
+- Follower size  
+ 
+I need a total of 250 influencers split up into 5 size brackets which I will explain more on when we have a chat (: 
+ 
+And to put this info into a google sheets document that I will provide 
+ 
+It's not a difficult job but I just need someone that knows how to navigate TikTok and can get this done for me asap!""",https://www.upwork.com/jobs/Influencers-data-scraper_~014473b90aa4f3be91?source=rss
+data, Create a social media crawler ,"""We need someone to create a social media crawler. Can be a demo MVP at first.  
+ 
+The sumup of the ""social searcher"": 
+ 
+create a social media crawler for for clients 
+ 
+In Step 1 the end product should: 
+ 
+- have a frontend, in which the client can input keywords and phrases after logging into his account 
+- the software should crawl social media: Facebook/Twitter/Instagram for starters, but also possible to expand to any others, including web 
+- an alert is triggered when the defined criteria pop up in the social media 
+- the client should get an alert via email when the keywords/phrases he defined appear in social media, saying to check the dashboard, and the client has to log in. After logging in, he gets the link to the post/article which triggered the alert 
+ 
+General notes: 
+- If an article was posted in 2014, but the response was in 2021, the alarm has to be triggered by the comment posted in 2021 
+- can start with one social media (Facebook or Twitter) 
+- a reference would be (link removed)/, although in our software the alerts should be triggered only when the defined parameters show up in social media, not on the basis of defines searches""",https://www.upwork.com/jobs/Create-social-media-crawler_~01e36e4941f851a7ff?source=rss
+data, Instagram screen scrape for list of profiles  ,"""We would like to get a list a Instagram accounts including the profile name and number of followers into a CSV sheet.  
+ 
+We would like the same for TikTok.  
+ 
+Ideally we get all users that have followers greater than 5,000 
+ 
+How should we approach the project?  
+ 
+Please let me know what questions you have  
+ 
+Thank you""",https://www.upwork.com/jobs/Instagram-screen-scrape-for-list-profiles_~017eab95e8087ad61b?source=rss
+tools, Crawl YouTube Channel for Data ,"""We need to grab and analyse all video links from some YouTube channels to mine data. 
+ 
+data such as would be 
+url 
+title 
+release date 
+views 
+tags 
+ 
+happy to receive pointers to available solutions, if not python scripts would be nice - possibly with random delays to avoid being blocked. 
+ 
+if there is a ready made solution out there, would honour the job and a symbolic value as a thank you.""",https://www.upwork.com/jobs/Crawl-YouTube-Channel-for-Data_~013a501ff168f65761?source=rss
+tools, Scraping real-estate websites  ,"""We are trying to build a reverse db from real estate portal, we are interested in scraping all the listing and their attributes.  
+ 
+the project's aim is to create a repeated scraping (daily) system to collect / update all listing from the following website   into a well defined database.  
+""",https://www.upwork.com/jobs/Scraping-real-estate-websites_~016c7d28ba14858241?source=rss
+leads, Email extractor from Facebook  ,"""I have an individual whose Facebook profile I was able to track. I wish to communicate with this individual formally. All my postages are not being accepted by the party. So I request you to extract the exact email id based on which the Facebook profile is created. After that I will just send a formal email and my task is done. You should neither hack the profile nor do illegal work. Extract the email id legally without harming the individuals.""",https://www.upwork.com/jobs/Email-extractor-from-Facebook_~01151459f42c7f08be?source=rss
+data, LinkedIn Data Collection ,"""Hello, 
+I have some profile links and need their complete data into Excel.  
+ 
+Our URL is -  (link removed) 
+ 
+Do you have previous experience. 
+ 
+Please apply if you have LinkedIn profile 
+Thanks""",https://www.upwork.com/jobs/LinkedIn-Data-Collection_~01c09970369b84f522?source=rss
+tools, Create a social media crawler ,"""We need someone to create a social media crawler. Can be a demo MVP at first.  
+ 
+The sumup of the ""social searcher"": 
+ 
+create a social media crawler for for clients 
+ 
+In Step 1 the end product should: 
+ 
+- have a frontend, in which the client can input keywords and phrases after logging into his account 
+- the software should crawl social media: Facebook/Twitter/Instagram for starters, but also possible to expand to any others, including web 
+- an alert is triggered when the defined criteria pop up in the social media 
+- the client should get an alert via email when the keywords/phrases he defined appear in social media, saying to check the dashboard, and the client has to log in. After logging in, he gets the link to the post/article which triggered the alert 
+ 
+General notes: 
+- If an article was posted in 2014, but the response was in 2021, the alarm has to be triggered by the comment posted in 2021 
+- can start with one social media (Facebook or Twitter) 
+- a reference would be (link removed)/, although in our software the alerts should be triggered only when the defined parameters show up in social media, not on the basis of defines searches""",https://www.upwork.com/jobs/Create-social-media-crawler_~01e36e4941f851a7ff?source=rss
+tools, Instagram bot / location like bot and scraper ,"""I need a location scraper for instagram and like bot. 
+ 
+Example video: (link removed)""",https://www.upwork.com/jobs/Instagram-bot-location-like-bot-and-scraper_~01780c8840118ad734?source=rss
+tools," Create Twitter Bot (Auto Follow, Like) ","""Looking to have a twitter bot made that is able to auto follow, like, potentially even comment. Would be referencing accounts that have tweeted using a specific tag, phrase, or following X account. We are looking to make this as unique & organic as possible so our account does not get shadow-banned/deleted.  
+ 
+Should also be able to blacklist accounts.""",https://www.upwork.com/jobs/Create-Twitter-Bot-Auto-Follow-Like_~015a8fc276715b5645?source=rss
+tools, Create a server script for TikTok API Integration ,"""I am looking to integrate Tiktok ads with an affiliate platform called JumbleBerry. 
+There are both complete instructions on Jumbleberry and extensive API documentation for Tiktok. I am stuck on this step. I need to report the following event - ViewContent, Lead, AddtoCart, AddPaymentInfo and CompletPayment. 
+ 
+Attached as a screenshot is the step that I am stuck on and need done.  Apply if you have the skills 
+ 
+Cheers""",https://www.upwork.com/jobs/Create-server-script-for-TikTok-API-Integration_~01d4cc2d3840a8c321?source=rss
+tools, [Hiring immediately] Microsoft Power Automate - search twitter and save tweets in excel ,"""Set up flows on Power Automate to search for tweets based on keywords and save them in an excel.  
+ 
+The search component must: 
+ 
+ 1. Limit the search within a certain region/country 
+2. Filter and remove tweets of certain length 
+3. Be able to combine operators (AND/OR) 
+ 
+Only apply if you have experience in Power Automate""",https://www.upwork.com/jobs/Hiring-immediately-Power-Automate-search-twitter-and-save-tweets-excel_~011493c8529692bd87?source=rss
+tools, Python Twitter Dashboard ,"""Looking for an intermediate to experienced developer to build a Python Twitter Dashboard to be completed in 2 months. The dashboard will be based on keyword searches, and retrieves tweets using the Twitter API for data analysis and visualization. Must be familiar with Python, pandas, dash, and NLTK (or vaderSentiment). Visualizations include stacked bar chart, heat map, line chart, and network graph. Attached is the requirements for the dashboard. Would like to have the whole project completed within two months, and have a basic prototype running within a week.""",https://www.upwork.com/jobs/Python-Twitter-Dashboard_~01936fb4500db541d9?source=rss
+tools, Full stack developer- Facebook Ads Web Scraper ,"""We're looking for a full stack developer that has experience scraping Facebook Ads. 
+ 
+We have our backend database infrastructure mostly built - we need someone who is able to scrape Facebook Ads and deliver that data to our database.  
+ 
+We are building out a SaaS web app for this.  
+ 
+Key note: Facebook does not make their API available, hence the challenge. 
+ 
+If you've never worked with a project, like this before, it's likely not a good fit. 
+ 
+Ideal candidate needs to be versed in: 
+- Python 
+- AWS 
+- Terraform 
+- Lambda functions 
+- A customer-facing SaaS product 
+ 
+Skills: 
+- Project planning 
+- Deadline setting. Hitting self-directed deadlines is absolutely critical to our team 
+- Communication 
+- Working with other developers on the team 
+- Excited to work on a fun project! 
+ 
+For the right fit, this could turn into a full-time role for a person who is interested. 
+ 
+In your application, shoot us a quick note about your experience with Python, any web apps you've built, and your time availability, and when you can get started.""",https://www.upwork.com/jobs/Facebook-Ads-Web-Scraper_~012ff3be87c33d1da2?source=rss
+tools, Twitter / instagram api extraction expert ,"""We need the following doing - You MUST have worked with large scale scraping and twitter APIs 
+ 
+Twitter Scraper - (probably best using API with multiple accounts) -  
+ 
+1. start with a list of twitter profiles (50k) + new accounts will be added daily I will provide. 
+2. visit each instagram account daily and take followers number, following number, bio, if verified, date created, profile image, number of tweets, date of last tweet, likes, + comments + retweet number of the last tweet, name, @ 
+3. Scrape all followers data from 2. And take - followers number, following number, bio, if verified, date created, profile image, number of tweets, date of last tweet, likes, + comments + retweet number of the last tweet, name, @ 
+4. Repeat 2. Daily (at similar time each day for a profile) 
+5. Repeat 3. Daily (at similar time each day for a profile) 
+6. Take each of the 50k + new accounts will be added daily, account names @ and query twitter to see number of @ mentions / tagged and date / time of each 
+7. Repeat 6. Daily (at similar time each day for a profile) 
+ 
+ 
+ 
+Instagram Scraper - (I think will need to be scraped as won’t get API access) - 
+ 
+1. start with a list of instagram profiles (50k) + new accounts will be added daily I will provide. 
+2. visit each instagram profile daily and take followers number, following number, bio, if verified, date created, profile image, number of posts, date of last post, likes, + comments of the last post, name, @ 
+3. Scrape all followers data from 2. And take followers number, following number, bio, if verified, date created, profile image, number of posts, date of last post, likes, + comments of the last post, name, @ 
+4. Repeat 2. Daily (at similar time each day for a profile). 
+5. Repeat 3. Daily (at similar time each day for a profile) 
+6. Take each of the 50k + new accounts will be added daily, account names @ and query instagram to see number of @ mentions / tagged and date / time of each 
+7. Repeat 6. Daily (at similar time each day for a profile) 
+ 
+ 
+this is long term work required daily data we need sending to our server  
+ 
+work to start asap - $600 a month""",https://www.upwork.com/jobs/Twitter-instagram-api-extraction-expert_~01af7226ae4930d1f4?source=rss
+tools, Instagram Scraping Tool ,"""We are looking for a partner to develop a instagram scrapping tool (for internal use so no complex frontend needed or no needed at all, to be discoussed) with the same criteria as: (link removed)/ (This is a russian website but you can translate it to have a look)  
+ 
+We are a company in Monaco and kindly understand we need to trust a lot on the freelancer, including availabiliy to travel to us.  
+ 
+On your application please send: 
+-Experience  
+-Budget  
+-Time to complete the project  
+-Portfolio / previous works""",https://www.upwork.com/jobs/Instagram-Scraping-Tool_~01cc873f80e4641dbc?source=rss
+tools, Python Scrapping ,"""Freelancer need to scrap the Youtube for related searches like ted talk, etc. [list will be provided] and create a CSV file with the following output: 
+1. Title of the video 
+2. Video Link 
+3. Views on the Video 
+4. Likes on the video""",https://www.upwork.com/jobs/Python-Scrapping_~017d9921105590bf14?source=rss
+tools, Instagram Email Scraping Bot ,"""Looking for someone that has an instragram scraping bot that can scrape email addresses from accounts posting with hashtags, a list of accounts that follow accounts etc. 
+ 
+We need to compile a list of recent crypto investors of 700K plus email addresses 
+ 
+We can either buy the bot that does it or hire you to manage it and collect the data""",https://www.upwork.com/jobs/Instagram-Email-Scraping-Bot_~019aa8690bb1cedcbc?source=rss
+tools, Twitter / instagram api extraction expert ,"""We need the following doing - You MUST have worked with large scale scraping and twitter APIs 
+ 
+Twitter Scraper - (probably best using API with multiple accounts) -  
+ 
+1. start with a list of twitter profiles (50k) + new accounts will be added daily I will provide. 
+2. visit each instagram account daily and take followers number, following number, bio, if verified, date created, profile image, number of tweets, date of last tweet, likes, + comments + retweet number of the last tweet, name, @ 
+3. Scrape all followers data from 2. And take - followers number, following number, bio, if verified, date created, profile image, number of tweets, date of last tweet, likes, + comments + retweet number of the last tweet, name, @ 
+4. Repeat 2. Daily (at similar time each day for a profile) 
+5. Repeat 3. Daily (at similar time each day for a profile) 
+6. Take each of the 50k + new accounts will be added daily, account names @ and query twitter to see number of @ mentions / tagged and date / time of each 
+7. Repeat 6. Daily (at similar time each day for a profile) 
+ 
+ 
+ 
+Instagram Scraper - (I think will need to be scraped as won’t get API access) - 
+ 
+1. start with a list of instagram profiles (50k) + new accounts will be added daily I will provide. 
+2. visit each instagram profile daily and take followers number, following number, bio, if verified, date created, profile image, number of posts, date of last post, likes, + comments of the last post, name, @ 
+3. Scrape all followers data from 2. And take followers number, following number, bio, if verified, date created, profile image, number of posts, date of last post, likes, + comments of the last post, name, @ 
+4. Repeat 2. Daily (at similar time each day for a profile). 
+5. Repeat 3. Daily (at similar time each day for a profile) 
+6. Take each of the 50k + new accounts will be added daily, account names @ and query instagram to see number of @ mentions / tagged and date / time of each 
+7. Repeat 6. Daily (at similar time each day for a profile) 
+ 
+ 
+this is long term work required daily data we need sending to our server  
+ 
+work to start asap - $600 a month""",https://www.upwork.com/jobs/Twitter-instagram-api-extraction-expert_~017e67583fdbf3b672?source=rss
+tools, Twitter api extraction expert ,"""we need a twitter api / expert who has extracted large data from twitter (1 million + queries a day) to extract all followers, then followers data (bio etc) 
+ 
+You need to have done this on a large scale including using multiple twitter accounts to access api. 
+ 
+this is long term work required daily data. 
+ 
+work to start asap - $500 a month""",https://www.upwork.com/jobs/Twitter-api-extraction-expert_~01ad4a21ee53804d96?source=rss
+tools, Automate bot web scraper. telegram api ,"""scrape (link removed) 
+code email login, with password on website. ui scraper.  
+send data to telegram api 
+first look at legend. 
+--legend. 
+scrape high impact. red 
+scrape non economic. gray. 
+actual pending 
+actual, forecast, previous, 
+-- use timer before event time. 
+(link removed) 
+if enter 5. send title event 5 min 
+before event begins. 
+--scrape before event 
+scrape date, time, currency, 
+impact (high impact and non economic), 
+event title, 
+** if have no data, 
+scrape date, time, currency, 
+impact (high impact and non economic), event title. 
+scrape first before event time. forecast, previous 
+-- scrape after event 
+scrape date, time, currency, 
+impact ( high and or non economic ) , 
+event title, actual pending ( if publish or revised), 
+forecast, previous. 
+-- navigation 
+// scrape a list of all high impact and non economic 
+for the current week. 
+// scrape a list of all high impact and non economic 
+for today. 
+// scrape each event before begin using timer.""",https://www.upwork.com/jobs/Automate-bot-web-scraper-telegram-api_~0149a3f4688bdb0842?source=rss
+tools, Linkedin Cookie scraping using lambda aws ,"""We run crawlers to run on linkedin but our current engineer cant solve issues linkedin keeps sending issues like no search results on linkedin searched or sales navi searches.... while the likes of Phantombuster works just fine...""",https://www.upwork.com/jobs/Linkedin-Cookie-scraping-using-lambda-aws_~015a87e32f663e5baf?source=rss
+tools, Linkedin automation tool  (must have one ready) ,"""We are looking for a Linkedin automation tool to automated connection request via email and send messages after connection (must have one ready) 
+ 
+ 
+PLease contact us if you have any ready-made solution""",https://www.upwork.com/jobs/Linkedin-automation-tool-must-have-one-ready_~0161f48dd63c4bf939?source=rss
+tools, Build a YouTube Scraper Web Application  ,"""We are a software as a service company building a new product, which is a youtube web scraper that will be a subscription service. We will also be launching several other products this year, and will have more re occurring work if this project goes well.  
+ 
+We are looking for a full stack developer who will primarily handle the back end (most of the front end work is done through boilerplate templates). 
+ 
+Tech stack: Python/Django/MySQL/AWS 
+ 
+Job needs: python (scrapy or selenium), Django, SQL (MySQL preferred), AWS  
+ 
+Pluses: Youtube API, SaaS Pegasus, webflow/bulkit, some experience building web applications  
+ 
+The front end will be stitched together using SaaS Pegasus (a Django powered boilerplate that contains authentication, user login, etc), and webflow or bulkit UI templates. 
+ 
+Targeting 40-50 hours of work to complete this project 
+ 
+Looking to launch the MVP by March 1st  """,https://www.upwork.com/jobs/Build-YouTube-Scraper-Web-Application_~019e0e131562cee4ae?source=rss
+data, Tiktok User Video Scraping  ,"""I need someone that can take multiple usernames and extract the videos URL's, Amount of likes, and Amount of comments and parse them into an excel sheet.  
+ 
+Total Video URL's will be around 3000 total from a couple different usernames.""",https://www.upwork.com/jobs/Tiktok-User-Video-Scraping_~01259b0a16972f8741?source=rss
+tools, Automated scraper ,"""Script required to automatically scrape Instagram accounts.  
+ 
+For each public Instagram account, the following information needs to be scraped: 
+* Previous image posts 
+* Previous video posts 
+* Previous stories 
+* New image posts 
+* New video posts 
+* New stories 
+ 
+The script will need to run automatically, perhaps no more frequently than every 3 hours. 
+ 
+With the image posts and video posts, I'll also need to scrape some related content: 
+* Date posted 
+* Location 
+* Caption 
+ 
+Script will need to run on Heroku or something similar. 
+ 
+Relevant python library: (link removed) 
+Relevant javascript library: (link removed)""",https://www.upwork.com/jobs/Automated-Instagram-scraper_~0127503c6bbfae6766?source=rss
+tools, Automation Tool  (LinkedIn) ,"""Need an automation tool for LinkedIn integrating multiple 3,4 LI accounts simultaneously to do following automation tasks; 
+ 
+1. Extracting LinkedIn search results automatedly with their URL profile and emails, 
+2. Deleting/filtering bulk unwanted profiles from the Extracted database 
+3. Duplicate profiles searched through different searches needs to be filtered out as well. 
+4. Taking that Extracted database to Connection Invite campaign database 
+5. There should be start/pause/stop button for campaign 
+6. Some profiles have no connection button but only Message button for premium members, so need to connect with them through their email automatically 
+7. Connect via Email check box 
+8. Sending personalized bulk connection invites with intervals 
+9. Thanks message once they accept automatedly 
+10. No connection invite should be sent to my 1st Degree connections (if they got extracted through different search and added in the database 
+11. Auto Withdrawal of non-responsive invites after set time-period 3 weeks 
+12. Cancelled invitation profiles needs to go back to extracted profiles database to the bottom 
+13. Follow up bulk mail with my 1st degree or the selected ones from 1st degree 
+ 
+The tool should be in a format where I can use it as an app basic graphic interface and change desired values easily and need to be done in a way keeping in mind the algorithms of LinkedIn so the profile should not get flagged. Alongwith it, need following Data mining of LI profiles with their respective URL, First Name, Designation and Emails in Excel sheet from Pakistan region; 
+ 
+• Marketing Director 55K, Head of Marketing 53K, GM Marketing 5K, Chief Marketing officer 18K, , Marketing Manager 224K 
+• Brand Manager 47K 
+• Managing Director 51K, CEO 120K""",https://www.upwork.com/jobs/Automation-Tool-LinkedIn_~014f726737bc342a47?source=rss
+tools, Build Tweet Scraping with Tweepy based on a keyword ,"""From a keyword, utilize the twitter API to return 10 tweets that contain this term and clean the outputs""",https://www.upwork.com/jobs/Build-Tweet-Scraping-with-Tweepy-based-keyword_~0104099992be420275?source=rss
+tools, Twitter Bot to automate likes / comments ,"""Development of bots for Twitter to perform automatic tasks: 
+- Like to all post with specific hashtags 
+- Like of all comments to specific thread 
+- Comment on post with specific hastags 
+ 
+Please submit your offer for the full development""",https://www.upwork.com/jobs/Twitter-Bot-automate-likes-comments_~01d5a8ead7fc71e942?source=rss
+leads, Data Scrapping | LinkedIn  ,"""Hi Freelancers, 
+ 
+I want someone to scrap LinkedIn profiles for the email IDs personal and phone numbers, But do make sure that the emails and numbers should be personal and not official email ids and phone numbers. 
+ 
+Things to keep in mind for the numbers: 
+1: No UAN 
+2: No Invalid numbers 
+3: ONLY PERSONAL NUMBERS 
+ 
+Do include how you are going to achieve this in your cover letter. 
+ 
+*Open to the discussion in terms of budget.""",https://www.upwork.com/jobs/Data-Scrapping-LinkedIn_~014aff078b9b18bcce?source=rss
+data, 🌱Facebook marketplace scraper in Scrapy ,"""We need a scrapy scraper to scrape properties from facebook marketplace. 
+Here is an example url, it can be crawled without logging in to facebook. 
+ 
+The location should be 20km within the city of Esbjerg, Denmark. 
+Properties to be scraped for each item: 
+ 
+-url 
+-rent 
+-area/square feet 
+-description text 
+-title 
+-location/address 
+-images 
+ 
+It should be done without javascript/selenium/headlead browsers etc in scrapy with just http requests.""",https://www.upwork.com/jobs/Facebook-marketplace-scraper-Scrapy_~01386151bb9f670436?source=rss
+tools, LinkedIn Scraping Tool ,"""The infrastructure (Backend) already exists via Google Cloud, MySQL, Databases, Load Balancers, etc. Originally this application allowed users to view hundreds of profiles every day while collecting the data and displaying on a dashboard. I would like to recycle the backend infrastructure and work on the front-end as it is not working correctly.  
+ 
+The front-end is mostly outdated PHP so looking for someone smart enough to revamp the current platform with much faster development. One of the main challenges is there is very little documentation so we need someone who can get up to speed with the current state of the platform.  
+ 
+It is not a complicated application, but I am someone who can review the current codebase and infrastructure with little to no documentation.  
+ 
+In addition to this project, I am looking to scale this to other levels and other platforms.""",https://www.upwork.com/jobs/LinkedIn-Scraping-Tool_~01235c81d87be7fc58?source=rss
+tools, Developer Needed for Google Ads & Facebook Ads API Data Extraction ,"""We have a proprietary way to extract campaign data from Google Ads and Facebook Ads using c#. We need a developer who can: 
+ 
+1. Fix our Facebook data extraction (code snippets attached to this posting) 
+- The job was set up properly as a WebJob in azure and working, but it is currently not working. It just says “failed” but we believe it’s related to either us not having a privacy URL (based on an email we got from facebook) or something to do with the authentication token. The job needs fixed so it runs successfully. 
+ 
+- We also want an email alert when a job fails. 
+ 
+- The data extraction is missing some specific campaign data. One of the API pulls (there are several that need run to get all the data we need) is simply missing campaign data. This needs figured out and fixed.  
+ 
+2. Finish Google Data Extraction 
+- This was set up initially by another developer and is currently 95% done. We need a new developer to take a look at what has been done and finish it out.""",https://www.upwork.com/jobs/Developer-Needed-for-Google-amp-Facebook-API-Data-Extraction_~0138085c68633a9878?source=rss
+data, TikTok Data Scraping by Hashtag ,"""Looking for TikTok Data Scraping by hashtag. 
+ 
+Looking for the following data to be provided in a .csv file format. 
+Profile Name  
+Profile URL (tiktok.com/@username) 
+Following 
+Followers 
+Email *When present  
+ 
+I have 22 hastags, and looking for 1,000 accounts per hashtag (22,000 total) 
+Budget can be adjusted pending further discussions.""",https://www.upwork.com/jobs/TikTok-Data-Scraping-Hashtag_~01b00a245938c4c8e7?source=rss
+tools," Twitter bot that tweets when a list of usernames follows, unfollows  ","""I would like to build a twitter bot that sends an update (sends a tweet) when a given list of usernames either 1) follows someone, 2) unfollows someone or 3) updates their bio. This is modeled after   account.  
+ 
+I have a list of usernames that I would like to include as the source list of username. I will need this list to be able to be updated / refreshed on my side. Each username has a brief bio (about 25 characters).  
+ 
+I will be using a new twitter account for this project which I can give you access to in order to test. 
+""",https://www.upwork.com/jobs/Twitter-bot-that-tweets-when-list-usernames-follows-unfollows_~012bbc9999c24d7e22?source=rss
+data, Scraping company followers list from LinkedIn ,"""which will be scrap the follower's list from the company page (see attached for more information) 
+ 
+- Name  
+- Profile URL  
+- Position title 
+- What month did they follow  """,https://www.upwork.com/jobs/Scraping-company-followers-list-from-LinkedIn_~01ca97ea28a6c79b6c?source=rss
+data, Need help in scraping data from social sites ,"""Looking for a well rounded and experienced developer with extensive knowledge on web scrapers. 
+ 
+What you will be required to do: 
+ 
+- Scrape data from social platforms. 
+- Scrape data from websites. 
+- Scrape data from social media influencers. 
+- Aggregate scraped data.""",https://www.upwork.com/jobs/Need-help-scraping-data-from-social-sites_~01bbe7521f50ec0615?source=rss
+data, Linked In Data extraction ,"""looking for LinkedIn data of around 10,000 records of the below criteria 
+ 
+Contact name (first and last) 
+Title 
+Company name 
+Phone number 
+Alternate phone number (maybe mobile phone or direct office number) 
+Company revenue (last year) 
+Number of employees (1,000 plus) 
+Industry type 
+Email 
+Address (city, state, zip code) 
+Colorado State ( Preferred) or any other state 
+ 
+Budget $50""",https://www.upwork.com/jobs/Linked-Data-extraction_~01e885d483a5a84037?source=rss
+data, Linkedin Scraping ,"""I need to scrape people information from Linkedin. 
+ 
+Let me know if you have previous experience, and we can discuss more.""",https://www.upwork.com/jobs/Linkedin-Scraping_~01df160448992890b9?source=rss
+data, Scrape data from a website ,"""I decide to scape tweets about 3 keywords and hashtags with limit 12k of tweets 
+the period from january 1, 2019 to february 16, 2022 
+ 
+this is simple task with future work possibility""",https://www.upwork.com/jobs/Scrape-data-from-website_~01c9b3292ed5806ac9?source=rss
+data, Download all tweets & media from a Twitter user into excel  ,"""Hello all 
+ 
+We are looking forward to hiring someone who can quickly extract all the tweets from certain users  
+The idea is to have a spreadsheet with: 
+date, tweet, media file & if possible engagement metrics""",https://www.upwork.com/jobs/Download-all-tweets-amp-media-from-Twitter-user-into-excel_~0181e07cd3170c1c66?source=rss
+tools, Modify script to scrape linkedin Jobs ,"""Hi everyone, 
+ 
+I am looking for someone to help me scrape some jobs data and append this data into google sheet or csv file. I have an existing script that can load data to google sheets so its not hard to just replicate. 
+ 
+Id like to provide a list of links and the script needs to crawl and scrape job data into a table. 
+ 
+thanks""",https://www.upwork.com/jobs/Modify-script-scrape-linkedin-Jobs_~01c459cb7a4338bf10?source=rss
+leads, Linked in data extraction  ,"""Need linked in data extraction  
+ 
+I will provide search url from sales navigator  
+ 
+Need every email address for the search (with company name, first and last name, and title) 
+ 
+Need hotel / motel / resort  owners, restaurant owners in US and Canada  
+ 
+Will pay per 1,000 records with email address """,https://www.upwork.com/jobs/Linked-data-extraction_~01fb70a03f70161141?source=rss
+leads, Lead Finding/Scraping Tool ,"""Hi, 
+ 
+I need to hire an experienced software developer who can build a feature for my website that allows our users to do the following: 
+ 
+1. select industry type e.g. HVAC, law firm, plumbing etc 
+2. select job title e.g. CEO, HR manager etc 
+3. select location e.g. country, state 
+4. press ""Find leads"" button that then returns relevant results 
+ 
+The obvious solution seems to be scraping linkedin and then taking all the data from linkedin and putting it into our own database.  
+ 
+There seems to be two potential problems with this: 
+- is it actually possible to scrape the entire linkedin website? Supposedely it's very hard to do this successfully do to the fact that they use advanced anti-bot software 
+- is there a way for us to update our data once a month so that our data doesn't get old? people change jobs and positions, so we need to make sure we can update our data once a month so we don't serve old data and information to our users 
+ 
+ 
+If you are reading this, and you are confident that you can build what I am describing, or at least something that can achieve similar goal to what I am describing, then please apply to this job post and also include one or two examples of your previous relevant work. 
+ 
+Thank you""",https://www.upwork.com/jobs/Lead-Finding-Scraping-Tool_~018ffa6652b7aace11?source=rss
+tools, Linkedin Data Scraper ,"""I am looking for someone with the ability to scrape Linkedin pages in bulk with the goal of getting the following: 
+ 
+I have a specific Linkedin channel that I would like to focus on.  
+ 
+Email address, phone number, name, handle, and any additional info (description).  
+ 
+And any additional information that we can pull.  
+ 
+I know there are APIs publicly available to do this and looking for someone with the expertise to run the scapes.  
+ 
+Thank you.""",https://www.upwork.com/jobs/Linkedin-Data-Scraper_~01780991d53043fa65?source=rss
+tools, Facebook Data Scraper ,"""I am looking for someone with the ability to scrape facebook pages in bulk with the goal of getting the following: 
+ 
+Email address, phone number, name, handle, and any additional info (description).  
+ 
+A list of their followers handles  
+ 
+And any additional information that we can pull.  
+ 
+I know there are APIs publicly available to do this and looking for someone with the expertise to run the scapes.  
+ 
+Thank you.""",https://www.upwork.com/jobs/Facebook-Data-Scraper_~01f93d20b608d5bf4c?source=rss
+data, Data scraping on Linkedin ,"""Objective : Scraping email addresses from marketing employees in the UK of selected companies on Linkedin.  
+  
+Goal : 10K minimum 
+ 
+Selected compagnies :  
+ 
+Datas to extract on linkedin :  
+Civility  
+Last Name 
+First Name  
+Position/job  
+Actual company 
+Company website  
+Email Address 
+Linkedin profile URL  
+Country = UK 
+City 
+Actual company logo 
+ 
+GOAL :  Min 10K verified emails address 
+ 
+File format : .XLS 
+ 
+Example :  
+Civility (eg:’’Mr) 
+Last Name (eg:”Ashraf”) 
+First Name (eg:”Ahmed”) 
+Position (eg”Product Marketing Manager, Mobile at Amazon”) 
+Company (eg”Amazon”) 
+Company website (eg”https://www.amazon.co.uk/”) 
+Email address (eg”....) 
+Linkedin profil URL (eg”https://www.linkedin.com/in/ahmedash270/”) 
+Country (eg”United Kingdoms”) 
+City (eg”London”) 
+Actual company logo (eg”https://media-exp1.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_200_200/0/1612205615891?e=2147483647&v=beta&t=DbdWu153GcoESwso9HD1UQ8Y4f-3b5XP5h7SiQSlQcE”) 
+ 
+Examples of job/position :  
+Content manager  
+CMO 
+Head of Campaign Production 
+Head of Digital & Social 
+Head of Video & Display 
+Digital Delivery 
+Head of content 
+Campaign Producer 
+Video & Display Lead  
+Display & Video Specialist 
+Customer Engagement & Marketing  
+Performance Marketing Activation Supervisor 
+Head of digital communication  
+Head of video communication  
+Digital Advertising manager 
+Head of digital Advertising 
+Brand Manager Marketing 
+Media Solutions Specialist 
+Product Brand Manager 
+Content Planner 
+Head of Content Discovery & Personalisation 
+Head of Creative Production, Marketing and Audiences 
+Head of Paid Social 
+Digital content production manager 
+Digital content distribution manager 
+Brand & Reputation Marketing Manager 
+Digital, Social and Content Marketing Specialist. 
+Head of Communications & Marketing""",https://www.upwork.com/jobs/Data-scraping-Linkedin_~015edc64aa38eb0a57?source=rss
+tools, Scrapping followers' presence data of our own Business Account with IG graph API ,"""Hi, we are managing a Business Account with over 100k followers and a related online mall. 
+We want to build a database about all the media and comments in our account with IG graph API. 
+We would never provide any data to a third party, just for managing our customers such as giving some advantages to loyal fans of our IG. 
+We already know it is possible, but we also want to know if it is an offense of META's policy. 
+Also we want to get some help or advise. 
+Of course we would pay reasonable price. 
+If you have an experience in similar project, please contact us.""",https://www.upwork.com/jobs/Scrapping-followers-presence-data-our-own-Business-Account-with-graph-API_~0133f7187f0037417a?source=rss
+tools, Can you use the LinkedIn API to get details of my friends? ,"""I would like to know if you could use a data scraping solution to determine the activity feed from my LinkedIn friends. 
+ 
+Simply put, I would give you the logins of X people - and I would want you to log in, check all of my friends (or a targeted selection) to determine if they have had any changes in their career status, posts, or even Likes. 
+ 
+Then, with the information, create a feed that is fed to a Salesforce interface to update the details of the people I wish to be tracking as per the data pull on a daily (or every eight hours) basis. 
+ 
+Programming language agnostic - and very curious if the LinkedIn API supports this.  If not, how would you resolve this? 
+ 
+I am looking for a project plan that spells out the rough estimate of the milestones and the deliverables.  For discussion sake, assume: 
+ 
+* You will have 10 logins and each log in has 500 profiles to track  
+* You will be checking for job changes, new posts and new likes since the last check 
+* If there are new pieces of content, you will provide a summary of the content in the output 
+* The final output of the check will have a json structure that you will drop in a file which will have the appropriate naming convention""",https://www.upwork.com/jobs/Can-you-use-the-LinkedIn-API-get-details-friends_~01ea88e7265f2b139d?source=rss
+leads, Linkedin Sale Navigator scraping through Phantombuster API. ,"""Hi Every one, I am looking for someone for linkedin scraping using Phantombuster  API. 
+ 
+I need the following fields: 
+-Company Name 
+-Company linkedin 
+-Company Headcount 
+-Industry 
+-Location.  
+ 
+More detail will be provide to the at interview.  
+Thanks.""",https://www.upwork.com/jobs/Linkedin-Sale-Navigator-scraping-through-Phantombuster-API_~0120c1f552cd3c2668?source=rss
+data, Social media comments extraction ,"""Expert if required to extract social medial comments for further analysis.  Selection of the experts will be done based on the previous experience in comments extraction.""",https://www.upwork.com/jobs/Social-media-comments-extraction_~01b3eab0622ec7662b?source=rss
+tools, Linkedin Job Scraper to RSS Feed to Import to Wordpress ,"""We'd like to do the following: 
+1. Scrape Linkedin Jobs listings to find jobs listed on Linkedin in Ireland, tagged with ""remote"" as a work option. 
+2. Extract that data and import that into a Wordpress website via WP Job Manager, potentially by creating an RSS feed and using an addon like this -  
+3. Ideally this can be done on a schedule automatically.  
+ 
+Please provide a sample of where you've done this in the past if possible so we can get a sense of your experience. """,https://www.upwork.com/jobs/Linkedin-Job-Scraper-RSS-Feed-Import-Wordpress_~0179f2d838a976db29?source=rss
+tools, Web scraping tool extracting data from website and putting into Google sheet ,"""We are wishing to regularly scrape/update data from the leaderboard on this website:   ('This weeks leaderboard') and put it into a Google sheet. It must automatically at regular intervals (eg. every 15-60min) and not require any maintenance. 
+ 
+The scraper would need to take the data from the 'This weeks leaderboard' table, and input the data into a google sheet and update the total number of riders accordingly and also reset at the start of each week (as it does on the strava website). 
+ 
+Please find attached an overview of the requirements. 
+ 
+Please use your own dev platform to test before being integrated onto our servers and link with our Google sheet. 
+ 
+Realistic bids only please.""",https://www.upwork.com/jobs/Web-scraping-tool-extracting-data-from-website-and-putting-into-Google-sheet_~011dc9683f7f5e0d66?source=rss
+data, Twitter follower scrape project / twitter ads ,"""Hi - we need to scrape followers from a twitter account with 300k+ followers. 
+ 
+This will be used to populate an audience for twitter ads to these same followers. 
+ 
+Please include in your reply ""I am detail oriented"" and provide some details on your background scraping twitter (twitter ads experience is also a plus but not required) 
+ 
+This project can lead to a significant amount of ongoing work for the right candidate. 
+ 
+Thanks for your consideration""",https://www.upwork.com/jobs/Twitter-follower-scrape-project-twitter-ads_~0158a93929a079fb2a?source=rss
+data, Scraping a Facebook Page ,"""I want someone to scrape us a facebook group to make a list of 9 thousand people that we can then upload on tiktok ads manager to target those people via tiktok ads""",https://www.upwork.com/jobs/Scraping-Facebook-Page_~0185020c6ef45b85f9?source=rss
+tools, Scrape Twitter looking for a certain URL ,"""I need an app created to do the following. 
+ 
+1. Continually spider and scrape Twitter for any posts containing any URL's from premint.xyz 
+ 
+2. Save the premint.xyz URL, twitter username that posted the link, and time of twitter post to a database and/or google sheet.  Make sure to only display the core premint.xyz/projectname url.  For instance many times a URL may look like    I would ONLY want the   part recorded into the database/google sheet. 
+ 
+3. Visit the premint.xyz link that was found and scrape the ""Registration Closes"", ""Number of Winners"", ""Official link"", H1, and Discord & Twitter links (if they exist) to the database and/or google sheet.  It needs to have the ability to switch between using a google sheet and or a database with a front end accessible through a web browser. 
+ 
+4. List all of the data for each Twitter post/premint.xyz into the same row in a google sheet and/or web page that is sorted by date of twitter post on default but can also be sorted by any of the columns. 
+ 
+5.  Have the option to filter results on the front end depending on each column.  For instance, if I wanted to search for a certain twitter username and see all of the posts they had with different premint.xyz URL's. 
+ 
+6. Check to make sure NO duplicate premint.xyz URL's are added to the database. 
+ 
+7. Ability to send email notification as soon as a new premint.xyz URL is found with all of the information collected also sent in the email.  I will also need the ability to turn email notifications on or off. 
+ 
+8. I will need well commented code and Instructions on how to set everything up. 
+ 
+ 
+IMPORTANT: When applying MAKE SURE to give a quick overview of which languages/technology's you would be using to accomplish the project along with a timeframe on how long you estimate it will take to complete.""",https://www.upwork.com/jobs/Scrape-Twitter-looking-for-certain-URL_~016e90a29c60a90c41?source=rss
+data, Scrape and compile data from Facebook posts in a group page ,"""I’d like to have all of the machine makes and models listed for sale from the past few years in a specific facebook group compiled on an excel spreadsheet or csv format document please.   
+ 
+Data should include:  
+Make 
+Model 
+Year 
+Weight 
+ 
+Whatever other common data is listed """,https://www.upwork.com/jobs/Scrape-and-compile-data-from-Facebook-posts-group-page_~0108b32e31cf314174?source=rss
+data, FB Group Data Scrapper ,"""We are in need  of  a data scraper to who can get info from different Facebook groups such as the following: 
+-Name 
+-Phone 
+-Email 
+ 
+ 
+""",https://www.upwork.com/jobs/Group-Data-Scrapper_~01c2967f2a99020e3b?source=rss
+data, Instagram scraping needed ,"""We need to scrape the usernames, first names, last names and public emails of 2 Instagram accounts with a total of 100,000 followers. 
+ 
+Please mention examples of similar jobs you did in the past, thanks!""",https://www.upwork.com/jobs/Instagram-scraping-needed_~0172873a870753b29a?source=rss
+data, Instagram Followers Scraping ,"""Hi, 
+I am in need of a expert web scraper who can scrape the followers of this instagram handle ( buyongalaxy ) with their username and their follower counts. 
+That's it. 
+ 
+Thanks.""",https://www.upwork.com/jobs/Instagram-Followers-Scraping_~0111537bcd375714b9?source=rss

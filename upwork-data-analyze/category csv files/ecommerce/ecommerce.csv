@@ -1,0 +1,773 @@
+jobs_type,title,jobs_text,URLs
+tools, Eccomerce Bot Developer ,"""We are looking for somebody who is able to create an automated bot for eccomerce purposes which can include price tracking and (most importantly) auto checkout from price drops. 
+ 
+At the moment, we source mid-competition products and are able to achieve this mainly with manual methods. The products are not the most competitive products out there but will still sell quite quickly. 
+ 
+The budget for the project is just a starting point. It would be great to build a relationship with someone and to get any nessecary updates over time. 
+ 
+It would also be great to get some professional advice on safe using of the bot (avoiding cancellations/suspensions). 
+ 
+The right person is simply someone who knows this area and how to do the job. 
+ 
+When applying, please mention ""purple cow"" just to show you have read this and it's not an automated copy/paste application. 
+ 
+We can handle payment within Upwork so both parties are protected. 
+ 
+Before starting, it would be great to discuss the project and what is involved (for example: the site in question we want to source from). 
+ 
+Looking for a long term relationship for any releveant future projects as well. 
+ 
+To apply, simply let me know what you think (informally) of the above and any questions. I can give more specifics. 
+ 
+Many thanks 
+ 
+James and Nick""",https://www.upwork.com/jobs/~014061143c638566ae
+tools, Expert Python Developer | Web Scraping Expert ,"""Hi  
+ 
+We are looking for an experienced Web scraping & Data Mining Expert to help with large volume product data script.  
+•	Script must be very Fast  
+•	Script must be able to scrap large Volumes of data 
+•	Set up script on the server and must be automated 
+•	Script must use Proxies  
+•	Python / Beautiful Soup / Selenium / Scrapy  
+ 
+(link removed) 
+ 
+Please see highlighted section in screenshots below 
+ 
+1.	(link removed) 
+2.	(link removed) 
+3.	(link removed) 
+4.	(link removed) 
+ 
+ 
+""",https://www.upwork.com/jobs/~017869e793fbcdd6cb
+data, Product Data Scraping + Quality ,"""Our client is a wholesaler in construction supplies. They have made a deal with another company to resell their products. But the company is not providing any product data. They state the client has to take it from their website. 
+ 
+So therefore we are in need of someone that can help with the scraping of data from this company website.  
+ 
+All products that result from the below query should be scraped and exported in Excel/CSV: 
+ 
+ 
+All images should be saved seperately (in a logical way), so that all downloads can be re-uploaded to the client website after editing in Excel (price adjustment etc.).  
+ 
+The job is straight forward. Looking for someone that can scrape this automatically, without too much hassle. No manual labor.""",https://www.upwork.com/jobs/Product-Data-Scraping-Quality_~01c0c5661543d49705?source=rss
+data, Product Image Extraction_February2022 ,"""Extract the Product images and documents for the given part numbers from the addressed website. 
+and save the images into a separate folder and capture the Image name in the excel.""",https://www.upwork.com/jobs/Product-Image-Extraction_February2022_~01810418d1d35fd088?source=rss
+tools, Scraping data from a website and put it in excel file ,"""Hello, 
+ 
+I want to create a web scrapping bot that get information from a webpage and compare the price and the other criteria that I choose.  
+For exemple the bot will search in all the toys in ""target.com"" website and compare (based on the criteria chosen) . Later the products which i expect will appear in excel file with  amazon link. 
+ 
+Let me know if you have any question. If you are eligible to do that, we will discuss further details. 
+ 
+Thanks""",https://www.upwork.com/jobs/Scraping-data-from-website-and-put-excel-file_~011fc7601c36ae3fae?source=rss
+data, Data extraction - All product informations of a website ,"""Hello,  
+ 
+I would like to have all the informations of all products on this website (around 4K product pages) 
+ 
+ 
+You'll find joined an exemple of the information needed for the product page : """,https://www.upwork.com/jobs/Data-extraction-All-product-informations-website_~016637ef30d8416713?source=rss
+tools, Scrape Shopify Products & Import To Woocom ,"""I want to do this job give this offer to me i will do my best""",https://www.upwork.com/jobs/Scrape-Shopify-Products-amp-Import-Woocom_~01a35c0194ab78a849?source=rss
+tools, Ecommerce scraping for Nordstrom ,"""I'm looking for some help in writing robust scrapers for Nordstrom. 
+ 
+- I'm looking to scrape all products from Nordstrom US. 
+- The scraper should be able to bypass each website's anti-scraping protections (if there are any). 
+- The scraper should be able to be run daily (if possible, otherwise weekly is fine). If the product's price or availability changes, the changes should be updated in the database. 
+- The scraper should be deployed onto EC2. AWS IAM credentials will be provided. 
+- The data should be ingested into a Postgres database. The schema for the database will be provided. The credentials for the database will be provided. 
+- Choice of language is ideally in TypeScript, but Python or Ruby is fine as well. 
+ 
+Please note, if the scraper is not able to work, there will be no payment. 
+ 
+I repeat, there is no payment if you don't successfully complete a working scraper that can work in production for at least 1 week. Do not pick this job unless you are confident that you can bypass Nordstrom's anti-scraping protections. 
+ 
+Deliverables: 
+- Running scraper in EC2 
+- Full code for the scraper, including all dependencies and instructions how to use it""",https://www.upwork.com/jobs/Ecommerce-scraping-for-Nordstrom_~01f91b50ae29a45b9f?source=rss
+tools," Write script to scrape Ebay a seller's listings: item title, price, quantity sold ","""I need a python script (or ebay API) to scrape an ebay seller's listings. For example user:  . 
+ 
+Seller has 635 items so there should be pagination if possible since ebay can only display 200 items at a time.  
+ 
+Scrape: item title, price, and quantity sold.  
+ 
+Output to CSV.""",https://www.upwork.com/jobs/Ebay-scrape-all-seller-listings-item-title-price-quantity-sold_~017b2a796f010c9b3b?source=rss
+tools, Looking for Webscraper with Shopify Data-feed managmenet experience ,"""Hi there, 
+ 
+Looking for someone who can connect our datafeed sheet of 12,000 products with our Shopify store. 
+ 
+For each product row on the sheet, you will have to: 
+ 
+1) Find the URL of the match  on internet and scrape the product page details. 
+ 
+2) You will have to correctly upload all the datafeed product details (including scraped data) onto the shopify store. 
+ 
+3) The youtube video matching the product has to be found and uploaded as well on the respective product page. 
+ 
+As new products become available on the sheet the scraping, product upload needs to be repeated over and over again. 
+ 
+Please note that this is a bulk automation project NOT a manual one-by-one edit and upload. 
+ 
+In your proposal, please explain in detail what is your solution to tackling every single point mentioned above. 
+ 
+If you do not explain your solution and timeline in detail, your proposal may get ignored and not responded. 
+ 
+Thanks, 
+ 
+Hani""",https://www.upwork.com/jobs/Looking-for-Webscraper-with-Shopify-Data-feed-managmenet-experience_~01127674357f3ce86f?source=rss
+tools, Developing web scraping program ,"""We would like a program that allows us to scrape our competitor websites. Our business is to buy used Apple products from customers. We and our competitors has a caculator on there site that shows people how much they will receive for there used Apple products. The core of this program is to scrape the prices that our competitors give to there customers. 
+ 
+For example one of our competitors is Swappie (check screencast): I calculated a iPhone 13 Pro Max. We want to have all the different prices like this in an excel sheet (check attachments)  
+ 
+Our competitors are: Swappie, 123verkopen and mresell.""",https://www.upwork.com/jobs/Developing-web-scraping-program_~0171c4034f94c681b9?source=rss
+data, Data extraction/ mining/ scraping of Amazon and Noon for the top selling items ,"""I'm looking for someone who is capable of scraping Amazon and noon for the top selling items of certain categories  
+ 
+When sending your offer, please provide a list of your pervious work""",https://www.upwork.com/jobs/Data-extraction-mining-scraping-Amazon-and-Noon-for-the-top-selling-items_~01840267b104aab766?source=rss
+tools, Build a comparison tool ,"""Parts of this job may require database and indexing skillset.   
+View the Comparison Tool 2022 file to see more details about this job. 
+ 
+This job will be broken up into 3 milestones.   
+ 
+Milestone 1: $50 
+Write code that edits excel files and reprints the data on 2 new tabs in a vertical format instead of the horizontal way it is now. 
+ 
+Milestone 2: $200 to $250 
+Create an app/program that finds all the outputs that are within proximity of each other and present them in a bucketed manner. 
+ 
+Milestone 3: $250 to $450 
+Add functionality to the program created in milestone 2.  
+Make custom searches available.   
+ 
+I use Excel to manually perform my searches.  You can use whatever you determine is best for this job.   
+I need all three milestones complete before Wednesday, February 2nd.  If this work is beyond your skillset and/or you can't complete it by then, please don't apply.   
+ 
+Those who want to be considered for Milestones 2 and 3 need to download the updated Tester File(s) and look at how I perform milestone 3 manually on the results sheet.  This is the process I need automated.  Example 3 is critical in understanding my process.  
+Show your competency by creating a report for time block 61, making buckets between 23.270 and 23.320 for group 1 only..  This is a very small area of the potential full range.  Provide what you think buckets should look like for milestone 2 and 3 for the range I just mentioned.  Use a proximity of 0.003 for when a mandatory time is found.  
+Send me your results and I'll check to see if you got the right answers.  If you do, then I know I can give you the job. 
+ 
+Here's an overview of the Grid file your program will be working with.   
+Typically, Gird files come with about 3.6 Million outputs spread out over 300 Time Blocks.  Each Time Block has about 12,000 outputs.  Each group in a Time Block has about 4,000 outputs. So when your program searches one time block, it searches each group for matches, potentially searching up to 4,000 outputs at a time.    
+When the request is to search 3 times block at once, for example, your program would be comparing 12,000 outputs per group.  """,https://www.upwork.com/jobs/Build-comparison-tool_~011fde315b409f97ca?source=rss
+tools, A Python code for Walmart API to setup listings ,"""I am looking for a short Python code that can bulk create/update listings using Walmart partner API (post).""",https://www.upwork.com/jobs/Python-code-for-Walmart-API-setup-listings_~010561d72a8c8f460b?source=rss
+tools, Senior Python Scrapper with Shopify development experience  ,"""
+We are looking for team or expert this may be dual role 
+ 
+1-  Python Scrapper to help us  create the automation to scrap the website they will be listing the products to Shopify  
+1-  Shopify Web Development complete the development of shopify products  
+ 
+ 
+ 
+Additional information  
+Scape Various products from websites 
+apply the pricing rules and create in readable format for shopify 
+Create the schedule automation format  
+Create the Shopify readable format  
+ensure the accuracy of data in transformation 
+complete the development of shopify website  
+ 
+ 
+For consideration  you must have following  
+ 
+you are aware of shopify file format 
+you have done web scrapping to load the products in to shopify  
+ 
+ """,https://www.upwork.com/jobs/Senior-Python-Scrapper-with-Shopify-development-experience_~017fd7e2a2f9b8816e?source=rss
+tools, Price scrape API developement ,"""Need to to develop a pricing and description API for retail products scanning""",https://www.upwork.com/jobs/Price-scrape-API-developement_~01960dcee6e09a7ebc?source=rss
+tools, Website Scraper ,"""Scrape 7 e-commerce websites. 
+ 
+The functionality of scrapers includes: 
+ 
+Collection of specified information on each page (breadcrumb, description, tabular data etc.). 
+ 
+Ability to log in and then: 
+   -Ability to scrape the entire site. 
+   -Ability to scrape the price of an item from a single webpage on demand. 
+ 
+Deployment of these functionalities as a fastAPI. 
+ 
+Code to be handed over upon completion of the above.""",https://www.upwork.com/jobs/Website-Scraper_~012611b70cc561a47a?source=rss
+tools, Script to scrape Website and update Wordpress  ,"""Coder to do script to import products by scraping and import into woo commerce""",https://www.upwork.com/jobs/Script-scrape-Website-and-update-Wordpress_~0149b1fcce94264a96?source=rss
+tools, Web Scraping after purchase ,"""Hey I need a programm that when somoene buys something on my shop. The program automaticly buys it on a other webshop. When the program buys it on my account on that other webshop. It will recieve an alt account (an game account) that is completly legal, you can check fot yourself later. Then the bot needs to login into the account on the website where the alt is bought and it will see what I will attach in files. (Picture of screen with purchases). Then it can do 2 things. Or copy the new account. Or Download it als .TXT. After that the login details or TXT need to be send to the customers email, from our business email. With some text then the .TXT file or the log in details. I know this is really complicated but yes. I also atatched PDF with all info.""",https://www.upwork.com/jobs/Web-Scraping-after-purchase_~01722137e8bcba1338?source=rss
+tools, Amazon Number checker ,"""You can use any language any script 
+all i need is i will upload list of phone numbers in .csv or .txt file 
+and download output in .csv or .txt 
+and software will start looking numbers are register or not on amazon 
+i need super fast without geting ip block or any delay 
+SPEED IS IMPORTANT FACTOR 
+you can use multiple thread or do any thing all i need is super fast 
+without proxy vpn or extarnal browser running on screen 
+need software """,https://www.upwork.com/jobs/Amazon-Number-checker_~01bd7cb15c6fa423b4?source=rss
+tools, Create a Website scraper for my website ,"""Create a Website scraper for my website That takes data from another Wordpress website to ours.""",https://www.upwork.com/jobs/Create-Website-scraper-for-website_~011b668c6e0cbb0b73?source=rss
+tools, Data Scraping using Python ,"""Hii All, I am working on an opencart ecommerce website project. 
+the website is based on Ayurvedic medicines under the domain name ayurvedmarket.com. 
+i am from india and i need data of all medicines of all major ayurvedic companies in India(take example from : 1mg.com) 
+ 
+i need (Multiple Images+ price(MRP and discounted price)+ description+ substitutes)""",https://www.upwork.com/jobs/Data-Scraping-using-Python_~019e0d5fdbdd0d3ae4?source=rss
+tools, Product Page Scraping Bot ,"""Our product Trolli is a Chrome extension shopping basket. When a Trolli user is (signed in and Trolli is active) is on a product page Trolli will manually scrape relevant information from the page (The product price etc) and will display this on our widget, giving the user the option to save this item (and the info) in their basket. 
+We would like the automate this process, as well as automatically adding new websites to be scraped, as a user visits a new website. 
+Objective: 
+To scrape from a webpage - Webpage URL, Website name, Product title, Product Image, Product 
+Price. 
+ 
+Currently: 
+We have a JSON file websites' with a dictionary of websites. 
+We manually inspect each webpage and take the classname (and for some cases - for the image the child element) for each relevant div. 
+These classnames are manually added to our JSON file which is then called when we run our extension. 
+ 
+url: 'aliexpress.com' 
+website: 'aliexpress' 
+titleSelectors: ['.product-title'], 
+imageSelectors: ['.image-view-magnifier-wrap img'], 
+priceSelectors: ['.uniform-banner-box-price'], 
+ 
+On each webpage we run our JS and loop through the 'websites' urls until we have a match with the current location.href 
+When we have a match we have a function to getTextElement or getlmageElement by using the 'websites' selectors to querySelector the relevant information. 
+ 
+What we want: 
+When Trolli is active and a user is on any web page: 
+- To recognise a product page (looking for relevant info - price etc) 
+- Automatically scrape the ÜRL, website name (usually from URL), title, image and price from page. 
+JSON file to be automatically updated when a previously unknown website is added with the info (above.) 
+(We will then integrate this into our function for displaying and saving the info) 
+(An automated testing/QA system)""",https://www.upwork.com/jobs/Product-Page-Scraping-Bot_~017b03e2311706d515?source=rss
+tools, Scrape website data so we can create a mock API ,"""We have a number of retail websites we wish to scrape so that we can create mock APIs to test the product we are building.  
+ 
+This work will involve: 
+ 
+1. Going to the retail website (we will confirm them with you when you start).  
+2. Scraping each category of product for the name, image, pricing.  
+3. Populating this into a Google spreadsheet.  
+""",https://www.upwork.com/jobs/Scrape-website-data-can-create-mock-API_~015a6792e9309a7f94?source=rss
+tools, Script for price comparison data ,"""I am looking for someone to create a script to undertake insurance quotes. I can provide the inputs for each of the quotes - there will likely be 5-10 different set of inputs for different risks. 
+ 
+I'd like to run the script on aggregator websites (which I can provide) and export the results that are returned or connect them to and display them on a wordpress site.   
+ 
+The frequency of this is likely to be monthly initially, so would need someone willing and able to repeat this in that timescale. But perhaps if it's possible to build this to pull in real time quotes. 
+ 
+To be a best fit for this project you need: 
+ 
+- Ability to communicate clearly 
+- Dedication to meet project deadlines in a timely manner 
+- Attention to detail 
+- Willingness to sign an NDA 
+ 
+If you are interested in this project, please reply with your prior experience. 
+ 
+- How would you tackle this problem. 
+- A list of qualifications that make you suitable.""",https://www.upwork.com/jobs/Script-for-price-comparison-data_~017a244688d61f39f9?source=rss
+tools, Shopify custom app  ,"""Hi im Shuayb ahmed 
+ 
+I would like a private shoplify app created for a new website that I am building,  
+ 
+What I want is a way to filter through other websites like, zara, H&M, Nike, primark, Footlocker, JDsports etc and more websites in the future, what products on their sites are available in store, and with that information, id like to be able to list the products that are in store on my website if that is ok, and if new products are added to the store, or no longer in the store my website is updated with that information 
+ 
+This will only be for London region, for now 
+ 
+I want to make it so in the future we can easily add more stores and more options if that is ok  
+ 
+We want to be able to change titles, and descriptions on our own website for each listing that is put on, but we want to make sure that when the availability is no longer in store then the listing is put as out of stock. 
+ 
+We currently do this in our MVP manually by selecting the item of clothing and pressing the availability in store button and putting our postcode, so we want to automate this process using this function that is already on  these stores websites""",https://www.upwork.com/jobs/Shopify-custom-app_~0146a38d0e4aa30c44?source=rss
+tools, Collect data via scraping ,"""Hi, 
+ 
+We would like to scrape some website to verify that our product are in online. 
+1/ scrap a list of website 
+2/ compare this data with our list 
+ 
+2 times a week at the beginning 
+ 
+We do not have an idea of price 
+then bugdet is open, we can discuss together. Thanks""",https://www.upwork.com/jobs/Collect-data-via-scraping_~01430f32a9c853ee5d?source=rss
+data, Product Details Web Scrape ,"""We are looking for someone to scrape a website for all product details and input them into an excel template. Details and instructions will be explained via chat upon further interest!""",https://www.upwork.com/jobs/Product-Details-Web-Scrape_~0159ad42a193dd5dc8?source=rss
+data, Web Scraping for Auction Data ,"""Looking for someone who can scrape auction data from an e-commerce website and compile into an analyzable format.  
+ 
+Deliverables: 
+Database that shows total items listed on auction, # of bids received on the item, whether the auction ended without a bid, etc.""",https://www.upwork.com/jobs/Web-Scraping-for-Auction-Data_~01ddb5f84b84a90857?source=rss
+tools," Data mining, Web scraping & Data extraction ","""We are looking for an expert on data mining, web scraping & data extraction to develop an internal tool to monitor the revenue, page view and conversion trends of products on marketplaces across the world.  
+ 
+We would like to get an estimate for this project.  Thanks. 
+""",https://www.upwork.com/jobs/Data-mining-Web-scraping-amp-Data-extraction_~01b11abad5b3396c8d?source=rss
+data, Data Scrapper for E-commerce ,"""Looking for an experience web data scrapper to download products from various E-commerce websites and provide the data on Excel file. 
+Applicant should be able to download from given URL's the product name, product code, Short description, full description, price, ingredients, image URL. 
+If product has variation - you should be able to identify when scrapping. 
+If you are familiar with CS cart (this will be the destination - where the files/products you scrapped from other sources) will be imported to) - it will be a huge advantage. 
+you should have your own tools for scrapping. 
+This will be an ongoing project - so we prefer to work with an experienced scrapper that will be ready to commit and meet agreed deadlines.""",https://www.upwork.com/jobs/Data-Scrapper-for-commerce_~013744a1322cc4d50d?source=rss
+tools, I need scraper to update my catalog ,"""I've eCommerce but I've had difficulty to update my catalog. 
+I'd like to create a scraping about it, but I don't have scripting knowledge and I need your help to create it. 
+I don't insert the budget. About it, we can agree through email. 
+Thank you so much!""",https://www.upwork.com/jobs/need-scraper-update-catalog_~013a7e7c9bf3d5c2b5?source=rss
+tools, Amazon Scraping Programm needs support ,"""I have already a programm which scrapes data out of Amazon and works with the Amazon API. It now needs support, due that the other programmer doesnt want to support it anymore. Its an ongoing job with monthly payment. I estimate the monthly effort to 2-3 hours. It also needs now already a little update. More information private.""",https://www.upwork.com/jobs/Amazon-Scraping-Programm-needs-support_~01d3a918a90bb11b7c?source=rss
+data," Data scraping for Shopee, Lazada websites  ","""Data scraping of shops within the 4 selected categories: 
+1. Computer & laptops 
+2. Beauty & personal care or health & beauty 
+3. Women’s fashion 
+4. Home & living or home & lifestyle 
+ 
+For Shopee and Lazada websites in Thailand, Vietnam, Malaysia, Indonesia, and Philippines. 
+ 
+These are e-commerce platforms like Amazon where shops can list their items for sale. Websites are structured in listings, so likely will have to go into each listing to get store information. 
+ 
+Data to be scraped:  
+Shops details and metrics: 
+ - Avg. reviews 
+ - Chat response % 
+ - Joined since xx months 
+ - etc, etc. 
+ 
+If possible: 
+- Expanding scope to all shops in the website 
+- For Lazada, calculating the average review of each shop using reviews of all of its listed items""",https://www.upwork.com/jobs/Data-scraping-for-Shopee-Lazada-websites_~0110fea02eefd336ee?source=rss
+tools, Collect products data from multiple websites ,"""We are looking for someone who can build a tool(scrapper/crawler) to collect data from a list of 1000 different websites as a start. 
+ 
+If the results are positive and the data is consistent and passes spot-checking there will be more. 
+ 
+The data we need consists of products details (category, size, price...) along with some other information mentioned on these websites. 
+ 
+An excel template will be provided with the full data columns required. 
+ 
+We also require an estimate on the time that this would take to ""programme"" the Scraper 
+and the time it will likely take to collect the data and the software that you would use to populate the template. 
+  
+Please send an offer if you able to deliver on the above.""",https://www.upwork.com/jobs/Collect-products-data-from-multiple-websites_~018659e362081866f9?source=rss
+tools, Scrape eBay data and compare to list of product IDs ,"""Scrape this eBay data:  
+ 
+Using the 'title' of the eBay listing, see if products scraped from eBay match any of the products in the attached file (there are four tabs).  
+ 
+The end product should be our excel file with each of the four tabs being populated with a low and high price for any excel product IDs that match eBay listings in that scraped data. I would also like the scraped eBay data, to check your analysis.""",https://www.upwork.com/jobs/Scrape-eBay-data-and-compare-list-product-IDs_~015a791423f1d8f304?source=rss
+data, Web Scraping Ecommerce Sites ,"""I need all of the data for each product listed for sale at  
+ 
+The data must be delivered with category, product name, price, quantity (the amount in which it is sold), description, and photo.  
+ 
+Please tell me the method you will use and what best practices you will implement.  
+ 
+Provide a sample set of data that represents the final product.  
+ 
+To be delivered in .csv. 
+ 
+Additional tasks will be given if this is completed timely and successfully.""",https://www.upwork.com/jobs/Web-Scraping-Ecommerce-Sites_~013bfa924d6851d0f3?source=rss
+tools, Offers extraction from Amazon Scraping ,"""Sir, 
+We need a set of offers listings datas from Amazon pages, based on ASIN we will provide. 
+ 
+We will need to update the informations every 2 or 3 Months. 
+There will be 4 - 6 runs / year. 
+ 
+We do not need the tool, we need the result in the form of Text / Excel / access file.""",https://www.upwork.com/jobs/Offers-extraction-from-Amazon-Scraping_~01b701de91aaa3e489?source=rss
+data," Download products from Amazon, Wayfair extract height ","""I need to download products from amazon.com and wayfair based on a search query: 
+""standing desk"" and parse the results into a spreadsheet with the following: 
+ 
+`product url`, `product title`, `product description`, `product price`, `max height`, `width` 
+ 
+where `max height` is typically part of the product text description. E.g in this example:   it says ``` transitioning from sitting to standing from 28"" to 46"". ```` - this means Max Height is 46"".  Crude extraction based on matching the quotation marks is ok.  
+ 
+Ideally the script works in google sheets, so that the search keywords can be adjusted, but I would also accept if I need to provide you a list of queries and you send me back CSV or Google sheet files. This is meant to be a quick task.""",https://www.upwork.com/jobs/Download-products-from-Amazon-Wayfair-extract-height_~01e2a636df88f4f264?source=rss
+data, eCommerce website scrape ,"""Need help with scraping product data from one of my supplier's websites.  
+ 
+Please see the attached spreadsheet with a list of URLs and the second sheet with desired data output format. 
+ 
+Please review the task carefully as I will need all data from all the supplied 12,000+ URLs. 
+ 
+This should hopefully be a fairly easy task for someone experienced with creating automated scripts or data extraction software. 
+""",https://www.upwork.com/jobs/eCommerce-website-scrape_~01e87f37b2a93127fd?source=rss
+data, Export Blog Posts from RSS feed to Text Files or WordPress Simple Site ,"""I need someone to scrape all the posts from this site: 
+ 
+(link removed)/ 
+ 
+I am the owner of this site and the current host (jigsy) does not offer an export feature for the blog posts.  The website will be deleted on 3/20/22 due to the cancellation of the service. 
+ 
+I want to save my posts.  There are about 350 posts altogether. 
+ 
+I don't care about the images or tags for each post. 
+ 
+I only care about: 
+The Title 
+The body text of each post. 
+ 
+Option 1: 
+ 
+You extract the text of each post and create a text file for each post. Then deliver all the text files in a zip file. 
+ 
+Option 2: 
+ 
+You extract the text of each post and put them all in one single Google Doc file. 
+ 
+Option 3: 
+ 
+You export each post into a WordPress site, then create a backup of all the posts so I can import it all into a new WordPress site myself. 
+ 
+Option 4: 
+ 
+You export each post into a new WordPress site that I will create and give you access to. 
+Once all the posts are into the new WordPress site I will clean them up, add the images, and tags, etc. 
+ 
+I'm looking for options. If you have any other suggestions please feel free to let me know. 
+ 
+Eventually, all these blog posts have to be transferred to a new site in some way. 
+ 
+I just don't have the time to do them all right now and my last resort will be to copy/paste each post individually and get to this when I have time. 
+""",https://www.upwork.com/jobs/Export-Blog-Posts-from-RSS-feed-Text-Files-WordPress-Simple-Site_~018eb93e68dddd353a?source=rss
+tools, Amazon SKU Match in Excel ,"""Find SKUs for a list of products within an inventory spreadsheet.  The list contains 400 products.  The inventory spreadsheet contains 1200 items.  Need to find the best match for each product from the spreadsheet.  """,https://www.upwork.com/jobs/Amazon-SKU-Match-Excel_~0198b7c5896200b56c?source=rss
+data, Web Scrapping Amazon ,"""Web Scrapping Amazon products for a search query. I myself tried but was not able to it for all pages. If it works for other sites then amazing. Basically one who is expert with parse hub""",https://www.upwork.com/jobs/Web-Scrapping-Amazon_~01697815ca5fe8ca82?source=rss
+leads, Ecommerce Web Scraping - Extract Information from Websites ,"""Hello, 
+ 
+We have a list of 8,000 ecommerce websites. We need to extract the following information from each site: 
+ 
+- Total products pages 
+- Total non-product pages 
+- Legal name of company (such as XYZ Inc, XYZ LLC) 
+- Physical/mailing address of office 
+- LinkedIn address of owner, CEO, founder of company 
+- Identify if the company has physical store locations 
+""",https://www.upwork.com/jobs/Ecommerce-Web-Scraping-Extract-Information-from-Websites_~019db54a287ff633ab?source=rss
+tools, Crawler for Product Page URLS ,"""We are looking for a developer with web crawling/scraping experience to write an automated process to search for product SKUs for a list of URLs.  We have a client that wants to determine which SKUs are represented on a list of locations that carry their products.  I can provide the URLs and the product SKUs.  """,https://www.upwork.com/jobs/Crawler-for-Product-Page-URLS_~0154775cd661102c6b?source=rss
+tools, Crawler for Product Page URLS ,"""We are looking for a developer with web crawling/scraping experience to write an automated process to search for product SKUs for a list of URLs.  We have a client that wants to determine which SKUs are represented on a list of locations that carry their products.  I can provide the URLs and the product SKUs.  """,https://www.upwork.com/jobs/Crawler-for-Product-Page-URLS_~0154775cd661102c6b?source=rss
+tools, Scrapy for ecommerce websites ,"""We have to scrape a number of ecommerce websites. Experienced developer please apply""",https://www.upwork.com/jobs/Scrapy-for-ecommerce-websites_~01b1affc5335776b77?source=rss
+tools, Website & Product Data Scraping ,"""We require the services of a professional website and product data scraper. 
+Our client needs the existing product data on their website which is hosted on webflow scraped into a format for adding to their new Shopify site.""",https://www.upwork.com/jobs/Website-amp-Product-Data-Scraping_~01f0e310ff0af7c4ec?source=rss
+leads, Shopify Store Owners ,"""I am looking to contact Shopify Store Owners however need their contact details in order to contact them. 
+ 
+Company Profiles (attached) to be completed for all Amazon and Shopify Online Stores by Country. 
+ 
+The expectation is there would be a minimum of 500k lines of entry. 
+ 
+If you plan to do this manually please don't apply. This is not an admin role. 
+""",https://www.upwork.com/jobs/Shopify-Store-Owners_~0146c26f135e24d149?source=rss
+tools," (Google Shopping + Manual Scrape shops) Price monitoring, comparison & repricing tool ","""Hi There, 
+ 
+I'm looking for someone with experience crawling prices from various e-commerce websites. I need a Price monitoring, comparison & repricing tool. 
+ 
+We want to apply this for internal use only. Perhaps someone has established a platform before? We will host this server ourselves. 
+ 
+Hope someone can help me.""",https://www.upwork.com/jobs/Web-scraper-for-commerce-Woocommerce-dynamic-pricing-Google-Shopping-Manual-Scrape-shops_~0126a4d50537a29a4c?source=rss
+tools, Retail Price + Data Scraper (Python) ,"""I am looking for a Python scraper to extract prices and other data from a popular retail website.  
+ 
+I will provide a set of root pages and you extract all the products on the page.  
+ 
+Then you will save this data into an SQLite database using provided schema. 
+ 
+Requirements: 
+-Peewee or SQLAlchemy 
+-asyncio or threading/queue for concurrent requests 
+-Multiple proxy support 
+ 
+This is a paid interview, if this goes well you will get more projects.""",https://www.upwork.com/jobs/Retail-Price-Data-Scraper-Python_~01334c37ed21fb59fb?source=rss
+data, Mobile Application Data Scraping ,"""Hi, 
+ 
+There is a big eCommerce mobile application in our country like amazon. 
+ 
+We want you to scrape all product information (Name, Price, Image, etc) and export them to a website. We would like to see storage that data and create a chart or excel sheet. 
+ 
+We want to see changes and historical data as well after we collect data. Want to see live daily data too. 
+ 
+eCommerce company doesn't have a website so you can't scarape data from a webpage  
+ 
+They have only a mobile application so you will get the information from the mobile application. 
+ 
+Please send me the details of your previous work. give me an estimated time and budget. 
+ 
+ 
+""",https://www.upwork.com/jobs/Mobile-Application-Data-Scraping_~01b84f327bdcf076bf?source=rss
+data, Scrape data from a mobile app ,"""The task is about scraping data from a mobile app and storing it in a CSV format. The data is in the standard form of a list of products with name, unit, price etc.""",https://www.upwork.com/jobs/Scrape-data-from-mobile-app_~015afb47ddde8cefb7?source=rss
+tools," Scrape products detail from different ecommerce websites
+ ","""Need to Scrape products detail from Different E-commerce websites. 
+List of websites will be provided but we have some requirements. 
+If you think you are the one then First of all check our requirements and all the details of the project by Clicking at Sections on the web page given below: 
+(link removed)""",https://www.upwork.com/jobs/Scrape-products-detail-from-different-ecommerce-websites_~01255794e59ece94be?source=rss
+tools, Need web scraping help for moving old Wordpress blog to new Squarespace blog ,"""Hi, I need to move ALL old blog posts from Blog #1 on Wordpress to a new Blog #2 on Squarespace. 
+ 
+Blog #1 is here: (link removed) 
+ 
+You can see there are 22 pages of blog posts -- so, there seem to be roughly 100 old blog posts that I need to move over. 
+ 
+You do not need to edit any of the posts. I only need to grab all of the old blog info and paste it over to my new blog as plain text. 
+ 
+Ideally this could be done with a web crawler or web scraper of some kind? I am not sure. 
+ 
+The final deliverable will be complete when all the old blog posts have been successfully moved over to the new blog.  
+ 
+I will share the URL for the new blog once we start to message with one another. 
+ 
+Thank you!""",https://www.upwork.com/jobs/Need-web-scraping-help-for-moving-old-Wordpress-blog-new-Squarespace-blog_~0148f220883bc2a48d?source=rss
+tools, Content Scraping and Product Creation  ,"""I'm looking for someone to pull product imagery from brand websites for e-commerce product detail pages. I need clean and crisp looking product and will provide the list of UPCs to be focused on.""",https://www.upwork.com/jobs/Content-Scraping-and-Product-Creation_~01ac21d8b3c3ebead3?source=rss
+tools, asyncio Python Retail Price Scraper ,"""I am looking for a simple scraper built using python, asyncio and stores to an SQLite database using a specific provided database schema.  
+ 
+The retail site is a fast fashion retailer. The goal is to extract prices, titles and other fields from a specific section.  
+ 
+The end deliverable is the scraper code itself functioning as outlined above. I expect the crawler to be built in a modular and re-usable fashion. 
+ 
+To apply please share your scraping experience. And also your knowledge of asyncio or willingness to use asyncio for this project. Thank you for your time.""",https://www.upwork.com/jobs/asyncio-Python-Retail-Price-Scraper_~0120982b986f092f06?source=rss
+tools, Need Expert form Website Scraping (Woocommerce) ,"""Hi  
+We need Quotation for 2000 products Scraping. Please check Attachments. 
+We require CSV/Excel Sheet in WooCommerce Format. 
+Here is a Link as A demo. 
+ 
+Thank you  
+ 
+ 
+""",https://www.upwork.com/jobs/Need-Expert-form-Website-Scraping-Woocommerce_~01c9834bd0d19aa83c?source=rss
+data, Scraping amazon data ,"""Extract product data from amazon.com and put product details in csv file. The images should be named by product name followed by count of images.""",https://www.upwork.com/jobs/Scraping-amazon-data_~01eba3da6075a22088?source=rss
+tools, Google Sheets Automation & API Integration ,"""We're need an integration of 3 differents files: 
+ 
+1) The Database file 
+              a) Our assitances will introduce some information from a Google Form, the most important data intruduced will be the ASIN; 
+              b) On a different Tab; from these ASIN we need to fetch using the keepa api the following information: 
+Image, Brand, Size, Color, Link to Amazon, Buy Box, Buy Box: 90 days avg., Buy Box: Min, Buy Box: Max and Category 
+              c) We also will introduce more information, the most important there will be the ""Status"" and can be ""Approved"" or ""Denied"" 
+ 
+2) The Second file = ""Approved"" 
+This file will be a filter with a query, only ""Approved"" products from the Databes file will be displayed. 
+On this file, we will introduce 2 new columns, the most important will be ""Client"" (from a list) 
+ 
+3) The third file = ""Shopping List - Client 1 and 2"" // ""Shopping List - Client 3 and 4""""",https://www.upwork.com/jobs/Python-Web-Scraping-Crawling-Google-Sheets-Automation_~01ad5f9122564faa2b?source=rss
+data, Scrape 250 products from csv to ebay store  ,"""Bulk upload 250 products from csv to ebay store. my budget is small but if you can do the project perfectly it will lead to long time job . 
+Thanks""",https://www.upwork.com/jobs/Scrape-250-products-from-csv-ebay-store_~01cef023401fec0668?source=rss
+tools, Data Extraction / Scraping from websites ,"""Hi there 
+ 
+We would need someone who can help us get Data from two different websites and export it as cdv files so we can import them into our CRM system.  
+ 
+Kind, Bujar""",https://www.upwork.com/jobs/Data-Extraction-Scraping-from-websites_~01ba22587b5ec7a71b?source=rss
+tools, Website/Database Scraping Program ,"""I am a realtor and use the multiple listing service (MLS) database to search for properties for my clients. I need an experienced developer/programmer to build a tool/program to scrape this database and export the information into a Google Sheet file. 
+ 
+I recorded a quick video outlining the process and objectives. 
+ 
+ 
+ 
+Feel free to respond with a realistic budget and timeline for this project. I have hired a freelancer on Upwork in the past to do a similar project so I have a rough idea of what it should take. 
+ 
+I look forward to working with the right freelancer to complete this project! 
+ 
+Thank you, 
+Luke""",https://www.upwork.com/jobs/Website-Database-Scraping-Program_~019e6ca05d1600200e?source=rss
+tools, Google Data Studios for Ecommerce ,"""We're an ecommerce company that is in need of a simple Google Data Studios report to be set up and connect the following platforms for quick reading: 
+ 
+Shopify 
+Klayvio 
+Marsello (shopify app) 
+Facebook Business Manager 
+Pinterest Business Manager 
+Post Pilot (shopify app) 
+Google Ads 
+ 
+The goal is to provide the CEO with a live & up to date page to see top level numbers quickly.""",https://www.upwork.com/jobs/Google-Data-Studios-for-Ecommerce_~0183444afddbc6b10a?source=rss
+tools, E-shop product pages scrape ,"""To create a weekly procedure for scraping specific product information from a specific web shop, such as product number, title, description, material, price, etc.""",https://www.upwork.com/jobs/shop-product-pages-scrape_~01b35e3215f273ed46?source=rss
+tools, Scraping from 3 sites and import in woocommerce ,"""We have 3 different B2B vendors who display catalogs for the various eyewear brands we sell. 
+We would like to connect to these 3 different sites (which are not public but have login with user and password) and extract all the catalog and then upload it to woocommerce. 
+ 
+I would prefer that the scraping of the sites is done via PHP and the credentials of the sites were managed by the Wordpress backend.""",https://www.upwork.com/jobs/Scraping-from-sites-and-import-woocommerce_~014f51e0d34c66a8cb?source=rss
+tools, Scrape productdata from external magento webshop into woocommerce ,"""I am building a new woocommerce website, and I would like to scrape the productdata from an external magenta website.  I am not the owner of the external website.  
+ 
+The scraping might be required weekly or monthly. The data that I need is: 
+ 
+-Product description 
+-Product images 
+-Product attributes 
+-Stock 
+-Price (increased +15%) 
+etc. 
+ 
+On the external website prices are hidden untill you login, I do have an account for that.  
+ 
+ 
+ 
+ 
+""",https://www.upwork.com/jobs/Scrape-productdata-from-external-magento-webshop-into-woocommerce_~01b81a1b9c2e2c937e?source=rss
+data, Data extraction - All products from a website ,"""Hi,  
+ 
+I'd like to get all the product information for every product of this website :   
+ 
+You'll fin attached an exemple of the information for these 2 products :  
+ 
+ 
+ 
+Let me know if you have any question. 
+Thanks in advance,  
+Marie-Ange""",https://www.upwork.com/jobs/Data-extraction-All-products-from-website_~01159fb6cb46103f86?source=rss
+tools, Shopify App Store Directory ,"""Hi, 
+ 
+I'm working on a new project to target Shopify App Store developers and need to get the list of App Store developers into my CRM system. 
+ 
+The directory to scrape is  
+ 
+I've created a spreadsheet with all of the fields that I need to scrape which can be found at:  
+ 
+ 
+The only element which might be tricky is the pricing plans as there may be a variable amount.  I've tried to outline which page elements to use to find these in the spreadsheet above. 
+ 
+Let me know if this looks like something that could be done quickly.  I'm hoping to have this by end of the week. 
+ 
+Thanks, 
+Chris""",https://www.upwork.com/jobs/Shopify-App-Store-Directory_~01d2220254357e28e2?source=rss
+tools, Amazon Scraper Website ,"""The project is about a simple portal that extracts and publishes seller ratings and products.  
+ 
+Reference :https://www.sellerratings.com/amazon/india/goindiaorganic-health-products 
+ 
+ 
+A scraper shall be able to scrape sellers for a combination of  
+ 
+Amazon Region + Category 
+ 
+and extract / interpret information as per the reference page.  
+In particular it should scrape and display 
+1) reviews, ratings 
+2)Selling since 
+3)Brands that a seller sells 
+4) Offers Prime or not 
+5) Seller Rank based on the change in the number of reviews  
+6) Seller ID based contact us page - (link removed) 
+7) List of all products sold by the seller with main image and product name linked to their Amazon URLs  
+8) Create list of similar sellers 
+9) PHP based frontend to list all pages and country specific search as per reference link. 
+ 
+ 
+""",https://www.upwork.com/jobs/Amazon-Scraper-Website_~01379709ffda34c005?source=rss
+data, Need to scrape product from a website ,"""Hello, 
+ 
+I need your help  to scrape product data from the following pages (see attachment) 
+ 
+Please provide me information: 
+Category 
+Sub Category 1 
+Title 
+Supplier/Brand 
+URL 
+Image URL 
+Price at site 
+Product Code 
+Number of variants (Color/Size/etc, if any) 
+ 
+Please let me know if you're available Thanks""",https://www.upwork.com/jobs/Need-scrape-product-from-website_~01151e9e3bc8aff2c6?source=rss
+tools, Scrape productdata from external magento webshop into woocommerce ,"""I am building a new woocommerce website, and I would like to scrape the productdata from an external magenta website.  I am not the owner of the external website.  
+ 
+The scraping might be required weekly or monthly. The data that I need is: 
+ 
+-Product description 
+-Product images 
+-Product attributes 
+-Stock 
+-Price (increased +15%) 
+etc. 
+ 
+On the external website prices are hidden untill you login, I do have an account for that.  
+ 
+ 
+ 
+ 
+""",https://www.upwork.com/jobs/Scrape-productdata-from-external-magento-webshop-into-woocommerce_~01b81a1b9c2e2c937e?source=rss
+data, Extract website data tool - eCommerce ,"""Requirement 
+This is only for 3 websites that we want to scrape. 
+ 
+a basic web page where we can put a url and measurement 
+ 
+example  
+abc.com/products123 
+measurement - dropdown (ml/gram/litre/kg) 
+ 
+the link will identify what we need to scrape information such as 
+ 
+1. Full price 
+2. discounted price 
+3. title of the product 
+4. product details 
+ 
+and etc. 
+ 
+output csv.""",https://www.upwork.com/jobs/Extract-website-data-tool-eCommerce_~010885738f56007e1c?source=rss
+tools, Custom Shopify App Developer ,"""We have a custom item that has loads of customization/inputs from the customer.  
+ 
+This app will basically become a landing page that shows customization/updates as customers are selecting them. 
+ 
+It needs to be smooth, reactive &  should be replicated able on other stores. 
+ 
+Further information will be shared with the right candidate.  
+ 
+Budget is just a benchmark and can be revisited.""",https://www.upwork.com/jobs/Custom-Shopify-App-Developer_~01edd70dbcec030249?source=rss
+tools, Amazon Scraping bot ,"""Looking for a developer to create an amazon scraping bot, looking for someone who has had experience in automation. 
+ 
+Start early as possible.""",https://www.upwork.com/jobs/Amazon-Scraping-bot_~01af175488cd6c8460?source=rss
+tools, Ebay scraper for completed listings ,"""Deliverable is code to scrape ebay produces raw html and captures listing images""",https://www.upwork.com/jobs/Ebay-scraper-for-completed-listings_~01887c36f3cafb04ed?source=rss
+tools, Zillow Scraper using API ,"""I need a Zillow scraper capable of scraping details of around 2k rental properties each week. Rate is negotiable. To increase chances of getting an interview, please tell us about  your past experience on similar projects.""",https://www.upwork.com/jobs/Zillow-Scraper-using-API_~013d7188db8d504e58?source=rss
+data, eCommerce Website Data Scrape ,"""eCommerce Website Data Scrape (including product details & Pricing) from vapeandgo[dot]co[dot]uk in CSV format attached.  
+ 
+Point to keep in mind:  
+- The data has to be in the attached format only.  
+- Scrape all URLs / Products (including color options / tags / Categories & price)  
+- According to pages / pagination""",https://www.upwork.com/jobs/eCommerce-Website-Data-Scrape_~0189e2116475fee38f?source=rss
+tools, Web Crawler and Scrapper ,"""We are looking for an crawler and scrapper that would discover existing ecommerce websites and sort them by their major keywords, or their products. The websites we are looking at run the shopify, wix, and squarespace frameworks. Components would potentially require a crawler, a scrapper, an indexer, a ranker, and a query parser. Let us know if you are interested in work with us.""",https://www.upwork.com/jobs/Web-Crawler-and-Scrapper_~011bbeaf3555c62b1e?source=rss
+tools," Retrieve Active Listings From eBay (more than 2,000,000 listings) ","""I am looking for someone to create a small desktop based program that uses the eBay API to retrieve all my active listings from ebay. We have in excess of 2,000,000 listings on different wordwide ebay sites. The eBay File Exchange will only download 1,000,000 at any one time. The fields we need retrieving are Item ID, Custom Label and eBay Site. The program should be able to output the result in either excel, csv or text format.""",https://www.upwork.com/jobs/Retrieve-Active-Listings-From-eBay-more-than-000-000-listings_~018eacaea17387970b?source=rss
+tools, Automated Scrapping and Upload to Wordpress ,"""i own an online Vitamin Store and need 100 products, photos, descriptions and nutritional information scrapped from Amazon and imported into my Wordpress site.""",https://www.upwork.com/jobs/Automated-Scrapping-and-Upload-Wordpress_~01a0841449bfadb66f?source=rss
+data, Scrap product data from online stores ,"""I would need to extract some data from all the products belonging to the ""Furniture"" category, from the following online stores: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The data needs to be extracted in: 
+- Google Sheet or  
+- Excel.  
+ 
+For each product, I would need the following 5 data (see template for an example): 
+ 
+- 1. Product category (indicated in the menu of the product page) 
+- 2. Product sub-category (indicated in the menu of the product page) 
+- 3. Product name 
+- 4. Retail Price 
+- 5. Product URL 
+ 
+See attached template. 
+ 
+Please contact me for more details.  
+ 
+Pierre""",https://www.upwork.com/jobs/Scrap-product-data-from-online-stores_~015e31d556ffda0e26?source=rss
+data, Amazon data scraper python ,"""I need a developer who can gather product data through an api or scrape the website. 
+ 
+I would need various things like the sku, upc, price, and review data.""",https://www.upwork.com/jobs/Amazon-data-scraper-python_~017f50e1ee205a8741?source=rss
+data, Data scraping from a fashion retailers website ,"""The task is to scrape data (reviews) from a fashion retailers website. The selected freelancer will be given detailed information. The task needs to be done by 9am Central European Time on Monday, March 7th.""",https://www.upwork.com/jobs/Data-scraping-from-fashion-retailers-website_~0154eb1ccd5bcb7167?source=rss
+tools, Shopify Ecommerce Store Integration With Suppliers Website ,"""We are looking for someone to set up a system to web scrape our supplier's website to pull the data from their products (Titles, Photos, Descriptions, Inventory Count, Etc.) and push that data into our Shopify storefront as products. We also have an entire Spreadsheet with product data (excluding product photos) 
+ 
+The supplier's website is password protected. We obviously have an official account with them and permission to scrape the data. 
+ 
+I can explain more in messages and provide you links to the websites to make things more clear.""",https://www.upwork.com/jobs/Shopify-Ecommerce-Store-Integration-With-Suppliers-Website_~011faefa9852e435b4?source=rss
+data, Extract prices from e-commerce website ,"""I am looking to extract prices of products listed in an excel sheet. I have a list of over 1000 items, and need to to know the prices from eBay. I am looking for price scrapping.""",https://www.upwork.com/jobs/Extract-prices-from-commerce-website_~01398a5516084740d6?source=rss
+tools, Web scrape ecommerce store with python ,"""Summary: Create a python script to get new clothing products from online stores and add to MySQL table, update existing MySQL products in table if necessary. 
+ 
+Please see link below for detailed requirements.  
+ 
+ 
+ 
+Delivery: 1 python file for each store. Each python file must complete both tasks described in document.""",https://www.upwork.com/jobs/Web-scrape-ecommerce-store-with-python_~010ac98c66183d4dc0?source=rss
+data, Data scraping from a fashion retailers website ,"""The task is to scrape data (reviews) from a fashion retailers website. The selected freelancer will be given detailed information. The task needs to be done by 9am Central European Time on Monday, March 7th.""",https://www.upwork.com/jobs/Data-scraping-from-fashion-retailers-website_~01ab34fb5483004b2b?source=rss
+leads, Data scrape Ebay and Amazon sellers ,"""We are looking to extract seller information per category from Ebay and Amazon sellers in order to offer them our replacement products. 
+ 
+Data needs to include where possible: 
+Name 
+Business 
+Address 
+Postcode 
+Tel No 
+Email  
+""",https://www.upwork.com/jobs/Data-scrape-Ebay-and-Amazon-sellers_~011fbb29564c33e0e7?source=rss
+tools, Website Scraper-for Shopify ,"""Looking for a scraper to help add new product to our eyewear site. Each product has several variants that will need placed in the correct excel csv format. Products will contain different things like size and color. We can provide a sample spreadsheet.""",https://www.upwork.com/jobs/Website-Scraper-for-Shopify_~0135aeef2757f988a4?source=rss
+tools, Web Scraping - Code Matching and Pulling Features ,"""We have an Excel Sheet of product codes , and a vendor website where we need to input these excel codes into the search bar, choose the product, and extract the vendor code that is showing on their side. We also would like to have the features, images, description of these products too. Please let me know if this is something that you can help with. Thanks!""",https://www.upwork.com/jobs/Web-Scraping-Code-Matching-and-Pulling-Features_~01b3419935a4deebf9?source=rss
+data, Collect Amazon reviews using data Scrapper ,"""Need to collect Amazon reviews and then transform the data into the required format (file attached).""",https://www.upwork.com/jobs/Collect-Amazon-reviews-using-data-Scrapper_~0174b90a0b544c3dbc?source=rss
+tools, Scraping a website ,"""Hello, 
+ 
+I need an expert to scrap 1 million products to a new bigcommerce website, and to scrap daily price, stock. 
+ 
+Thanks""",https://www.upwork.com/jobs/Scraping-website_~01a69802380fe30ebe?source=rss
+data, Data Scrape Amazon Sellers ,"""We are looking to extract seller information per category from Amazon sellers in order to offer them our services. 
+ 
+Data needs to include where possible: 
+Name 
+niche category 
+Email 
+Amazon listings/ amazon stores 
+Website 
+ 
+Please put the proposals with sample data thanks""",https://www.upwork.com/jobs/Data-Scrape-Amazon-Sellers_~01a8b897f99d344710?source=rss

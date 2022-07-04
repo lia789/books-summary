@@ -1,0 +1,428 @@
+jobs_type,title,jobs_text,URLs
+data, Competitor Price Scrape ,"""Hi,  
+ 
+I need a price scrape on one of our competitors sites. Its on 33k product sku's I have the data in a google sheets and its from one website, which i will share at point of contact, looking to get this data in the next 2-5 days. see attached data i have for products being scrape. 
+ 
+The only data i need from the competitor site, is price.""",https://www.upwork.com/jobs/Competitor-Price-Scrape_~019434f9ff739b85f3?source=rss
+tools, Scrape Property Website for Data and Build Dashboard  ,"""I would like to scrape a property website for all data including picture, price, address, number of rooms and all data in between. 
+ 
+This data needs to be extracted to a CSV file as well as a database of your choosing. 
+ 
+Once data is collected, I would like to see the data visualised in a dashboard.  
+ 
+Bonus(not necessary), if we can set up a pipeline so that data can be scraped and pulled every week. The dashboard will be automatically updated every week. 
+ 
+This has to be done in Python, and dashboarding tool of your choice.""",https://www.upwork.com/jobs/Scrape-Property-Website-for-Data-and-Build-Dashboard_~01abc5336214d5fb6f?source=rss
+leads, Web scraper required for Canadian real estate ,"""We are looking to generate leads on the Canadian real estate market. As part of the lead generation process, we are looking to scrape recent sales data from a website. Information that we will require will include, but is not limited to:  
+ 
+- Address 
+- Most recent transaction date 
+- Transaction sales price 
+- Current estimated home value 
+ 
+For this specific site, the complexities include: 
+ 
+- You need to be logged in to the site 
+- You need to navigate to the page by inputting the address 
+- You need to capture data from specific sections on the site 
+ 
+We are looking for someone who has worked with and/or created various web scraping tools to generate this data, and are familiar with processes for deduplicating and cleansing lead lists.""",https://www.upwork.com/jobs/Web-scraper-required-for-Canadian-real-estate_~01fbb0f22c0c9ac01e?source=rss
+tools, Data Scraping Tool for my MLS Services- Real Estate   ,"""I'm looking for a simple spreadsheet build that can scrape data from my MLS service providers at the push of a button. I need a system built that will log into all markets, pull the listings into excel, based on equity available. It will find the listing price of a new listing and pull in Zillow Data, Redfin Data, and Realtor.com data and average those to create an estimated home value. Then I can have the daily listings specific to my business model compared to the average ARV (after repair value) I'm trying to get the new listings bubbled up to the top so that we don’t have to do it manually and i'll be able to pick the top 10-20 listings in each market that are listed daily. This is for my home flipping business. I'm looking for the cheaper distressed homes and list price VS the average of the big 3 sites named above could be a great indicator of a great equity position. This may be able to be done without using my MLS and just using Zillow in each city for newly listed properties. I’m not great with this kind of stuff so looking to bounce ideas off of someone that well versed in this type of work. I work in DFW, Houston, Waco, and Birmingham, AL. Thanks!""",https://www.upwork.com/jobs/Data-Scraping-Tool-for-MLS-Services-Real-Estate_~01a9b9245048ad1abf?source=rss
+data, Web scraping Project  - Property Data extraction  ,"""Good afternoon, I am in need of a scraper built to pull property data from a county website. I need to be able to input property addresses into a column in Excel and have the scraper pull data from the webpage which shows details for that property. I need the scraper to be able to pull at least 500 -1000 addresses at a time and provide a quick return of data.   
+ 
+Please let me know your availability and/cost to help with this project. 
+""",https://www.upwork.com/jobs/Web-scraping-Project-Property-Data-extraction_~0190307b84a5622f68?source=rss
+tools," Web Scraping, Structured Data Output, and Maintenance - Real Estate Sites ","""We need daily scraping of a real estate site that includes: 
+-around 10 property data points  
+- five property images.  
+ 
+The last pull we did included 50k-100k properties to give you a sense of scope.  
+ 
+We need these data points to be in a JSON file that is uploaded to our S3. A part of this scope is maintenance and management of the scraper considering real estate sites tweak their structures about 5-7x per month. 
+""",https://www.upwork.com/jobs/Web-Scraping-Structured-Data-Output-and-Maintenance-Real-Estate-Sites_~015daf0ea1fb442435?source=rss
+tools, Data Scraping Tool for my MLS Services- Real Estate   ,"""I'm looking for a simple spreadsheet build that can scrape data from my MLS service providers at the push of a button. I need a system built that will log into all markets, pull the listings into excel, based on equity available. It will find the listing price of a new listing and pull in Zillow Data, Redfin Data, and Realtor.com data and average those to create an estimated home value. Then I can have the daily listings specific to my business model compared to the average ARV (after repair value) I'm trying to get the new listings bubbled up to the top so that we don’t have to do it manually and i'll be able to pick the top 10-20 listings in each market that are listed daily. This is for my home flipping business. I'm looking for the cheaper distressed homes and list price VS the average of the big 3 sites named above could be a great indicator of a great equity position. This may be able to be done without using my MLS and just using Zillow in each city for newly listed properties. I’m not great with this kind of stuff so looking to bounce ideas off of someone that well versed in this type of work. I work in DFW, Houston, Waco, and Birmingham, AL. Thanks!""",https://www.upwork.com/jobs/Data-Scraping-Tool-for-MLS-Services-Real-Estate_~01a9b9245048ad1abf?source=rss
+data, Scarp all the address on an interactive map ,"""This is the link I want data from 
+ 
+ 
+This is an interactive map of Macau. 
+ 
+In this map, you will find a lot of buildings. 
+ 
+And for each building, this is the info that I want. 
+ 
+I will use the building 新葡京 | GRAND LISBOA as an example, you can put this into the search bar on the top of the screen. 
+ 
+Data I want 
+Chinese Building Name: 新葡京 
+English Building Name: (if any) 
+Portuguese Building Name:  GRAND LISBOA (if any) 
+ 
+Chinese Street Address (There might be multiple entries) : 商業學校街, 殷皇子大馬路, 葡京路  
+English Street Address: (if any) 
+Portugese Street Address (There might be multiple entries): Rua da Escola Comercial, Avenida do Infante D. Henrique, Avenida de Lisboa   
+ 
+Chinese Parish: 大堂區 
+Portuguese Parish: Sé 
+English Parish: (if any) 
+ 
+Chinese Statistical District: 中區 
+Portuguese Statistical District: Baixa de Macau 
+English Statistical District: (if any) 
+ 
+ 
+I would prefer the output to be in .xml or .csv""",https://www.upwork.com/jobs/Scarp-all-the-address-interactive-map_~012919c6b62c6522eb?source=rss
+data, Web Scraping- Scrape data from zillo ,"""I need someone for data scrape from Zillo. I need property name, price, location, phone etc.""",https://www.upwork.com/jobs/Web-Scraping-Scrape-data-from-zillo_~018b373e5a867ec171?source=rss
+tools, Web Scrapping Real Estate websites ,"""1) Web Scrap the 3 realestate websites below: 
+ 
+Technical aim is to: 
+A) Produce report on a full list of listings for each section of Buy + SOLD 
+B) On a daily basis produce report on a list for each of new, updated, deleted for Buy + SOLD 
+The business goal is to monitor the movement of the listings from being listed to sold, our end user can see the full list""",https://www.upwork.com/jobs/Web-Scrapping-Real-Estate-websites_~01d621ee8805bf8615?source=rss
+tools, Seeking Developer/Programmer to Build Automated Real Estate Data Extraction Tool ,"""My team is looking to hire a developer to build out a web scraper that will allow us to automate the process of populating property ownership information into spreadsheets from local government websites in various counties in my area. 
+ 
+This data will be used within our real estate investing business to market to homeowners in order to identify those in need of selling their properties. 
+ 
+All relevant information, websites and spreadsheet templates will be provided.""",https://www.upwork.com/jobs/Seeking-Developer-Programmer-Build-Automated-Real-Estate-Data-Extraction-Tool_~013beaef56ca34afbd?source=rss
+leads, Scrape emails from website  ,"""Hi, I would like someone to extract/scrape the emails of all the real estate brokers who have listings on this website: (link removed) 
+ 
+I need an excel or CSV with the broker's 1. first name, 2. last name, and 3. email address.""",https://www.upwork.com/jobs/Scrape-emails-from-website_~018b7c0a10d614aae6?source=rss
+data, Need a website scrapped for products ,"""Hi i need data scrapped from website (link removed)/ - All products categories and sub categories products images description and price which will be uploaded on woo commerce or if you suggests a better platform capable to handle this much of products and is easy to manage in future. 
+ 
+Please submit proposal if you have worked on something like this with example and we will than proceed ahead.""",https://www.upwork.com/jobs/Need-website-scrapped-for-products_~01c422b55abe1e5cef?source=rss
+data, Scraping a website for housing data  ,"""Scrape website for housing data and organise in a google sheet.  
+ 
+This is our first time scraping websites so would like to find someone experienced in scraping""",https://www.upwork.com/jobs/Scraping-website-for-housing-data_~014bef970af6e2bcc5?source=rss
+leads, Scrape emails from website  ,"""Hi, I would like someone to extract/scrape the emails of all the real estate brokers who have listings on this website: (link removed) 
+ 
+I need an excel or CSV with the broker's 1. first name, 2. last name, and 3. email address.""",https://www.upwork.com/jobs/Scrape-emails-from-website_~018b7c0a10d614aae6?source=rss
+tools, Seeking Developer/Programmer to Build Automated Real Estate Data Extraction Tool ,"""My team is looking to hire a developer to build out a web scraper that will allow us to automate the process of populating property ownership information into spreadsheets from local government websites in various counties in my area. 
+ 
+This data will be used within our real estate investing business to market to homeowners in order to identify those in need of selling their properties. 
+ 
+All relevant information, websites and spreadsheet templates will be provided.""",https://www.upwork.com/jobs/Seeking-Developer-Programmer-Build-Automated-Real-Estate-Data-Extraction-Tool_~013beaef56ca34afbd?source=rss
+data, Web Scraping- Scrape data from zillo ,"""I need someone for data scrape from Zillo. I need property name, price, location, phone etc.""",https://www.upwork.com/jobs/Web-Scraping-Scrape-data-from-zillo_~018b373e5a867ec171?source=rss
+data," Data Scraping, run searches to query and scrape results ","""Looking to scrape/query home.co.uk to pull off statistics of various postcodes, around 2,000 queries need to be made and several data points captured for each""",https://www.upwork.com/jobs/Data-Scraping-run-searches-query-and-scrape-results_~01bc6558f231edc193?source=rss
+data, Looking to extract data from real estate website via Python or Bash ,"""Goals: 
+1) Extracting data from (link removed) 
+2) Extracting house price, bedrooms, bathrooms, time on the market, city 
+3) Output in a table-like format (output to STDOUT preferred, no file output) 
+4) All listings should be extracted, not just the first page""",https://www.upwork.com/jobs/Looking-extract-data-from-real-estate-website-via-Python-Bash_~01b744fbca74b97f00?source=rss
+data, Data scraping ,"""Scrape property pricing as directed in the instructions""",https://www.upwork.com/jobs/Data-scraping_~01250d3257d2ca4fe1?source=rss
+data, Data collection & annotation of real estate images ,"""We are building a deep learning-based system for enhancing the sky in outdoor real estate images. We already have a a baseline system and are looking to build a test dataset on which we can evaluate our system on. 
+ 
+Our baseline system makes errors on some edge cases & we are looking to specifically collect images containing these edge cases. Some of these cases include when the images contain small branches or white roof or posts/antenna/fences. 
+ 
+Initially we are looking for 100 images + data annotation. Later on, want to increase this to several thousand depending on how well the first phase goes in terms of how easy/fast/cheap it is to collect these images.""",https://www.upwork.com/jobs/Data-collection-amp-annotation-real-estate-images_~015056cabacce79278?source=rss
+data, Web scraping and data extraction ,"""I need a list of all real estate agencies in UK that deal with property sales. I have this link with 7055 agencies:  
+ 
+ 
+If you have other sources from where it is easier for you to scrap the data, you can use that.  I will need: agency name, email and Tel. 
+I need data In excel sheet.  
+Please only apply if you know how to do the process automated. I don't expect you to manually write 7000 contacts""",https://www.upwork.com/jobs/Web-scraping-and-data-extraction_~01aed23cda03d349c3?source=rss
+data, Scrape product characteristics data from retail website ,"""I have a list of approximately 1,000 item numbers corresponding to products sold at a retail store. I need you to find the URL associated with each of these product numbers on the store's website and extract the product characteristics. from each webpage There will be approximately 50 characteristics needing extraction.  
+ 
+The final product should be an Excel (or CSV) file containing, for each item number, the product name and all of the product characteristics. 
+ 
+This should be a relatively simple task for an experienced web scraper.""",https://www.upwork.com/jobs/Scrape-product-characteristics-data-from-retail-website_~0163bc246de0738eee?source=rss
+data, Help us build web scrapers ,"""👋 Hi Freelancers, 
+ 
+We have an exciting problem: scraping 5,000 - 7,000 rental agent websites in the Netherlands. 
+ 
+To do this we've built a tool that allows you to rapidly create web scrapers. The tool is a Google Chrome Extension that you can install in your browser. Then, using a JSON configuration file you can rapidly build web scrapers. 
+ 
+We're looking for people who are able to use this tool to build web scrapers for these rental agent websites. Preferably we would like to work long-term with someone, as getting to know the ins and outs of the tool might take a bit of work. 
+ 
+As a try-out, we want to start with 5 hours of work, and if we're happy with the quality we can make a longer arrangement. 
+ 
+Each rental agent website is slightly different, so we're looking for someone who is able to be creative and find solutions for each rental agent website. Being able to work precisely is a requirement as the data needs to be scraped exactly as it is stated on the website. 
+ 
+Knowledge of the Dutch language is NOT required as our tool works great with Google Translate. 
+ 
+Skills required: 
+ - JSON 
+ - HTML and CSS selectors. 
+ - Regex (regular expressions). 
+ 
+To get a better idea of how the tool works. 
+You can find the documentation + video of our tool here: 
+""",https://www.upwork.com/jobs/Help-build-web-scrapers_~0151b92f1bbd4411f8?source=rss
+leads, Off market real estate listings ,"""I’m looking for a list of of multi unit properties that are off market in two cities in two different states. I would like: address, property type, owner address, phone number and email.""",https://www.upwork.com/jobs/Off-market-real-estate-listings_~01888d4e5dc0e0335d?source=rss
+data, Scape Product Data From A Website ,"""Hi Upworkers! 
+ 
+We're looking for a skilled individual to scrape product data (100 products) from a website and deliver it to us in a format that can be plugged straight into Shopify. 
+ 
+More details about this task will be provided after you are hired. 
+ 
+We look forward to hearing from you. 
+ 
+Kind regards, 
+Tyrone.""",https://www.upwork.com/jobs/Scape-Product-Data-From-Website_~015273cfa795b140a4?source=rss
+tools, I need a Web Crawler for Real Estate Websites ,"""I need a crawler for the ImmobilienScout24, Homegate, Newhome website (all Swiss real estate platforms: 
+Requirements: 
+- The crawler should have the function that advertisements from private customers (no brokers) are displayed. 
+We only want addresses from private customers including phone numbers. 
+- Crawler should display the data as an Excel list after downloading. 
+- No API may be used 
+- The crawler must crawl all pages 
+- All pages must be crawled at least twice a day (hourly would be ideal) 
+- The complete crawler must be handed over to us. The operation of the crawler is carried out by us 
+Important: The crawler must work independently of the platform. The platforms ([login to view URL], Homegate, [login to view URL]) should not be able to ban the crawler (e.g. via the IP, captcha). If this is not technically feasible, please do not submit an offer. You will have to give a guarantee for the unrestricted functionality. Details can be discussed and clarified by message. 
+If you submit an offer, I need the following information from you: 
+• Your references. 
+• Which programming language would you like to use? 
+• How long does it take you to program? 
+• A fixed price, offers with hourly rates will not be considered. 
+• Confirmation that you can give a guarantee for the above-mentioned functionality 
+I will be glad to answer any questions you might have. Thank you very much!""",https://www.upwork.com/jobs/need-Web-Crawler-for-Real-Estate-Websites_~017b4a26d69bf907f3?source=rss
+data, Data Scrape and verification ,"""Check if the property was listed on redfin in the last 3 months. 
+Approximately 1200 records. 
+ 
+""",https://www.upwork.com/jobs/Data-Scrape-and-verification_~010e04de8c8ef6b49c?source=rss
+leads, Scrape Email From Zillow ,"""I need someone to scrape real estate agents emails from Zillow. I will need Realtor Name, Realtor Email Address, Mailing Address, Realtor Phone Number, and the URL of the individual listing attached to the realtor. The results need to be provided in csv format. . I will provide the search areas.""",https://www.upwork.com/jobs/Scrape-Email-From-Zillow_~01cca12043f96faf34?source=rss
+tools, Python Web scrabing Real Estate ,"""We are looking for a Python developer who is familiar with web scraping real estate and already has experience. What projects have you already done? write to us!""",https://www.upwork.com/jobs/Python-Web-scrabing-Real-Estate_~014b68f73b93cf5e3a?source=rss
+data, Urgent | Scrape Zillow Property Link ,"""Hi,  
+I need to get content from Zillow property URL using python requests. 
+ 
+eg 
+ 
+ 
+Simple get request with normal headers was working fine, but it does not anymore and I get a captcha even by using several proxies 
+Using Cookie from browser resolves it but Its not scalable 
+ 
+Need someone to help with it urgently. 
+ 
+Will be great of you could try making a quick get request to above url and fetch the response content before applying""",https://www.upwork.com/jobs/Urgent-Scrape-Zillow-Property-Link_~01a4220f5c6248f995?source=rss
+data, Zillow Data Scraping ,"""I'm looking for the following data to be extracted from Zillow. We need this data from cities in 8 states.  
+ 
+Property Manager	 
+Apartment Name	 
+Property Address	 
+Property City	 
+Property State	 
+Property Zip	 
+Property Manger  
+Phone	 
+Apartment Phone	 
+Number of Units	 
+list-card-price	 
+Year Built	 
+Link""",https://www.upwork.com/jobs/Zillow-Data-Scraping_~01340793d1850bdc5f?source=rss
+data,  Real Estate Data Specialist  ,"""Need to Hire 3 Freelancers  
+ 
+Looking to bring on a hungry and detailed oriented Data specialist who can provide 5-6/hrs a day. This team member must be willing to learn and pay attention to detail.  
+ 
+Training and coaching will be provided by company. If all goes well, our goal is to make this a full-time opportunity with the ability to be promoted. 
+ 
+Candidate must be an individual freelancer, and not apart of a TEAM or AGENCY (Zero Tolerance). 
+ 
+Hours: 
+•	9am-1pm EST 
+•	3pm- 7pm EST 
+ 
+Duties: 
+•	Managing Data wit dialers (Call tools, Air call) 
+•	Ability to navigate a CRM 
+•	Data Entry  
+•	Basic Sales Skills (Objection Handling) 
+ 
+Skilled Required: 
+•	Minimum of 1+ years of experience with customer service or cold calling (Inbound or Outbound) 
+•	WPM of 45 or higher (Typing test will be given) 
+•	Fluent in English. Both oral and written 
+ 
+Bonus Skills: 
+ 
+Real Estate Experience 
+Data Management Experience 
+Data Entry Experience  
+ 
+Must include a 1–3-minute introduction audio file when you apply. In Introduction, please talk about why you are the best fit for this position and What your favorite color is. If you miss this step, you will be declined.  
+""",https://www.upwork.com/jobs/Real-Estate-Data-Specialist_~016268ca19f49f584a?source=rss
+data, Scrape Data from property portals ,"""Hi, 
+ 
+We are looking to scrape data from a number of property portals and bring the data into our system. 
+ 
+We have already successfully done this before and have an internal tech team to assist but need a dedicated resource that can extract and centralize the data so that we can run this on a monthly basis.""",https://www.upwork.com/jobs/Scrape-Data-from-property-portals_~015922882545db3ca9?source=rss
+tools, Software Tool To Extract Data  ,"""Create a tool to extract data from a local sheriff sale to connect to Zillow to pull data then extract to a spread sheet.  """,https://www.upwork.com/jobs/Software-Tool-Extract-Data_~01f1c78dd872d28d0b?source=rss
+data, Wholesale Real Estate Data Scraping ,"""- Extract wholesale leads 
+ 
+If you have any experience in wholesaling. There may be other opportunities as well.""",https://www.upwork.com/jobs/Wholesale-Real-Estate-Data-Scraping_~01d20daeb8f03fd55b?source=rss
+tools, Scraping real-estate websites  ,"""We are trying to build a reverse db from real estate portal, we are interested in scraping all the listing and their attributes.  
+ 
+the project's aim is to create a repeated scraping (daily) system to collect / update all listing from the following website   into a well defined database.  
+""",https://www.upwork.com/jobs/Scraping-real-estate-websites_~016c7d28ba14858241?source=rss
+tools, Scraping from 3 sites and import in woocommerce ,"""We have 3 different B2B vendors who display catalogs for the various eyewear brands we sell. 
+We would like to connect to these 3 different sites (which are not public but have login with user and password) and extract all the catalog and then upload it to woocommerce. 
+ 
+I would prefer that the scraping of the sites is done via PHP and the credentials of the sites were managed by the Wordpress backend.""",https://www.upwork.com/jobs/Scraping-from-sites-and-import-woocommerce_~014f51e0d34c66a8cb?source=rss
+data,  Real Estate Data Specialist  ,"""Need to Hire 3 Freelancers  
+ 
+Looking to bring on a hungry and detailed oriented Data specialist who can provide 5-6/hrs a day. This team member must be willing to learn and pay attention to detail.  
+ 
+Training and coaching will be provided by company. If all goes well, our goal is to make this a full-time opportunity with the ability to be promoted. 
+ 
+Candidate must be an individual freelancer, and not apart of a TEAM or AGENCY (Zero Tolerance). 
+ 
+Hours: 
+•	9am-1pm EST 
+•	3pm- 7pm EST 
+ 
+Duties: 
+•	Managing Data wit dialers (Call tools, Air call) 
+•	Ability to navigate a CRM 
+•	Data Entry  
+•	Basic Sales Skills (Objection Handling) 
+ 
+Skilled Required: 
+•	Minimum of 1+ years of experience with customer service or cold calling (Inbound or Outbound) 
+•	WPM of 45 or higher (Typing test will be given) 
+•	Fluent in English. Both oral and written 
+ 
+Bonus Skills: 
+ 
+Real Estate Experience 
+Data Management Experience 
+Data Entry Experience  
+ 
+Must include a 1–3-minute introduction audio file when you apply. In Introduction, please talk about why you are the best fit for this position and What your favorite color is. If you miss this step, you will be declined.  
+""",https://www.upwork.com/jobs/Real-Estate-Data-Specialist_~016268ca19f49f584a?source=rss
+tools, Setup Web Srapping for a real estate website ,"""We would like to setup a web scrapper for an Australia real estate listing website which will pull into google sheets. 
+ 
+The parameters we would like to scrap include; 
+ 
+address - broken into 3 columns (street, suburb and postcode) 
+price 
+bedroom 
+bathroom 
+carspace 
+land size 
+property type 
+listing url 
+Listing Description - We would look to capture all of the description but if we can setup an ability to highlight key words that would be helpful. 
+ 
+Depending on the skills of the individual, I would look to setup columns for each row which scrape based on the suburb, property type, bedroom, bathroom and carapace, the average priced and rent. 
+ 
+We would like this fully automated so we just need to open the google sheet and review the data. 
+ 
+Flexible on price, please just quote what you think is appropriate.""",https://www.upwork.com/jobs/Setup-Web-Srapping-for-real-estate-website_~0173c7e51f223fb13e?source=rss
+tools, Zillow scraping script to Google Sheets ,"""NOT TIME WASTERS PLEASE OR I WILL REPORT YOU 
+ 
+Please apply only If you have previous experience with the website: 
+ 
+I need a script to scrape results from Zillow to a Google Sheets: 
+ 
+✅ Auto Trigger every 24 hours 
+✅ 4 Links to be scrapped on daily basis (Newest properties only) 
+✅ Data to scrape  (Address, phone number, and estimation) 
+ 
+⚠️Previous experience is mandatory to understand how to bypass all barriers (captcha...) 
+⚠️Examples are highly recommended""",https://www.upwork.com/jobs/Zillow-scraping-script-Google-Sheets_~01e2a81faf228e2381?source=rss
+tools, Develop scrappers to scrape real estate websites ,"""We are looking to build an automated process that is able to scrape property listings from various portals. 
+We are interested to aggregate information such as listing data, listing price, property details (bedrooms no, bathrooms no), and various other properties. 
+ 
+The scrapers has to be scalable, and easy to configure for new sources - in this case, a source means a new public portal. 
+ 
+The output the scraped information needs to be stored in a database. 
+ 
+We intend to use Python as the primary programming language and MSSQL as the database warehouse.""",https://www.upwork.com/jobs/Develop-scrappers-scrape-real-estate-websites_~0196c8c48f3a2642af?source=rss
+tools, Python Scraper Real Estate website ,"""Python developers below specs: 
+ 
+1)  Scrape real estate data from fazwaz.com as per this URL (city=bangkok, bedrooms=2+, ownership=foreign quota):   .  
+image.png 
+ 
+ 
+2) The app needs to: (a) pick up each listing detail's data on every page AND (b) loop through all the possible pages 
+image.png 
+ 
+ 
+3) On each listing detail's page it needs to scrape the below circled fields: 
+image.png 
+ 
+4) On each Listing Detail's page see if it has a link to ""Project Name"" (some details have link, and other details do NOT have links).  If detail has link, we will go to page in next step: 
+image.png 
+ 
+5) Now we are on the ""Listing Detail's"" Project page, so go to ""Previous Sales"" section (some Project pages have Previous Sales data, other Project pages do NOT have Previous Sale data).  If Previous Sales data is available, then scrape each of the circled fields FOR EVERY ROW.   
+image.png 
+ 
+6) Output the data to XLSX. 
+ 
+ 
+Should be in this environment: Python 3.10, VS Code IDE, PIP package manager, and using Chrome browser. 
+ 
+Attached is an example Python script we can use as a starting template, but we will definitely need to rewrite it. 
+ 
+Attached is an example of the output for one Listing Detail that has five previous sales associations. 
+ 
+***If possible I need to get this project started ASAP, so pls let me know if you have a good and reliable resource that can work on this with me.  Estimate total time between 8-12 hours 
+ 
+I am not a Python programmer, but I do understand about Python interpreters/virtual environments/packages, so I need help understanding how to inspect page objects to build the scraper once the project is completed.""",https://www.upwork.com/jobs/Python-Scraper-Real-Estate-website_~01c9c00659fc351581?source=rss
+tools, Real Estate Bot ,"""We are looking to create a Chat Bot specific to Real Estate agents. Please see realestebots.com.au we want create a bot that offers similar features and services. 
+ 
+We are happy t discuss the project and more details with interested parties. This is an urgent project. 
+ 
+Thanks""",https://www.upwork.com/jobs/Real-Estate-Bot_~01dbb65b24be9dd113?source=rss
+tools, Generate a CSV List From Zillow Listings that fit certain Criteria ,"""Hey there, 
+ 
+I'm looking for someone to scrape zillow.com to find listings that fit a certain criteria. I'm looking to see when a space is listed for rent and then later the listing is removed. It is ok if a price change has happened in between these 2 events (I have attached screenshot examples of when there is a price change between the events, and when there is not a price change between these events - see screenshot 1 and 2).  
+ 
+I want all the home addresses where the listing has been removed within the last year (it must have the criteria of previously been listed for rent). Also if the listing was listed for sale, then the listing was removed, I do not want these to populate (See screenshot 3 for this example).  
+ 
+So again the criteria must be 1 of 2 things. 
+ 
+1) Listed for rent, then price change (its ok if there are multiple), then listing removed 
+2) Listed for rent, then listing removed 
+ 
+I would like to see the following addresses where this criteria fits and the listing has been removed in the last year.  
+ 
+Many of these listings will likely have ""off market"" status on zillow just an fyi 
+ 
+I am looking for a list of these addresses for the following zip codes. 33131, 33129, 33132, 33137 and 33129""",https://www.upwork.com/jobs/Generate-CSV-List-From-Zillow-Listings-that-fit-certain-Criteria_~01aeaf1040c7ce2e10?source=rss
+data, Trendyol.com products scraping to woocommerce ,"""We need an experienced developer to scrape trendyol.com products to our woocommerce website.  
+ 
+developer needs to complete a test for 1 category before being approved for this job.""",https://www.upwork.com/jobs/Trendyol-com-products-scraping-woocommerce_~01118073348cd09661?source=rss
+data, Web scraping for Property Listings  ,"""We are looking for a web scraping installation using any tool that will store the data on cloud , preferably free or cheap options. . 
+ 
+The scraping will extract data from websites and keep checking the websites daily for 30 minutes per day:  
+ 
+Check the property listings ,property ID,OR VEHICLE ID, property name, location , time is scraping , listed price ,  
+ 
+Extracted data should be comparable I’ve time to track the change in listing  
+Also check the re-listing of expired properties  
+ 
+Check the length that a property has been listed .  
+ 
+We intend to track the changes in listed properties  
+ 
+Record the towns of posting.  
+Major towns and suburban areas of the capital city Nairobi Kenya and at least 10 other towns  
+ 
+Rexorr peppery type.  House , mansinettes , townhouse, bungalow, mansions , apartments , no of bedrooms   
+ 
+We track at least 7 major websites. Palmgolding , JUMIA , buyrentkenya, hassconsult , property24, Vaalkenya  
+ 
+Track also the rental properties on sale metric  
+Rent price changes , length of stay on market etc  
+ 
+ 
+ 
+We also intend to run a similar data extraction for second hand vehicle prices and this should extract vehicle models , vehicle date of manufacture, price . Then track price changes over time . The websites to use are : e Jiji.co.ke. ; cheki.co.ke. : gigimotors.co.ke : autocheck.Africa ;  JUMIA.""",https://www.upwork.com/jobs/Web-scraping-for-Property-Listings_~01382eccf46abe1c9a?source=rss
+data, Web scraper needed to mine data from Zillow searches ,"""I need a skilled data miner and web scraper to extract data from Zillow searches for vacant land listings. 
+ 
+The searches will look at both sold and current listings on a county-by-county basis. You'll extract the following data points: 
+ 
+- Price 
+- Acreage  
+- ZIP code 
+- Listed date (sold listings) 
+- Sold date (sold listings) 
+- Time on Zillow (active listings) 
+- Link to Zillow listing 
+ 
+There are typically just a few hundred listings per county, so this will be a smaller task than if you were working on houses.""",https://www.upwork.com/jobs/Web-scraper-needed-mine-data-from-Zillow-searches_~0134bf6861fd288e1e?source=rss
+tools, Web Scraping project ,"""Hello, I am looking for a contractor who can build a scrape tool that can scrape on a daily basis this website data here    
+ 
+Please see attached video for more information.  
+ 
+Thank you 
+ 
+""",https://www.upwork.com/jobs/Web-Scraping-project_~01a08c0fbc0857e6a4?source=rss
